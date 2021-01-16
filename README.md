@@ -12,8 +12,8 @@ Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang). (today)
 - [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider (1 week ago)
-- [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang). (1 week ago)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible (1 month ago)
 - [hashicorp/terraform-provider-docker](https://github.com/hashicorp/terraform-provider-docker) - As part of our introduction to self-service publishing in the Terraform Registry, this copy of the provider has been archived, and ownership has been transferred to active maintainers in the community. Please see the new location on the Terraform Registry: https://registry.terraform.io/providers/kreuzwerker/docker/latest (2 months ago)
 - [mavogel/release-testing](https://github.com/mavogel/release-testing) - Testing like on gitlab https://gitlab.com/mavogel/release-testing (9 months ago)
