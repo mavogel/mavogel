@@ -2,8 +2,6 @@
 
 <img align="right" src="https://raw.githubusercontent.com/mavogel/mavogel/master/assets/xw.png" width="260">
 
-What's this? 🤔 A profile page? Want your own, which gets automatically updated? Check out [readme-scribe](https://github.com/muesli/readme-scribe) from the great [muesli](https://github.com/muesli/muesli)!
-
 I'm Manuel, an open-source enthusiast, active contributor and automation lover. I'm not an author of my own project 
 yet but a maintainer of a bunch of projects. When I see something to be improved, I just do it. When I see a project
 which simplifies my life and the one of many others I use my skills to improve it even more.
