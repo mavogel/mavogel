@@ -11,8 +11,8 @@ Curious what I've been hacking on recently or what I [read](https://www.goodread
 #### 👷 Check out what I'm currently working on
 
 - [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider (2 weeks ago)
-- [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang). (2 weeks ago)
-- [git-chglog/homebrew-git-chglog](https://github.com/git-chglog/homebrew-git-chglog) -  (2 weeks ago)
+- [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang). (3 weeks ago)
+- [git-chglog/homebrew-git-chglog](https://github.com/git-chglog/homebrew-git-chglog) -  (3 weeks ago)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible (2 months ago)
 - [hashicorp/terraform-provider-docker](https://github.com/hashicorp/terraform-provider-docker) - As part of our introduction to self-service publishing in the Terraform Registry, this copy of the provider has been archived, and ownership has been transferred to active maintainers in the community. Please see the new location on the Terraform Registry: https://registry.terraform.io/providers/kreuzwerker/docker/latest (3 months ago)
 
@@ -27,7 +27,7 @@ Curious what I've been hacking on recently or what I [read](https://www.goodread
 #### 🔭 Latest releases I've contributed to
 
 - [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) ([v2.11.0](https://github.com/kreuzwerker/terraform-provider-docker/releases/tag/v2.11.0), 2 weeks ago) - Terraform Docker provider
-- [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) ([v0.10.0](https://github.com/git-chglog/git-chglog/releases/tag/v0.10.0), 2 weeks ago) - CHANGELOG generator implemented in Go (Golang).
+- [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) ([v0.10.0](https://github.com/git-chglog/git-chglog/releases/tag/v0.10.0), 3 weeks ago) - CHANGELOG generator implemented in Go (Golang).
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.155.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.155.0), 3 weeks ago) - Deliver Go binaries as fast and easily as possible
 - [mavogel/release-testing](https://github.com/mavogel/release-testing) ([0.3.38](https://github.com/mavogel/release-testing/releases/tag/0.3.38), 1 year ago) - Testing like on gitlab https://gitlab.com/mavogel/release-testing
 
