@@ -26,7 +26,7 @@ Curious what I've been hacking on recently or what I [read](https://www.goodread
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.155.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.155.1), today) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.155.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.155.1), 1 day ago) - Deliver Go binaries as fast and easily as possible
 - [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) ([v2.11.0](https://github.com/kreuzwerker/terraform-provider-docker/releases/tag/v2.11.0), 2 weeks ago) - Terraform Docker provider
 - [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) ([v0.10.0](https://github.com/git-chglog/git-chglog/releases/tag/v0.10.0), 3 weeks ago) - CHANGELOG generator implemented in Go (Golang).
 - [mavogel/release-testing](https://github.com/mavogel/release-testing) ([0.3.38](https://github.com/mavogel/release-testing/releases/tag/0.3.38), 1 year ago) - Testing like on gitlab https://gitlab.com/mavogel/release-testing
