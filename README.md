@@ -10,7 +10,7 @@ Curious what I've been hacking on recently or what I [read](https://www.goodread
 
 #### 👷 Check out what I'm currently working on
 
-- [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations (5 days ago)
+- [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations (6 days ago)
 - [superwerker/superwerker](https://github.com/superwerker/superwerker) - Open-source solution to automate the setup of an AWS Cloud environment with prescriptive best practices.  (1 week ago)
 - [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider (1 month ago)
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Terraform AWS provider (1 month ago)
@@ -26,9 +26,9 @@ Curious what I've been hacking on recently or what I [read](https://www.goodread
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.158.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.158.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [superwerker/superwerker](https://github.com/superwerker/superwerker) ([v0.9.3](https://github.com/superwerker/superwerker/releases/tag/v0.9.3), 4 days ago) - Open-source solution to automate the setup of an AWS Cloud environment with prescriptive best practices. 
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v3.30.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v3.30.0), 4 days ago) - Terraform AWS provider
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.158.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.158.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [superwerker/superwerker](https://github.com/superwerker/superwerker) ([v0.9.3](https://github.com/superwerker/superwerker/releases/tag/v0.9.3), 5 days ago) - Open-source solution to automate the setup of an AWS Cloud environment with prescriptive best practices. 
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v3.30.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v3.30.0), 5 days ago) - Terraform AWS provider
 - [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) ([v2.11.0](https://github.com/kreuzwerker/terraform-provider-docker/releases/tag/v2.11.0), 1 month ago) - Terraform Docker provider
 - [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) ([v0.10.0](https://github.com/git-chglog/git-chglog/releases/tag/v0.10.0), 1 month ago) - CHANGELOG generator implemented in Go (Golang).
 
