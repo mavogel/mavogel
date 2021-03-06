@@ -26,8 +26,8 @@ Curious what I've been hacking on recently or what I [read](https://www.goodread
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.159.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.159.0), today) - Deliver Go binaries as fast and easily as possible
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v3.31.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v3.31.0), today) - Terraform AWS provider
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.159.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.159.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v3.31.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v3.31.0), 1 day ago) - Terraform AWS provider
 - [superwerker/superwerker](https://github.com/superwerker/superwerker) ([v0.9.3](https://github.com/superwerker/superwerker/releases/tag/v0.9.3), 1 week ago) - Open-source solution to automate the setup of an AWS Cloud environment with prescriptive best practices. 
 - [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) ([v2.11.0](https://github.com/kreuzwerker/terraform-provider-docker/releases/tag/v2.11.0), 1 month ago) - Terraform Docker provider
 - [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) ([v0.10.0](https://github.com/git-chglog/git-chglog/releases/tag/v0.10.0), 1 month ago) - CHANGELOG generator implemented in Go (Golang).
