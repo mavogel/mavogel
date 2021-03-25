@@ -26,7 +26,7 @@ Curious what I've been hacking on recently or what I [read](https://www.goodread
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.161.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.161.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.161.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.161.1), today) - Deliver Go binaries as fast and easily as possible
 - [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) ([v0.13.0](https://github.com/git-chglog/git-chglog/releases/tag/v0.13.0), 2 days ago) - CHANGELOG generator implemented in Go (Golang).
 - [superwerker/superwerker](https://github.com/superwerker/superwerker) ([v0.11.2](https://github.com/superwerker/superwerker/releases/tag/v0.11.2), 2 days ago) - Open-source solution to automate the setup of an AWS Cloud environment with prescriptive best practices. 
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v3.33.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v3.33.0), 1 week ago) - Terraform AWS provider
