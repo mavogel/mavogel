@@ -12,9 +12,9 @@ Curious what I've been hacking on recently or what I [read](https://www.goodread
 
 - [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider (today)
 - [kreuzwerker/pre-commit-golang](https://github.com/kreuzwerker/pre-commit-golang) - kreuzwerker pre-commit hooks for golang (today)
+- [mavogel/go-ssh-forward](https://github.com/mavogel/go-ssh-forward) - A simple library to establish a forward via a jump host in go (today)
 - [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations (1 day ago)
 - [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang). (1 month ago)
-- [goreleaser/acceptance-tests](https://github.com/goreleaser/acceptance-tests) - Acceptance tests setup et al for GoReleaser. (1 month ago)
 
 #### 🌱 My latest projects
 
