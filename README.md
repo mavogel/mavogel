@@ -10,19 +10,19 @@ Curious what I've been hacking on recently or what I [read](https://www.goodread
 
 #### 👷 Check out what I'm currently working on
 
+- [mavogel/go-ssh-forward](https://github.com/mavogel/go-ssh-forward) - A simple library to establish a forward via a jump host in go (today)
 - [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider (1 day ago)
 - [kreuzwerker/pre-commit-golang](https://github.com/kreuzwerker/pre-commit-golang) - kreuzwerker pre-commit hooks for golang (1 day ago)
-- [mavogel/go-ssh-forward](https://github.com/mavogel/go-ssh-forward) - A simple library to establish a forward via a jump host in go (1 day ago)
 - [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations (2 days ago)
 - [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang). (1 month ago)
 
 #### 🌱 My latest projects
 
-- [mavogel/release-testing](https://github.com/mavogel/release-testing) - Testing like on gitlab https://gitlab.com/mavogel/release-testing
 - [mavogel/mavogel.github.io](https://github.com/mavogel/mavogel.github.io) - My portfolio
 - [mavogel/go-ssh-forward](https://github.com/mavogel/go-ssh-forward) - A simple library to establish a forward via a jump host in go
 - [mavogel/ilias-client-lib](https://github.com/mavogel/ilias-client-lib) - Connector library for the Ilias SOAP endpoint
 - [mavogel/dotfiles](https://github.com/mavogel/dotfiles) - My dotfiles
+- [mavogel/simple-city-service](https://github.com/mavogel/simple-city-service) - A simple city service providing additional weather data
 
 #### 🔭 Latest releases I've contributed to
 
