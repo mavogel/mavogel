@@ -16,7 +16,7 @@ In English, Spanish or German...
 
 #### 👷 Check out what I'm currently working on
 
-- [mavogel/go-ssh-forward](https://github.com/mavogel/go-ssh-forward) - A simple library to establish a forward via a jump host in go (6 days ago)
+- [mavogel/go-ssh-forward](https://github.com/mavogel/go-ssh-forward) - A simple library to establish a forward via a jump host in go (1 week ago)
 - [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider (1 week ago)
 - [kreuzwerker/pre-commit-golang](https://github.com/kreuzwerker/pre-commit-golang) - kreuzwerker pre-commit hooks for golang (1 week ago)
 - [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations (1 week ago)
@@ -24,7 +24,7 @@ In English, Spanish or German...
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.164.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.164.0), 6 days ago) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.164.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.164.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [superwerker/superwerker](https://github.com/superwerker/superwerker) ([v0.12.2](https://github.com/superwerker/superwerker/releases/tag/v0.12.2), 1 week ago) - Open-source solution to automate the setup of an AWS Cloud environment with prescriptive best practices. 
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v3.37.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v3.37.0), 1 week ago) - Terraform AWS provider
 - [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) ([v0.14.2](https://github.com/git-chglog/git-chglog/releases/tag/v0.14.2), 1 week ago) - CHANGELOG generator implemented in Go (Golang).
