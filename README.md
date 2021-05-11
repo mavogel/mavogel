@@ -16,11 +16,11 @@ In English, Spanish or German...
 
 #### 👷 Check out what I'm currently working on
 
+- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider (today)
+- [goreleaser/acceptance-tests](https://github.com/goreleaser/acceptance-tests) - Acceptance tests setup et al for GoReleaser. (today)
 - [mavogel/go-ssh-forward](https://github.com/mavogel/go-ssh-forward) - A simple library to establish a forward via a jump host in go (2 weeks ago)
-- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider (2 weeks ago)
 - [kreuzwerker/pre-commit-golang](https://github.com/kreuzwerker/pre-commit-golang) - kreuzwerker pre-commit hooks for golang (2 weeks ago)
 - [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations (3 weeks ago)
-- [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang). (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
