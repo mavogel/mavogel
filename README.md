@@ -17,10 +17,10 @@ In English, Spanish or German...
 #### 👷 Check out what I'm currently working on
 
 - [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider (1 day ago)
+- [awsdocs/aws-codebuild-user-guide](https://github.com/awsdocs/aws-codebuild-user-guide) - The open source version of the AWS CodeBuild docs. You can submit feedback &amp; requests for changes by submitting issues in this repo or by making proposed changes &amp; submitting a pull request. (1 day ago)
 - [superwerker/superwerker](https://github.com/superwerker/superwerker) - Open-source solution to automate the setup of an AWS Cloud environment with prescriptive best practices.  (1 day ago)
 - [goreleaser/acceptance-tests](https://github.com/goreleaser/acceptance-tests) - Acceptance tests setup et al for GoReleaser. (3 weeks ago)
 - [mavogel/go-ssh-forward](https://github.com/mavogel/go-ssh-forward) - A simple library to establish a forward via a jump host in go (1 month ago)
-- [kreuzwerker/pre-commit-golang](https://github.com/kreuzwerker/pre-commit-golang) - kreuzwerker pre-commit hooks for golang (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
