@@ -16,16 +16,16 @@ In English, Spanish or German...
 
 #### 👷 Check out what I'm currently working on
 
-- [mavogel/go-ssh-forward](https://github.com/mavogel/go-ssh-forward) - A simple library to establish a forward via a jump host in go (2 days ago)
-- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider (5 days ago)
-- [superwerker/superwerker](https://github.com/superwerker/superwerker) - Open-source solution to automate the setup of an AWS Cloud environment with prescriptive best practices.  (5 days ago)
-- [awsdocs/aws-codebuild-user-guide](https://github.com/awsdocs/aws-codebuild-user-guide) - The open source version of the AWS CodeBuild docs. You can submit feedback &amp; requests for changes by submitting issues in this repo or by making proposed changes &amp; submitting a pull request. (5 days ago)
+- [mavogel/go-ssh-forward](https://github.com/mavogel/go-ssh-forward) - A simple library to establish a forward via a jump host in go (3 days ago)
+- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider (6 days ago)
+- [superwerker/superwerker](https://github.com/superwerker/superwerker) - Open-source solution to automate the setup of an AWS Cloud environment with prescriptive best practices.  (6 days ago)
+- [awsdocs/aws-codebuild-user-guide](https://github.com/awsdocs/aws-codebuild-user-guide) - The open source version of the AWS CodeBuild docs. You can submit feedback &amp; requests for changes by submitting issues in this repo or by making proposed changes &amp; submitting a pull request. (6 days ago)
 - [goreleaser/acceptance-tests](https://github.com/goreleaser/acceptance-tests) - Acceptance tests setup et al for GoReleaser. (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.169.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.169.0), today) - Deliver Go binaries as fast and easily as possible
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v3.44.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v3.44.0), 2 days ago) - Terraform AWS provider
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.169.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.169.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v3.44.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v3.44.0), 3 days ago) - Terraform AWS provider
 - [superwerker/superwerker](https://github.com/superwerker/superwerker) ([v0.12.4](https://github.com/superwerker/superwerker/releases/tag/v0.12.4), 1 week ago) - Open-source solution to automate the setup of an AWS Cloud environment with prescriptive best practices. 
 - [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) ([v2.12.2](https://github.com/kreuzwerker/terraform-provider-docker/releases/tag/v2.12.2), 1 week ago) - Terraform Docker provider
 - [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) ([v0.14.2](https://github.com/git-chglog/git-chglog/releases/tag/v0.14.2), 1 month ago) - CHANGELOG generator implemented in Go (Golang).
