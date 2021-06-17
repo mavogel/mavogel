@@ -16,7 +16,7 @@ In English, Spanish or German...
 
 #### 👷 Check out what I'm currently working on
 
-- [mavogel/go-ssh-forward](https://github.com/mavogel/go-ssh-forward) - A simple library to establish a forward via a jump host in go (1 week ago)
+- [mavogel/go-ssh-forward](https://github.com/mavogel/go-ssh-forward) - A simple library to establish a forward via a jump host in go (2 weeks ago)
 - [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider (2 weeks ago)
 - [superwerker/superwerker](https://github.com/superwerker/superwerker) - Open-source solution to automate the setup of an AWS Cloud environment with prescriptive best practices.  (2 weeks ago)
 - [awsdocs/aws-codebuild-user-guide](https://github.com/awsdocs/aws-codebuild-user-guide) - The open source version of the AWS CodeBuild docs. You can submit feedback &amp; requests for changes by submitting issues in this repo or by making proposed changes &amp; submitting a pull request. (2 weeks ago)
@@ -24,7 +24,7 @@ In English, Spanish or German...
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v3.45.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v3.45.0), 6 days ago) - Terraform AWS provider
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v3.45.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v3.45.0), 1 week ago) - Terraform AWS provider
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.169.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.169.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [superwerker/superwerker](https://github.com/superwerker/superwerker) ([v0.12.4](https://github.com/superwerker/superwerker/releases/tag/v0.12.4), 2 weeks ago) - Open-source solution to automate the setup of an AWS Cloud environment with prescriptive best practices. 
 - [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) ([v2.12.2](https://github.com/kreuzwerker/terraform-provider-docker/releases/tag/v2.12.2), 3 weeks ago) - Terraform Docker provider
