@@ -24,7 +24,7 @@ In English, Spanish or German...
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.172.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.172.0), today) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.172.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.172.1), today) - Deliver Go binaries as fast and easily as possible
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v3.47.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v3.47.0), 3 days ago) - Terraform AWS provider
 - [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) ([v2.13.0](https://github.com/kreuzwerker/terraform-provider-docker/releases/tag/v2.13.0), 5 days ago) - Terraform Docker provider
 - [superwerker/superwerker](https://github.com/superwerker/superwerker) ([v0.12.4](https://github.com/superwerker/superwerker/releases/tag/v0.12.4), 1 month ago) - Open-source solution to automate the setup of an AWS Cloud environment with prescriptive best practices. 
