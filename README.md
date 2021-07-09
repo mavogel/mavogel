@@ -16,19 +16,19 @@ In English, Spanish or German...
 
 #### 👷 Check out what I'm currently working on
 
-- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider (2 days ago)
+- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider (today)
+- [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang). (today)
 - [goreleaser/acceptance-tests](https://github.com/goreleaser/acceptance-tests) - Acceptance tests setup et al for GoReleaser. (1 week ago)
 - [mavogel/go-ssh-forward](https://github.com/mavogel/go-ssh-forward) - A simple library to establish a forward via a jump host in go (1 month ago)
 - [superwerker/superwerker](https://github.com/superwerker/superwerker) - Open-source solution to automate the setup of an AWS Cloud environment with prescriptive best practices.  (1 month ago)
-- [awsdocs/aws-codebuild-user-guide](https://github.com/awsdocs/aws-codebuild-user-guide) - The open source version of the AWS CodeBuild docs. You can submit feedback &amp; requests for changes by submitting issues in this repo or by making proposed changes &amp; submitting a pull request. (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) ([v0.15.0](https://github.com/git-chglog/git-chglog/releases/tag/v0.15.0), today) - CHANGELOG generator implemented in Go (Golang).
+- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) ([v2.14.0](https://github.com/kreuzwerker/terraform-provider-docker/releases/tag/v2.14.0), today) - Terraform Docker provider
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v3.49.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v3.49.0), 1 day ago) - Terraform AWS provider
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.173.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.173.2), 3 days ago) - Deliver Go binaries as fast and easily as possible
 - [superwerker/superwerker](https://github.com/superwerker/superwerker) ([v0.12.5](https://github.com/superwerker/superwerker/releases/tag/v0.12.5), 3 days ago) - Open-source solution to automate the setup of an AWS Cloud environment with prescriptive best practices. 
-- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) ([v2.13.0](https://github.com/kreuzwerker/terraform-provider-docker/releases/tag/v2.13.0), 2 weeks ago) - Terraform Docker provider
-- [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) ([v0.14.2](https://github.com/git-chglog/git-chglog/releases/tag/v0.14.2), 2 months ago) - CHANGELOG generator implemented in Go (Golang).
 #### ✨ Stats
 
 [![](https://raw.githubusercontent.com/mavogel/mavogel/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
