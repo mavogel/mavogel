@@ -34,7 +34,7 @@ In English, Spanish or German...
 
 #### 👷 Check out what I'm currently working on
 
-- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider (1 week ago)
+- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider (2 weeks ago)
 - [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang). (2 weeks ago)
 - [goreleaser/acceptance-tests](https://github.com/goreleaser/acceptance-tests) - Acceptance tests setup et al for GoReleaser. (4 weeks ago)
 - [mavogel/go-ssh-forward](https://github.com/mavogel/go-ssh-forward) - A simple library to establish a forward via a jump host in go (1 month ago)
@@ -42,7 +42,7 @@ In English, Spanish or German...
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v3.51.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v3.51.0), 2 days ago) - Terraform AWS provider
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v3.51.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v3.51.0), 3 days ago) - Terraform AWS provider
 - [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) ([v0.15.0](https://github.com/git-chglog/git-chglog/releases/tag/v0.15.0), 2 weeks ago) - CHANGELOG generator implemented in Go (Golang).
 - [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) ([v2.14.0](https://github.com/kreuzwerker/terraform-provider-docker/releases/tag/v2.14.0), 2 weeks ago) - Terraform Docker provider
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.173.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.173.2), 2 weeks ago) - Deliver Go binaries as fast and easily as possible
