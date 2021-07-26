@@ -42,10 +42,10 @@ In English, Spanish or German...
 
 #### 🔭 Latest releases I've contributed to
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.174.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.174.0), today) - Deliver Go binaries as fast and easily as possible
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v3.51.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v3.51.0), 4 days ago) - Terraform AWS provider
 - [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) ([v0.15.0](https://github.com/git-chglog/git-chglog/releases/tag/v0.15.0), 2 weeks ago) - CHANGELOG generator implemented in Go (Golang).
 - [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) ([v2.14.0](https://github.com/kreuzwerker/terraform-provider-docker/releases/tag/v2.14.0), 2 weeks ago) - Terraform Docker provider
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.173.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.173.2), 2 weeks ago) - Deliver Go binaries as fast and easily as possible
 - [superwerker/superwerker](https://github.com/superwerker/superwerker) ([v0.12.5](https://github.com/superwerker/superwerker/releases/tag/v0.12.5), 2 weeks ago) - Open-source solution to automate the setup of an AWS Cloud environment with prescriptive best practices. 
 #### ✨ Stats
 
