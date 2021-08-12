@@ -34,17 +34,17 @@ In English, Spanish or German...
 
 #### 👷 Check out what I'm currently working on
 
-- [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip (today)
-- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider (today)
-- [kreuzwerker/homebrew-taps](https://github.com/kreuzwerker/homebrew-taps) - Brew support for various kreuzwerker tool (today)
+- [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip (1 day ago)
+- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider (1 day ago)
+- [kreuzwerker/homebrew-taps](https://github.com/kreuzwerker/homebrew-taps) - Brew support for various kreuzwerker tool (1 day ago)
 - [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang). (1 month ago)
 - [goreleaser/acceptance-tests](https://github.com/goreleaser/acceptance-tests) - Acceptance tests setup et al for GoReleaser. (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) ([0.2.1](https://github.com/kreuzwerker/m1-terraform-provider-helper/releases/tag/0.2.1), today) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip
-- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) ([v2.15.0](https://github.com/kreuzwerker/terraform-provider-docker/releases/tag/v2.15.0), today) - Terraform Docker provider
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v3.53.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v3.53.0), 6 days ago) - Terraform AWS provider
+- [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) ([0.2.1](https://github.com/kreuzwerker/m1-terraform-provider-helper/releases/tag/0.2.1), 1 day ago) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip
+- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) ([v2.15.0](https://github.com/kreuzwerker/terraform-provider-docker/releases/tag/v2.15.0), 1 day ago) - Terraform Docker provider
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v3.53.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v3.53.0), 1 week ago) - Terraform AWS provider
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.174.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.174.2), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) ([v0.15.0](https://github.com/git-chglog/git-chglog/releases/tag/v0.15.0), 1 month ago) - CHANGELOG generator implemented in Go (Golang).
 #### ✨ Stats
