@@ -34,19 +34,19 @@ In English, Spanish or German...
 
 #### 👷 Check out what I'm currently working on
 
-- [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip (1 week ago)
-- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider (1 week ago)
-- [kreuzwerker/homebrew-taps](https://github.com/kreuzwerker/homebrew-taps) - Brew support for various kreuzwerker tool (1 week ago)
+- [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip (2 weeks ago)
+- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider (2 weeks ago)
+- [kreuzwerker/homebrew-taps](https://github.com/kreuzwerker/homebrew-taps) - Brew support for various kreuzwerker tool (2 weeks ago)
 - [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang). (1 month ago)
-- [goreleaser/acceptance-tests](https://github.com/goreleaser/acceptance-tests) - Acceptance tests setup et al for GoReleaser. (1 month ago)
+- [goreleaser/acceptance-tests](https://github.com/goreleaser/acceptance-tests) - Acceptance tests setup et al for GoReleaser. (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [superwerker/superwerker](https://github.com/superwerker/superwerker) ([v0.12.6](https://github.com/superwerker/superwerker/releases/tag/v0.12.6), today) - Open-source solution to automate the setup of an AWS Cloud environment with prescriptive best practices. 
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v3.55.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v3.55.0), 5 days ago) - Terraform AWS provider
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.175.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.175.0), 6 days ago) - Deliver Go binaries as fast and easily as possible
-- [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) ([0.2.1](https://github.com/kreuzwerker/m1-terraform-provider-helper/releases/tag/0.2.1), 1 week ago) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip
-- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) ([v2.15.0](https://github.com/kreuzwerker/terraform-provider-docker/releases/tag/v2.15.0), 1 week ago) - Terraform Docker provider
+- [superwerker/superwerker](https://github.com/superwerker/superwerker) ([v0.12.6](https://github.com/superwerker/superwerker/releases/tag/v0.12.6), 1 day ago) - Open-source solution to automate the setup of an AWS Cloud environment with prescriptive best practices. 
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v3.55.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v3.55.0), 6 days ago) - Terraform AWS provider
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.175.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.175.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
+- [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) ([0.2.1](https://github.com/kreuzwerker/m1-terraform-provider-helper/releases/tag/0.2.1), 2 weeks ago) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip
+- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) ([v2.15.0](https://github.com/kreuzwerker/terraform-provider-docker/releases/tag/v2.15.0), 2 weeks ago) - Terraform Docker provider
 #### ✨ Stats
 
 [![](https://raw.githubusercontent.com/mavogel/mavogel/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
