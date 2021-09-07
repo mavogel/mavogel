@@ -37,14 +37,14 @@ In English, Spanish or German...
 - [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip (3 weeks ago)
 - [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider (3 weeks ago)
 - [kreuzwerker/homebrew-taps](https://github.com/kreuzwerker/homebrew-taps) - Brew support for various kreuzwerker tool (3 weeks ago)
-- [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang). (1 month ago)
+- [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang). (2 months ago)
 - [goreleaser/acceptance-tests](https://github.com/goreleaser/acceptance-tests) - Acceptance tests setup et al for GoReleaser. (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.177.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.177.0), 3 days ago) - Deliver Go binaries as fast and easily as possible
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v3.57.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v3.57.0), 4 days ago) - Terraform AWS provider
-- [superwerker/superwerker](https://github.com/superwerker/superwerker) ([v0.12.6](https://github.com/superwerker/superwerker/releases/tag/v0.12.6), 1 week ago) - Open-source solution to automate the setup of an AWS Cloud environment with prescriptive best practices. 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.177.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.177.0), 4 days ago) - Deliver Go binaries as fast and easily as possible
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v3.57.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v3.57.0), 5 days ago) - Terraform AWS provider
+- [superwerker/superwerker](https://github.com/superwerker/superwerker) ([v0.12.6](https://github.com/superwerker/superwerker/releases/tag/v0.12.6), 2 weeks ago) - Open-source solution to automate the setup of an AWS Cloud environment with prescriptive best practices. 
 - [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) ([0.2.1](https://github.com/kreuzwerker/m1-terraform-provider-helper/releases/tag/0.2.1), 3 weeks ago) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip
 - [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) ([v2.15.0](https://github.com/kreuzwerker/terraform-provider-docker/releases/tag/v2.15.0), 3 weeks ago) - Terraform Docker provider
 #### ✨ Stats
