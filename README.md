@@ -42,7 +42,7 @@ In English, Spanish or German...
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.181.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.181.1), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.181.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.181.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v3.61.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v3.61.0), 6 days ago) - Terraform AWS provider
 - [superwerker/superwerker](https://github.com/superwerker/superwerker) ([v0.13.0](https://github.com/superwerker/superwerker/releases/tag/v0.13.0), 1 week ago) - Open-source solution to automate the setup of an AWS Cloud environment with prescriptive best practices. 
 - [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) ([0.2.1](https://github.com/kreuzwerker/m1-terraform-provider-helper/releases/tag/0.2.1), 1 month ago) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip
