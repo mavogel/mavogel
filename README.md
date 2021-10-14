@@ -42,8 +42,8 @@ In English, Spanish or German...
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v3.63.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v3.63.0), today) - Terraform AWS provider
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.182.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.182.1), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v3.62.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v3.62.0), 6 days ago) - Terraform AWS provider
 - [superwerker/superwerker](https://github.com/superwerker/superwerker) ([v0.13.0](https://github.com/superwerker/superwerker/releases/tag/v0.13.0), 2 weeks ago) - superwerker can help you get started with the AWS Cloud quickly without investing in consultants or devoting time to extensive research. superwerker is a free, open-source solution that lets you quickly set up an AWS Cloud environment following best practices for security and efficiency so you can focus on your core business. 
 - [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) ([0.2.1](https://github.com/kreuzwerker/m1-terraform-provider-helper/releases/tag/0.2.1), 2 months ago) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip
 - [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) ([v2.15.0](https://github.com/kreuzwerker/terraform-provider-docker/releases/tag/v2.15.0), 2 months ago) - Terraform Docker provider
