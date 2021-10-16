@@ -34,18 +34,18 @@ In English, Spanish or German...
 
 #### 👷 Check out what I'm currently working on
 
-- [kreuzwerker/awsu](https://github.com/kreuzwerker/awsu) - Enhanced account switching for AWS, supports Yubikey as MFA source (today)
-- [kreuzwerker/envplate](https://github.com/kreuzwerker/envplate) - Docker-friendly trivial templating for configuration files using environment keys (today)
+- [kreuzwerker/awsu](https://github.com/kreuzwerker/awsu) - Enhanced account switching for AWS, supports Yubikey as MFA source (1 day ago)
+- [kreuzwerker/envplate](https://github.com/kreuzwerker/envplate) - Docker-friendly trivial templating for configuration files using environment keys (1 day ago)
 - [awslabs/aws-well-architected-labs](https://github.com/awslabs/aws-well-architected-labs) - Hands on labs and code to help you learn, measure, and build using architectural best practices. (1 month ago)
 - [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider (1 month ago)
 - [kreuzwerker/homebrew-taps](https://github.com/kreuzwerker/homebrew-taps) - Brew support for various kreuzwerker tools (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [kreuzwerker/envplate](https://github.com/kreuzwerker/envplate) ([v1.0.1](https://github.com/kreuzwerker/envplate/releases/tag/v1.0.1), today) - Docker-friendly trivial templating for configuration files using environment keys
-- [kreuzwerker/awsu](https://github.com/kreuzwerker/awsu) ([v2.3.3](https://github.com/kreuzwerker/awsu/releases/tag/v2.3.3), today) - Enhanced account switching for AWS, supports Yubikey as MFA source
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v3.63.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v3.63.0), 1 day ago) - Terraform AWS provider
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.182.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.182.1), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [kreuzwerker/envplate](https://github.com/kreuzwerker/envplate) ([v1.0.1](https://github.com/kreuzwerker/envplate/releases/tag/v1.0.1), 1 day ago) - Docker-friendly trivial templating for configuration files using environment keys
+- [kreuzwerker/awsu](https://github.com/kreuzwerker/awsu) ([v2.3.3](https://github.com/kreuzwerker/awsu/releases/tag/v2.3.3), 1 day ago) - Enhanced account switching for AWS, supports Yubikey as MFA source
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v3.63.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v3.63.0), 2 days ago) - Terraform AWS provider
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.182.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.182.1), 3 days ago) - Deliver Go binaries as fast and easily as possible
 - [superwerker/superwerker](https://github.com/superwerker/superwerker) ([v0.13.0](https://github.com/superwerker/superwerker/releases/tag/v0.13.0), 2 weeks ago) - superwerker can help you get started with the AWS Cloud quickly without investing in consultants or devoting time to extensive research. superwerker is a free, open-source solution that lets you quickly set up an AWS Cloud environment following best practices for security and efficiency so you can focus on your core business. 
 #### ✨ Stats
 
