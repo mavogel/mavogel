@@ -34,10 +34,10 @@ In English, Spanish or German...
 
 #### 👷 Check out what I'm currently working on
 
+- [kreuzwerker/envplate](https://github.com/kreuzwerker/envplate) - Docker-friendly trivial templating for configuration files using environment keys (today)
 - [kreuzwerker/envsec](https://github.com/kreuzwerker/envsec) - Encrypted environment variables via AWS KMS (today)
 - [kreuzwerker/homebrew-taps](https://github.com/kreuzwerker/homebrew-taps) - Brew support for various kreuzwerker tools (today)
 - [kreuzwerker/awsu](https://github.com/kreuzwerker/awsu) - Enhanced account switching for AWS, supports Yubikey as MFA source (1 day ago)
-- [kreuzwerker/envplate](https://github.com/kreuzwerker/envplate) - Docker-friendly trivial templating for configuration files using environment keys (5 days ago)
 - [awslabs/aws-well-architected-labs](https://github.com/awslabs/aws-well-architected-labs) - Hands on labs and code to help you learn, measure, and build using architectural best practices. (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
