@@ -34,17 +34,17 @@ In English, Spanish or German...
 
 #### 👷 Check out what I'm currently working on
 
-- [kreuzwerker/homebrew-taps](https://github.com/kreuzwerker/homebrew-taps) - Brew support for various kreuzwerker tools (today)
-- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider (today)
-- [looplab/eventhorizon](https://github.com/looplab/eventhorizon) - Event Sourcing for Go! (today)
-- [kreuzwerker/envplate](https://github.com/kreuzwerker/envplate) - Docker-friendly trivial templating for configuration files using environment keys (1 day ago)
-- [kreuzwerker/envsec](https://github.com/kreuzwerker/envsec) - Encrypted environment variables via AWS KMS (1 day ago)
+- [kreuzwerker/homebrew-taps](https://github.com/kreuzwerker/homebrew-taps) - Brew support for various kreuzwerker tools (1 day ago)
+- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider (1 day ago)
+- [looplab/eventhorizon](https://github.com/looplab/eventhorizon) - Event Sourcing for Go! (1 day ago)
+- [kreuzwerker/envplate](https://github.com/kreuzwerker/envplate) - Docker-friendly trivial templating for configuration files using environment keys (2 days ago)
+- [kreuzwerker/envsec](https://github.com/kreuzwerker/envsec) - Encrypted environment variables via AWS KMS (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [kreuzwerker/envsec](https://github.com/kreuzwerker/envsec) ([v1.2.0](https://github.com/kreuzwerker/envsec/releases/tag/v1.2.0), 1 day ago) - Encrypted environment variables via AWS KMS
-- [kreuzwerker/envplate](https://github.com/kreuzwerker/envplate) ([v1.0.1](https://github.com/kreuzwerker/envplate/releases/tag/v1.0.1), 6 days ago) - Docker-friendly trivial templating for configuration files using environment keys
-- [kreuzwerker/awsu](https://github.com/kreuzwerker/awsu) ([v2.3.3](https://github.com/kreuzwerker/awsu/releases/tag/v2.3.3), 6 days ago) - Enhanced account switching for AWS, supports Yubikey as MFA source
+- [kreuzwerker/envsec](https://github.com/kreuzwerker/envsec) ([v1.2.0](https://github.com/kreuzwerker/envsec/releases/tag/v1.2.0), 2 days ago) - Encrypted environment variables via AWS KMS
+- [kreuzwerker/envplate](https://github.com/kreuzwerker/envplate) ([v1.0.1](https://github.com/kreuzwerker/envplate/releases/tag/v1.0.1), 1 week ago) - Docker-friendly trivial templating for configuration files using environment keys
+- [kreuzwerker/awsu](https://github.com/kreuzwerker/awsu) ([v2.3.3](https://github.com/kreuzwerker/awsu/releases/tag/v2.3.3), 1 week ago) - Enhanced account switching for AWS, supports Yubikey as MFA source
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v3.63.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v3.63.0), 1 week ago) - Terraform AWS provider
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.182.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.182.1), 1 week ago) - Deliver Go binaries as fast and easily as possible
 #### ✨ Stats
