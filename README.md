@@ -34,19 +34,19 @@ In English, Spanish or German...
 
 #### 👷 Check out what I'm currently working on
 
-- [kreuzwerker/homebrew-taps](https://github.com/kreuzwerker/homebrew-taps) - Brew support for various kreuzwerker tools (6 days ago)
-- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider (6 days ago)
-- [looplab/eventhorizon](https://github.com/looplab/eventhorizon) - Event Sourcing for Go! (6 days ago)
+- [kreuzwerker/homebrew-taps](https://github.com/kreuzwerker/homebrew-taps) - Brew support for various kreuzwerker tools (1 week ago)
+- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider (1 week ago)
+- [looplab/eventhorizon](https://github.com/looplab/eventhorizon) - Event Sourcing for Go! (1 week ago)
 - [kreuzwerker/envplate](https://github.com/kreuzwerker/envplate) - Docker-friendly trivial templating for configuration files using environment keys (1 week ago)
 - [kreuzwerker/envsec](https://github.com/kreuzwerker/envsec) - Encrypted environment variables via AWS KMS (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.183.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.183.0), 5 days ago) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.183.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.183.0), 6 days ago) - Deliver Go binaries as fast and easily as possible
 - [kreuzwerker/envsec](https://github.com/kreuzwerker/envsec) ([v1.2.0](https://github.com/kreuzwerker/envsec/releases/tag/v1.2.0), 1 week ago) - Encrypted environment variables via AWS KMS
 - [kreuzwerker/envplate](https://github.com/kreuzwerker/envplate) ([v1.0.1](https://github.com/kreuzwerker/envplate/releases/tag/v1.0.1), 1 week ago) - Docker-friendly trivial templating for configuration files using environment keys
 - [kreuzwerker/awsu](https://github.com/kreuzwerker/awsu) ([v2.3.3](https://github.com/kreuzwerker/awsu/releases/tag/v2.3.3), 1 week ago) - Enhanced account switching for AWS, supports Yubikey as MFA source
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v3.63.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v3.63.0), 1 week ago) - Terraform AWS provider
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v3.63.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v3.63.0), 2 weeks ago) - Terraform AWS provider
 #### ✨ Stats
 
 [![](https://raw.githubusercontent.com/mavogel/mavogel/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
