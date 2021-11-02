@@ -42,7 +42,7 @@ In English, Spanish or German...
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.184.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.184.0), today) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.184.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.184.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
 - [kreuzwerker/envsec](https://github.com/kreuzwerker/envsec) ([v1.2.0](https://github.com/kreuzwerker/envsec/releases/tag/v1.2.0), 1 week ago) - Encrypted environment variables via AWS KMS
 - [kreuzwerker/envplate](https://github.com/kreuzwerker/envplate) ([v1.0.1](https://github.com/kreuzwerker/envplate/releases/tag/v1.0.1), 2 weeks ago) - Docker-friendly trivial templating for configuration files using environment keys
 - [kreuzwerker/awsu](https://github.com/kreuzwerker/awsu) ([v2.3.3](https://github.com/kreuzwerker/awsu/releases/tag/v2.3.3), 2 weeks ago) - Enhanced account switching for AWS, supports Yubikey as MFA source
