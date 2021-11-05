@@ -42,7 +42,7 @@ In English, Spanish or German...
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v3.64.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v3.64.0), 1 day ago) - Terraform AWS provider
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v3.64.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v3.64.1), today) - Terraform AWS provider
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.184.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.184.0), 4 days ago) - Deliver Go binaries as fast and easily as possible
 - [kreuzwerker/envsec](https://github.com/kreuzwerker/envsec) ([v1.2.0](https://github.com/kreuzwerker/envsec/releases/tag/v1.2.0), 2 weeks ago) - Encrypted environment variables via AWS KMS
 - [kreuzwerker/envplate](https://github.com/kreuzwerker/envplate) ([v1.0.1](https://github.com/kreuzwerker/envplate/releases/tag/v1.0.1), 3 weeks ago) - Docker-friendly trivial templating for configuration files using environment keys
