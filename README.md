@@ -42,11 +42,11 @@ In English, Spanish or German...
 
 #### 🔭 Latest releases I've contributed to
 
+- [looplab/eventhorizon](https://github.com/looplab/eventhorizon) ([v0.14.10](https://github.com/looplab/eventhorizon/releases/tag/v0.14.10), today) - Event Sourcing for Go!
 - [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) ([v1.56.0](https://github.com/antonbabenko/pre-commit-terraform/releases/tag/v1.56.0), today) - pre-commit git hooks to take care of Terraform configurations
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v3.64.2](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v3.64.2), 3 days ago) - Terraform AWS provider
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.184.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.184.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [kreuzwerker/envsec](https://github.com/kreuzwerker/envsec) ([v1.2.0](https://github.com/kreuzwerker/envsec/releases/tag/v1.2.0), 2 weeks ago) - Encrypted environment variables via AWS KMS
-- [kreuzwerker/envplate](https://github.com/kreuzwerker/envplate) ([v1.0.1](https://github.com/kreuzwerker/envplate/releases/tag/v1.0.1), 3 weeks ago) - Docker-friendly trivial templating for configuration files using environment keys
 #### ✨ Stats
 
 [![](https://raw.githubusercontent.com/mavogel/mavogel/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
