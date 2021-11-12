@@ -42,11 +42,11 @@ In English, Spanish or German...
 
 #### 🔭 Latest releases I've contributed to
 
+- [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) ([0.2.2](https://github.com/kreuzwerker/m1-terraform-provider-helper/releases/tag/0.2.2), today) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v3.65.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v3.65.0), today) - Terraform AWS provider
 - [looplab/eventhorizon](https://github.com/looplab/eventhorizon) ([v0.14.10](https://github.com/looplab/eventhorizon/releases/tag/v0.14.10), 4 days ago) - Event Sourcing for Go!
 - [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) ([v1.56.0](https://github.com/antonbabenko/pre-commit-terraform/releases/tag/v1.56.0), 4 days ago) - pre-commit git hooks to take care of Terraform configurations
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.184.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.184.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
-- [kreuzwerker/envsec](https://github.com/kreuzwerker/envsec) ([v1.2.0](https://github.com/kreuzwerker/envsec/releases/tag/v1.2.0), 3 weeks ago) - Encrypted environment variables via AWS KMS
 #### ✨ Stats
 
 [![](https://raw.githubusercontent.com/mavogel/mavogel/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
