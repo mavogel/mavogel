@@ -34,11 +34,11 @@ In English, Spanish or German...
 
 #### 👷 Check out what I'm currently working on
 
+- [kreuzwerker/awsu](https://github.com/kreuzwerker/awsu) - Enhanced account switching for AWS, supports Yubikey as MFA source (today)
 - [superwerker/superwerker](https://github.com/superwerker/superwerker) - superwerker can help you get started with the AWS Cloud quickly without investing in consultants or devoting time to extensive research. superwerker is a free, open-source solution that lets you quickly set up an AWS Cloud environment following best practices for security and efficiency so you can focus on your core business.  (2 weeks ago)
-- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider (1 month ago)
-- [looplab/eventhorizon](https://github.com/looplab/eventhorizon) - Event Sourcing for Go! (1 month ago)
 - [kreuzwerker/homebrew-taps](https://github.com/kreuzwerker/homebrew-taps) - Brew support for various kreuzwerker tools (1 month ago)
-- [kreuzwerker/envplate](https://github.com/kreuzwerker/envplate) - Docker-friendly trivial templating for configuration files using environment keys (1 month ago)
+- [looplab/eventhorizon](https://github.com/looplab/eventhorizon) - Event Sourcing for Go! (1 month ago)
+- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
