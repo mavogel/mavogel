@@ -34,11 +34,11 @@ In English, Spanish or German...
 
 #### 👷 Check out what I'm currently working on
 
+- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider (today)
 - [kreuzwerker/awsu](https://github.com/kreuzwerker/awsu) - Enhanced account switching for AWS, supports Yubikey as MFA source (3 days ago)
 - [mavogel/docker-gh-action-test](https://github.com/mavogel/docker-gh-action-test) -  (4 days ago)
 - [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip (5 days ago)
 - [superwerker/superwerker](https://github.com/superwerker/superwerker) - superwerker can help you get started with the AWS Cloud quickly without investing in consultants or devoting time to extensive research. superwerker is a free, open-source solution that lets you quickly set up an AWS Cloud environment following best practices for security and efficiency so you can focus on your core business.  (3 weeks ago)
-- [kreuzwerker/homebrew-taps](https://github.com/kreuzwerker/homebrew-taps) - Brew support for various kreuzwerker tools (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
