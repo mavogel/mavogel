@@ -34,19 +34,19 @@ In English, Spanish or German...
 
 #### 👷 Check out what I'm currently working on
 
-- [kreuzwerker/awsu](https://github.com/kreuzwerker/awsu) - Enhanced account switching for AWS, supports Yubikey as MFA source (2 days ago)
-- [mavogel/docker-gh-action-test](https://github.com/mavogel/docker-gh-action-test) -  (3 days ago)
-- [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip (4 days ago)
-- [superwerker/superwerker](https://github.com/superwerker/superwerker) - superwerker can help you get started with the AWS Cloud quickly without investing in consultants or devoting time to extensive research. superwerker is a free, open-source solution that lets you quickly set up an AWS Cloud environment following best practices for security and efficiency so you can focus on your core business.  (2 weeks ago)
+- [kreuzwerker/awsu](https://github.com/kreuzwerker/awsu) - Enhanced account switching for AWS, supports Yubikey as MFA source (3 days ago)
+- [mavogel/docker-gh-action-test](https://github.com/mavogel/docker-gh-action-test) -  (4 days ago)
+- [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip (5 days ago)
+- [superwerker/superwerker](https://github.com/superwerker/superwerker) - superwerker can help you get started with the AWS Cloud quickly without investing in consultants or devoting time to extensive research. superwerker is a free, open-source solution that lets you quickly set up an AWS Cloud environment following best practices for security and efficiency so you can focus on your core business.  (3 weeks ago)
 - [kreuzwerker/homebrew-taps](https://github.com/kreuzwerker/homebrew-taps) - Brew support for various kreuzwerker tools (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [looplab/eventhorizon](https://github.com/looplab/eventhorizon) ([v0.15.1](https://github.com/looplab/eventhorizon/releases/tag/v0.15.1), today) - Event Sourcing for Go!
-- [kreuzwerker/awsu](https://github.com/kreuzwerker/awsu) ([v2.3.6](https://github.com/kreuzwerker/awsu/releases/tag/v2.3.6), 2 days ago) - Enhanced account switching for AWS, supports Yubikey as MFA source
-- [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) ([0.2.3](https://github.com/kreuzwerker/m1-terraform-provider-helper/releases/tag/0.2.3), 3 days ago) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v3.67.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v3.67.0), 4 days ago) - Terraform AWS provider
-- [kreuzwerker/envsec](https://github.com/kreuzwerker/envsec) ([v1.2.1](https://github.com/kreuzwerker/envsec/releases/tag/v1.2.1), 4 days ago) - Encrypted environment variables via AWS KMS
+- [looplab/eventhorizon](https://github.com/looplab/eventhorizon) ([v0.15.1](https://github.com/looplab/eventhorizon/releases/tag/v0.15.1), 1 day ago) - Event Sourcing for Go!
+- [kreuzwerker/awsu](https://github.com/kreuzwerker/awsu) ([v2.3.6](https://github.com/kreuzwerker/awsu/releases/tag/v2.3.6), 3 days ago) - Enhanced account switching for AWS, supports Yubikey as MFA source
+- [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) ([0.2.3](https://github.com/kreuzwerker/m1-terraform-provider-helper/releases/tag/0.2.3), 4 days ago) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v3.67.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v3.67.0), 5 days ago) - Terraform AWS provider
+- [kreuzwerker/envsec](https://github.com/kreuzwerker/envsec) ([v1.2.1](https://github.com/kreuzwerker/envsec/releases/tag/v1.2.1), 5 days ago) - Encrypted environment variables via AWS KMS
 #### ✨ Stats
 
 [![](https://raw.githubusercontent.com/mavogel/mavogel/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
