@@ -42,8 +42,8 @@ In English, Spanish or German...
 
 #### 🔭 Latest releases I've contributed to
 
+- [looplab/eventhorizon](https://github.com/looplab/eventhorizon) ([v0.15.3](https://github.com/looplab/eventhorizon/releases/tag/v0.15.3), today) - Event Sourcing for Go!
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v3.68.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v3.68.0), 1 day ago) - Terraform AWS provider
-- [looplab/eventhorizon](https://github.com/looplab/eventhorizon) ([v0.15.2](https://github.com/looplab/eventhorizon/releases/tag/v0.15.2), 2 days ago) - Event Sourcing for Go!
 - [kreuzwerker/awsu](https://github.com/kreuzwerker/awsu) ([v2.3.8](https://github.com/kreuzwerker/awsu/releases/tag/v2.3.8), 3 days ago) - Enhanced account switching for AWS, supports Yubikey as MFA source
 - [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) ([0.2.3](https://github.com/kreuzwerker/m1-terraform-provider-helper/releases/tag/0.2.3), 1 week ago) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip
 - [kreuzwerker/envsec](https://github.com/kreuzwerker/envsec) ([v1.2.1](https://github.com/kreuzwerker/envsec/releases/tag/v1.2.1), 1 week ago) - Encrypted environment variables via AWS KMS
