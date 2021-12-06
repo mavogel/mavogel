@@ -42,7 +42,7 @@ In English, Spanish or German...
 
 #### 🔭 Latest releases I've contributed to
 
-- [looplab/eventhorizon](https://github.com/looplab/eventhorizon) ([v0.15.3](https://github.com/looplab/eventhorizon/releases/tag/v0.15.3), 3 days ago) - Event Sourcing for Go!
+- [looplab/eventhorizon](https://github.com/looplab/eventhorizon) ([v0.15.4](https://github.com/looplab/eventhorizon/releases/tag/v0.15.4), today) - Event Sourcing for Go!
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v3.68.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v3.68.0), 4 days ago) - Terraform AWS provider
 - [lovoo/goka](https://github.com/lovoo/goka) ([v1.1.0](https://github.com/lovoo/goka/releases/tag/v1.1.0), 6 days ago) - Goka is a compact yet powerful distributed stream processing library for Apache Kafka written in Go.
 - [kreuzwerker/awsu](https://github.com/kreuzwerker/awsu) ([v2.3.8](https://github.com/kreuzwerker/awsu/releases/tag/v2.3.8), 6 days ago) - Enhanced account switching for AWS, supports Yubikey as MFA source
