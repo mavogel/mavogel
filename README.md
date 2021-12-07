@@ -34,19 +34,19 @@ In English, Spanish or German...
 
 #### 👷 Check out what I'm currently working on
 
-- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider (3 days ago)
-- [kreuzwerker/awsu](https://github.com/kreuzwerker/awsu) - Enhanced account switching for AWS, supports Yubikey as MFA source (6 days ago)
+- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider (4 days ago)
+- [kreuzwerker/awsu](https://github.com/kreuzwerker/awsu) - Enhanced account switching for AWS, supports Yubikey as MFA source (1 week ago)
 - [mavogel/docker-gh-action-test](https://github.com/mavogel/docker-gh-action-test) -  (1 week ago)
 - [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip (1 week ago)
-- [superwerker/superwerker](https://github.com/superwerker/superwerker) - superwerker can help you get started with the AWS Cloud quickly without investing in consultants or devoting time to extensive research. superwerker is a free, open-source solution that lets you quickly set up an AWS Cloud environment following best practices for security and efficiency so you can focus on your core business.  (3 weeks ago)
+- [superwerker/superwerker](https://github.com/superwerker/superwerker) - superwerker can help you get started with the AWS Cloud quickly without investing in consultants or devoting time to extensive research. superwerker is a free, open-source solution that lets you quickly set up an AWS Cloud environment following best practices for security and efficiency so you can focus on your core business.  (4 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) ([v1.59.0](https://github.com/antonbabenko/pre-commit-terraform/releases/tag/v1.59.0), today) - pre-commit git hooks to take care of Terraform configurations
-- [looplab/eventhorizon](https://github.com/looplab/eventhorizon) ([v0.15.4](https://github.com/looplab/eventhorizon/releases/tag/v0.15.4), today) - Event Sourcing for Go!
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v3.68.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v3.68.0), 4 days ago) - Terraform AWS provider
-- [lovoo/goka](https://github.com/lovoo/goka) ([v1.1.0](https://github.com/lovoo/goka/releases/tag/v1.1.0), 6 days ago) - Goka is a compact yet powerful distributed stream processing library for Apache Kafka written in Go.
-- [kreuzwerker/awsu](https://github.com/kreuzwerker/awsu) ([v2.3.8](https://github.com/kreuzwerker/awsu/releases/tag/v2.3.8), 6 days ago) - Enhanced account switching for AWS, supports Yubikey as MFA source
+- [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) ([v1.59.0](https://github.com/antonbabenko/pre-commit-terraform/releases/tag/v1.59.0), 1 day ago) - pre-commit git hooks to take care of Terraform configurations
+- [looplab/eventhorizon](https://github.com/looplab/eventhorizon) ([v0.15.4](https://github.com/looplab/eventhorizon/releases/tag/v0.15.4), 1 day ago) - Event Sourcing for Go!
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v3.68.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v3.68.0), 5 days ago) - Terraform AWS provider
+- [lovoo/goka](https://github.com/lovoo/goka) ([v1.1.0](https://github.com/lovoo/goka/releases/tag/v1.1.0), 1 week ago) - Goka is a compact yet powerful distributed stream processing library for Apache Kafka written in Go.
+- [kreuzwerker/awsu](https://github.com/kreuzwerker/awsu) ([v2.3.8](https://github.com/kreuzwerker/awsu/releases/tag/v2.3.8), 1 week ago) - Enhanced account switching for AWS, supports Yubikey as MFA source
 #### ✨ Stats
 
 [![](https://raw.githubusercontent.com/mavogel/mavogel/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
