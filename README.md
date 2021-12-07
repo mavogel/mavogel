@@ -42,10 +42,10 @@ In English, Spanish or German...
 
 #### 🔭 Latest releases I've contributed to
 
+- [lovoo/goka](https://github.com/lovoo/goka) ([v1.1.1](https://github.com/lovoo/goka/releases/tag/v1.1.1), today) - Goka is a compact yet powerful distributed stream processing library for Apache Kafka written in Go.
 - [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) ([v1.59.0](https://github.com/antonbabenko/pre-commit-terraform/releases/tag/v1.59.0), 1 day ago) - pre-commit git hooks to take care of Terraform configurations
 - [looplab/eventhorizon](https://github.com/looplab/eventhorizon) ([v0.15.4](https://github.com/looplab/eventhorizon/releases/tag/v0.15.4), 1 day ago) - Event Sourcing for Go!
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v3.68.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v3.68.0), 5 days ago) - Terraform AWS provider
-- [lovoo/goka](https://github.com/lovoo/goka) ([v1.1.0](https://github.com/lovoo/goka/releases/tag/v1.1.0), 1 week ago) - Goka is a compact yet powerful distributed stream processing library for Apache Kafka written in Go.
 - [kreuzwerker/awsu](https://github.com/kreuzwerker/awsu) ([v2.3.8](https://github.com/kreuzwerker/awsu/releases/tag/v2.3.8), 1 week ago) - Enhanced account switching for AWS, supports Yubikey as MFA source
 #### ✨ Stats
 
