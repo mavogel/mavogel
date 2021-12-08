@@ -42,9 +42,9 @@ In English, Spanish or German...
 
 #### 🔭 Latest releases I've contributed to
 
+- [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) ([v1.60.0](https://github.com/antonbabenko/pre-commit-terraform/releases/tag/v1.60.0), today) - pre-commit git hooks to take care of Terraform configurations
 - [kreuzwerker/awsu](https://github.com/kreuzwerker/awsu) ([v2.3.9](https://github.com/kreuzwerker/awsu/releases/tag/v2.3.9), today) - Enhanced account switching for AWS, supports Yubikey as MFA source
 - [lovoo/goka](https://github.com/lovoo/goka) ([v1.1.1](https://github.com/lovoo/goka/releases/tag/v1.1.1), 1 day ago) - Goka is a compact yet powerful distributed stream processing library for Apache Kafka written in Go.
-- [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) ([v1.59.0](https://github.com/antonbabenko/pre-commit-terraform/releases/tag/v1.59.0), 2 days ago) - pre-commit git hooks to take care of Terraform configurations
 - [looplab/eventhorizon](https://github.com/looplab/eventhorizon) ([v0.15.4](https://github.com/looplab/eventhorizon/releases/tag/v0.15.4), 2 days ago) - Event Sourcing for Go!
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v3.68.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v3.68.0), 6 days ago) - Terraform AWS provider
 #### ✨ Stats
