@@ -34,18 +34,18 @@ In English, Spanish or German...
 
 #### 👷 Check out what I'm currently working on
 
-- [kreuzwerker/awsu](https://github.com/kreuzwerker/awsu) - Enhanced account switching for AWS, supports Yubikey as MFA source (1 day ago)
-- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider (6 days ago)
-- [mavogel/docker-gh-action-test](https://github.com/mavogel/docker-gh-action-test) -  (1 week ago)
+- [kreuzwerker/awsu](https://github.com/kreuzwerker/awsu) - Enhanced account switching for AWS, supports Yubikey as MFA source (2 days ago)
+- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider (1 week ago)
+- [mavogel/docker-gh-action-test](https://github.com/mavogel/docker-gh-action-test) -  (2 weeks ago)
 - [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip (2 weeks ago)
 - [superwerker/superwerker](https://github.com/superwerker/superwerker) - superwerker can help you get started with the AWS Cloud quickly without investing in consultants or devoting time to extensive research. superwerker is a free, open-source solution that lets you quickly set up an AWS Cloud environment following best practices for security and efficiency so you can focus on your core business.  (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) ([v1.60.0](https://github.com/antonbabenko/pre-commit-terraform/releases/tag/v1.60.0), 1 day ago) - pre-commit git hooks to take care of Terraform configurations
-- [kreuzwerker/awsu](https://github.com/kreuzwerker/awsu) ([v2.3.9](https://github.com/kreuzwerker/awsu/releases/tag/v2.3.9), 1 day ago) - Enhanced account switching for AWS, supports Yubikey as MFA source
-- [lovoo/goka](https://github.com/lovoo/goka) ([v1.1.1](https://github.com/lovoo/goka/releases/tag/v1.1.1), 2 days ago) - Goka is a compact yet powerful distributed stream processing library for Apache Kafka written in Go.
-- [looplab/eventhorizon](https://github.com/looplab/eventhorizon) ([v0.15.4](https://github.com/looplab/eventhorizon/releases/tag/v0.15.4), 3 days ago) - Event Sourcing for Go!
+- [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) ([v1.60.0](https://github.com/antonbabenko/pre-commit-terraform/releases/tag/v1.60.0), 2 days ago) - pre-commit git hooks to take care of Terraform configurations
+- [kreuzwerker/awsu](https://github.com/kreuzwerker/awsu) ([v2.3.9](https://github.com/kreuzwerker/awsu/releases/tag/v2.3.9), 2 days ago) - Enhanced account switching for AWS, supports Yubikey as MFA source
+- [lovoo/goka](https://github.com/lovoo/goka) ([v1.1.1](https://github.com/lovoo/goka/releases/tag/v1.1.1), 3 days ago) - Goka is a compact yet powerful distributed stream processing library for Apache Kafka written in Go.
+- [looplab/eventhorizon](https://github.com/looplab/eventhorizon) ([v0.15.4](https://github.com/looplab/eventhorizon/releases/tag/v0.15.4), 4 days ago) - Event Sourcing for Go!
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v3.68.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v3.68.0), 1 week ago) - Terraform AWS provider
 #### ✨ Stats
 
