@@ -42,7 +42,7 @@ In English, Spanish or German...
 
 #### 🔭 Latest releases I've contributed to
 
-- [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) ([v1.61.0](https://github.com/antonbabenko/pre-commit-terraform/releases/tag/v1.61.0), 1 day ago) - pre-commit git hooks to take care of Terraform configurations
+- [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) ([v1.62.0](https://github.com/antonbabenko/pre-commit-terraform/releases/tag/v1.62.0), today) - pre-commit git hooks to take care of Terraform configurations
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v3.69.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v3.69.0), 2 days ago) - Terraform AWS provider
 - [kreuzwerker/awsu](https://github.com/kreuzwerker/awsu) ([v2.3.9](https://github.com/kreuzwerker/awsu/releases/tag/v2.3.9), 4 days ago) - Enhanced account switching for AWS, supports Yubikey as MFA source
 - [lovoo/goka](https://github.com/lovoo/goka) ([v1.1.1](https://github.com/lovoo/goka/releases/tag/v1.1.1), 5 days ago) - Goka is a compact yet powerful distributed stream processing library for Apache Kafka written in Go.
