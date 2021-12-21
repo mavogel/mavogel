@@ -34,7 +34,7 @@ In English, Spanish or German...
 
 #### 👷 Check out what I'm currently working on
 
-- [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang). (6 days ago)
+- [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang). (1 week ago)
 - [kreuzwerker/awsu](https://github.com/kreuzwerker/awsu) - Enhanced account switching for AWS, supports Yubikey as MFA source (1 week ago)
 - [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider (2 weeks ago)
 - [mavogel/docker-gh-action-test](https://github.com/mavogel/docker-gh-action-test) -  (3 weeks ago)
@@ -42,10 +42,10 @@ In English, Spanish or German...
 
 #### 🔭 Latest releases I've contributed to
 
-- [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) ([v1.62.1](https://github.com/antonbabenko/pre-commit-terraform/releases/tag/v1.62.1), 2 days ago) - pre-commit git hooks to take care of Terraform configurations
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v3.70.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v3.70.0), 4 days ago) - Terraform AWS provider
-- [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) ([v0.15.1](https://github.com/git-chglog/git-chglog/releases/tag/v0.15.1), 6 days ago) - CHANGELOG generator implemented in Go (Golang).
-- [looplab/eventhorizon](https://github.com/looplab/eventhorizon) ([v0.15.5](https://github.com/looplab/eventhorizon/releases/tag/v0.15.5), 6 days ago) - Event Sourcing for Go!
+- [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) ([v1.62.1](https://github.com/antonbabenko/pre-commit-terraform/releases/tag/v1.62.1), 3 days ago) - pre-commit git hooks to take care of Terraform configurations
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v3.70.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v3.70.0), 5 days ago) - Terraform AWS provider
+- [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) ([v0.15.1](https://github.com/git-chglog/git-chglog/releases/tag/v0.15.1), 1 week ago) - CHANGELOG generator implemented in Go (Golang).
+- [looplab/eventhorizon](https://github.com/looplab/eventhorizon) ([v0.15.5](https://github.com/looplab/eventhorizon/releases/tag/v0.15.5), 1 week ago) - Event Sourcing for Go!
 - [kreuzwerker/awsu](https://github.com/kreuzwerker/awsu) ([v2.3.9](https://github.com/kreuzwerker/awsu/releases/tag/v2.3.9), 1 week ago) - Enhanced account switching for AWS, supports Yubikey as MFA source
 #### ✨ Stats
 
