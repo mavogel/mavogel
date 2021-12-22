@@ -34,11 +34,11 @@ In English, Spanish or German...
 
 #### 👷 Check out what I'm currently working on
 
+- [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip (1 day ago)
 - [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang). (1 week ago)
 - [kreuzwerker/awsu](https://github.com/kreuzwerker/awsu) - Enhanced account switching for AWS, supports Yubikey as MFA source (2 weeks ago)
 - [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider (2 weeks ago)
 - [mavogel/docker-gh-action-test](https://github.com/mavogel/docker-gh-action-test) -  (3 weeks ago)
-- [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
