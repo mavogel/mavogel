@@ -42,11 +42,11 @@ In English, Spanish or German...
 
 #### 🔭 Latest releases I've contributed to
 
+- [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) ([0.2.4](https://github.com/kreuzwerker/m1-terraform-provider-helper/releases/tag/0.2.4), today) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip
 - [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) ([v1.62.3](https://github.com/antonbabenko/pre-commit-terraform/releases/tag/v1.62.3), 2 days ago) - pre-commit git hooks to take care of Terraform configurations
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v3.70.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v3.70.0), 1 week ago) - Terraform AWS provider
 - [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) ([v0.15.1](https://github.com/git-chglog/git-chglog/releases/tag/v0.15.1), 1 week ago) - CHANGELOG generator implemented in Go (Golang).
 - [looplab/eventhorizon](https://github.com/looplab/eventhorizon) ([v0.15.5](https://github.com/looplab/eventhorizon/releases/tag/v0.15.5), 1 week ago) - Event Sourcing for Go!
-- [kreuzwerker/awsu](https://github.com/kreuzwerker/awsu) ([v2.3.9](https://github.com/kreuzwerker/awsu/releases/tag/v2.3.9), 2 weeks ago) - Enhanced account switching for AWS, supports Yubikey as MFA source
 #### ✨ Stats
 
 [![](https://raw.githubusercontent.com/mavogel/mavogel/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
