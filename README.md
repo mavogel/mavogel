@@ -42,11 +42,11 @@ In English, Spanish or German...
 
 #### 🔭 Latest releases I've contributed to
 
+- [superwerker/superwerker](https://github.com/superwerker/superwerker) ([v0.13.1](https://github.com/superwerker/superwerker/releases/tag/v0.13.1), today) - superwerker can help you get started with the AWS Cloud quickly without investing in consultants or devoting time to extensive research. superwerker is a free, open-source solution that lets you quickly set up an AWS Cloud environment following best practices for security and efficiency so you can focus on your core business. 
 - [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) ([0.2.4](https://github.com/kreuzwerker/m1-terraform-provider-helper/releases/tag/0.2.4), 5 days ago) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip
 - [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) ([v1.62.3](https://github.com/antonbabenko/pre-commit-terraform/releases/tag/v1.62.3), 1 week ago) - pre-commit git hooks to take care of Terraform configurations
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v3.70.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v3.70.0), 1 week ago) - Terraform AWS provider
 - [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) ([v0.15.1](https://github.com/git-chglog/git-chglog/releases/tag/v0.15.1), 2 weeks ago) - CHANGELOG generator implemented in Go (Golang).
-- [looplab/eventhorizon](https://github.com/looplab/eventhorizon) ([v0.15.5](https://github.com/looplab/eventhorizon/releases/tag/v0.15.5), 2 weeks ago) - Event Sourcing for Go!
 #### ✨ Stats
 
 [![](https://raw.githubusercontent.com/mavogel/mavogel/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
