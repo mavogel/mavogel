@@ -42,9 +42,9 @@ In English, Spanish or German...
 
 #### 🔭 Latest releases I've contributed to
 
+- [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) ([0.4.0](https://github.com/kreuzwerker/m1-terraform-provider-helper/releases/tag/0.4.0), today) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip
 - [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) ([v2.17.0](https://github.com/rebuy-de/aws-nuke/releases/tag/v2.17.0), 2 days ago) - Nuke a whole AWS account and delete all its resources.
 - [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) ([v2.16.0](https://github.com/kreuzwerker/terraform-provider-docker/releases/tag/v2.16.0), 3 days ago) - Terraform Docker provider
-- [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) ([0.3.1](https://github.com/kreuzwerker/m1-terraform-provider-helper/releases/tag/0.3.1), 2 weeks ago) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip
 - [superwerker/superwerker](https://github.com/superwerker/superwerker) ([v0.13.1](https://github.com/superwerker/superwerker/releases/tag/v0.13.1), 4 weeks ago) - superwerker can help you get started with the AWS Cloud quickly without investing in consultants or devoting time to extensive research. superwerker is a free, open-source solution that lets you quickly set up an AWS Cloud environment following best practices for security and efficiency so you can focus on your core business. 
 - [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) ([v1.62.3](https://github.com/antonbabenko/pre-commit-terraform/releases/tag/v1.62.3), 1 month ago) - pre-commit git hooks to take care of Terraform configurations
 #### ✨ Stats
