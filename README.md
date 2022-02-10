@@ -42,7 +42,7 @@ In English, Spanish or German...
 
 #### 🔭 Latest releases I've contributed to
 
-- [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) ([v1.63.0](https://github.com/antonbabenko/pre-commit-terraform/releases/tag/v1.63.0), today) - pre-commit git hooks to take care of Terraform configurations
+- [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) ([v1.64.0](https://github.com/antonbabenko/pre-commit-terraform/releases/tag/v1.64.0), today) - pre-commit git hooks to take care of Terraform configurations
 - [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) ([0.5.0](https://github.com/kreuzwerker/m1-terraform-provider-helper/releases/tag/0.5.0), today) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip
 - [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) ([v2.17.0](https://github.com/rebuy-de/aws-nuke/releases/tag/v2.17.0), 2 weeks ago) - Nuke a whole AWS account and delete all its resources.
 - [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) ([v2.16.0](https://github.com/kreuzwerker/terraform-provider-docker/releases/tag/v2.16.0), 2 weeks ago) - Terraform Docker provider
