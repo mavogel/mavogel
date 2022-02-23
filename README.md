@@ -35,8 +35,8 @@ In English, Spanish or German...
 #### 👷 Check out what I'm currently working on
 
 - [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip (3 weeks ago)
-- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider (4 weeks ago)
-- [hashicorp/terraform-website](https://github.com/hashicorp/terraform-website) - Build configuration and partial content for terraform.io (4 weeks ago)
+- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider (1 month ago)
+- [hashicorp/terraform-website](https://github.com/hashicorp/terraform-website) - Build configuration and partial content for terraform.io (1 month ago)
 - [kreuzwerker/envplate](https://github.com/kreuzwerker/envplate) - Docker-friendly trivial templating for configuration files using environment keys (1 month ago)
 - [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) - Nuke a whole AWS account and delete all its resources. (1 month ago)
 
@@ -45,7 +45,7 @@ In English, Spanish or German...
 - [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) ([0.5.1](https://github.com/kreuzwerker/m1-terraform-provider-helper/releases/tag/0.5.1), 1 week ago) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip
 - [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) ([v1.64.0](https://github.com/antonbabenko/pre-commit-terraform/releases/tag/v1.64.0), 1 week ago) - pre-commit git hooks to take care of Terraform configurations
 - [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) ([v2.17.0](https://github.com/rebuy-de/aws-nuke/releases/tag/v2.17.0), 4 weeks ago) - Nuke a whole AWS account and delete all its resources.
-- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) ([v2.16.0](https://github.com/kreuzwerker/terraform-provider-docker/releases/tag/v2.16.0), 4 weeks ago) - Terraform Docker provider
+- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) ([v2.16.0](https://github.com/kreuzwerker/terraform-provider-docker/releases/tag/v2.16.0), 1 month ago) - Terraform Docker provider
 - [superwerker/superwerker](https://github.com/superwerker/superwerker) ([v0.13.1](https://github.com/superwerker/superwerker/releases/tag/v0.13.1), 1 month ago) - superwerker can help you get started with the AWS Cloud quickly without investing in consultants or devoting time to extensive research. superwerker is a free, open-source solution that lets you quickly set up an AWS Cloud environment following best practices for security and efficiency so you can focus on your core business. 
 #### ✨ Stats
 
