@@ -42,9 +42,9 @@ In English, Spanish or German...
 
 #### 🔭 Latest releases I've contributed to
 
+- [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) ([v1.64.1](https://github.com/antonbabenko/pre-commit-terraform/releases/tag/v1.64.1), today) - pre-commit git hooks to take care of Terraform configurations
 - [lovoo/goka](https://github.com/lovoo/goka) ([v1.1.2](https://github.com/lovoo/goka/releases/tag/v1.1.2), 1 week ago) - Goka is a compact yet powerful distributed stream processing library for Apache Kafka written in Go.
 - [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) ([0.5.1](https://github.com/kreuzwerker/m1-terraform-provider-helper/releases/tag/0.5.1), 1 month ago) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip
-- [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) ([v1.64.0](https://github.com/antonbabenko/pre-commit-terraform/releases/tag/v1.64.0), 1 month ago) - pre-commit git hooks to take care of Terraform configurations
 - [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) ([v2.17.0](https://github.com/rebuy-de/aws-nuke/releases/tag/v2.17.0), 2 months ago) - Nuke a whole AWS account and delete all its resources.
 - [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) ([v2.16.0](https://github.com/kreuzwerker/terraform-provider-docker/releases/tag/v2.16.0), 2 months ago) - Terraform Docker provider
 
