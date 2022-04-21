@@ -38,11 +38,11 @@ In English, Spanish or German...
 - [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider (2 months ago)
 - [hashicorp/terraform-website](https://github.com/hashicorp/terraform-website) - Build configuration and partial content for terraform.io (2 months ago)
 - [kreuzwerker/envplate](https://github.com/kreuzwerker/envplate) - Docker-friendly trivial templating for configuration files using environment keys (2 months ago)
-- [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) - Nuke a whole AWS account and delete all its resources. (2 months ago)
+- [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) - Nuke a whole AWS account and delete all its resources. (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [lovoo/goka](https://github.com/lovoo/goka) ([v1.1.2](https://github.com/lovoo/goka/releases/tag/v1.1.2), 3 weeks ago) - Goka is a compact yet powerful distributed stream processing library for Apache Kafka written in Go.
+- [lovoo/goka](https://github.com/lovoo/goka) ([v1.1.2](https://github.com/lovoo/goka/releases/tag/v1.1.2), 4 weeks ago) - Goka is a compact yet powerful distributed stream processing library for Apache Kafka written in Go.
 - [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) ([0.5.1](https://github.com/kreuzwerker/m1-terraform-provider-helper/releases/tag/0.5.1), 2 months ago) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip
 - [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) ([v2.17.0](https://github.com/rebuy-de/aws-nuke/releases/tag/v2.17.0), 2 months ago) - Nuke a whole AWS account and delete all its resources.
 - [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) ([v2.16.0](https://github.com/kreuzwerker/terraform-provider-docker/releases/tag/v2.16.0), 2 months ago) - Terraform Docker provider
