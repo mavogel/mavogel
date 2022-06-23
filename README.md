@@ -34,19 +34,19 @@ In English, Spanish or German...
 
 #### 👷 Check out what I'm currently working on
 
-- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider (1 week ago)
+- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider (2 weeks ago)
 - [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip (1 month ago)
-- [hashicorp/terraform-website](https://github.com/hashicorp/terraform-website) - Build configuration and partial content for terraform.io (4 months ago)
+- [hashicorp/terraform-website](https://github.com/hashicorp/terraform-website) - Build configuration and partial content for terraform.io (5 months ago)
 - [kreuzwerker/envplate](https://github.com/kreuzwerker/envplate) - Docker-friendly trivial templating for configuration files using environment keys (5 months ago)
 - [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) - Nuke a whole AWS account and delete all its resources. (5 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) ([0.6.2](https://github.com/kreuzwerker/m1-terraform-provider-helper/releases/tag/0.6.2), today) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip
+- [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) ([0.6.2](https://github.com/kreuzwerker/m1-terraform-provider-helper/releases/tag/0.6.2), 1 day ago) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip
 - [lovoo/goka](https://github.com/lovoo/goka) ([v1.1.3](https://github.com/lovoo/goka/releases/tag/v1.1.3), 1 week ago) - Goka is a compact yet powerful distributed stream processing library for Apache Kafka written in Go.
-- [superwerker/superwerker](https://github.com/superwerker/superwerker) ([v0.13.2](https://github.com/superwerker/superwerker/releases/tag/v0.13.2), 4 weeks ago) - superwerker can help you get started with the AWS Cloud quickly without investing in consultants or devoting time to extensive research. superwerker is a free, open-source solution that lets you quickly set up an AWS Cloud environment following best practices for security and efficiency so you can focus on your core business. 
+- [superwerker/superwerker](https://github.com/superwerker/superwerker) ([v0.13.2](https://github.com/superwerker/superwerker/releases/tag/v0.13.2), 1 month ago) - superwerker can help you get started with the AWS Cloud quickly without investing in consultants or devoting time to extensive research. superwerker is a free, open-source solution that lets you quickly set up an AWS Cloud environment following best practices for security and efficiency so you can focus on your core business. 
 - [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) ([v2.19.0](https://github.com/rebuy-de/aws-nuke/releases/tag/v2.19.0), 1 month ago) - Nuke a whole AWS account and delete all its resources.
-- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) ([v2.16.0](https://github.com/kreuzwerker/terraform-provider-docker/releases/tag/v2.16.0), 4 months ago) - Terraform Docker provider
+- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) ([v2.16.0](https://github.com/kreuzwerker/terraform-provider-docker/releases/tag/v2.16.0), 5 months ago) - Terraform Docker provider
 
 
 
