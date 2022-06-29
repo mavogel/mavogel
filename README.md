@@ -42,9 +42,9 @@ In English, Spanish or German...
 
 #### 🔭 Latest releases I've contributed to
 
-- [lovoo/goka](https://github.com/lovoo/goka) ([v1.1.4](https://github.com/lovoo/goka/releases/tag/v1.1.4), today) - Goka is a compact yet powerful distributed stream processing library for Apache Kafka written in Go.
-- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) ([v2.17.0](https://github.com/kreuzwerker/terraform-provider-docker/releases/tag/v2.17.0), 5 days ago) - Terraform Docker provider
-- [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) ([0.6.2](https://github.com/kreuzwerker/m1-terraform-provider-helper/releases/tag/0.6.2), 6 days ago) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip
+- [lovoo/goka](https://github.com/lovoo/goka) ([v1.1.4](https://github.com/lovoo/goka/releases/tag/v1.1.4), 1 day ago) - Goka is a compact yet powerful distributed stream processing library for Apache Kafka written in Go.
+- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) ([v2.17.0](https://github.com/kreuzwerker/terraform-provider-docker/releases/tag/v2.17.0), 6 days ago) - Terraform Docker provider
+- [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) ([0.6.2](https://github.com/kreuzwerker/m1-terraform-provider-helper/releases/tag/0.6.2), 1 week ago) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip
 - [superwerker/superwerker](https://github.com/superwerker/superwerker) ([v0.13.2](https://github.com/superwerker/superwerker/releases/tag/v0.13.2), 1 month ago) - superwerker can help you get started with the AWS Cloud quickly without investing in consultants or devoting time to extensive research. superwerker is a free, open-source solution that lets you quickly set up an AWS Cloud environment following best practices for security and efficiency so you can focus on your core business. 
 - [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) ([v2.19.0](https://github.com/rebuy-de/aws-nuke/releases/tag/v2.19.0), 1 month ago) - Nuke a whole AWS account and delete all its resources.
 
