@@ -38,7 +38,7 @@ In English, Spanish or German...
 - [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider (3 months ago)
 - [hashicorp/terraform-website](https://github.com/hashicorp/terraform-website) - Build configuration and partial content for terraform.io (7 months ago)
 - [kreuzwerker/envplate](https://github.com/kreuzwerker/envplate) - Docker-friendly trivial templating for configuration files using environment keys (7 months ago)
-- [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) - Nuke a whole AWS account and delete all its resources. (7 months ago)
+- [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) - Nuke a whole AWS account and delete all its resources. (8 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
