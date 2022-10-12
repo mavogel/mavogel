@@ -42,7 +42,7 @@ In English, Spanish or German...
 
 #### 🔭 Latest releases I've contributed to
 
-- [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) ([v2.20.0](https://github.com/rebuy-de/aws-nuke/releases/tag/v2.20.0), today) - Nuke a whole AWS account and delete all its resources.
+- [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) ([v2.20.0](https://github.com/rebuy-de/aws-nuke/releases/tag/v2.20.0), 1 day ago) - Nuke a whole AWS account and delete all its resources.
 - [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) ([v2.22.0](https://github.com/kreuzwerker/terraform-provider-docker/releases/tag/v2.22.0), 3 weeks ago) - Terraform Docker provider
 - [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) ([0.7.7](https://github.com/kreuzwerker/m1-terraform-provider-helper/releases/tag/0.7.7), 1 month ago) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip
 - [lovoo/goka](https://github.com/lovoo/goka) ([v1.1.7](https://github.com/lovoo/goka/releases/tag/v1.1.7), 3 months ago) - Goka is a compact yet powerful distributed stream processing library for Apache Kafka written in Go.
