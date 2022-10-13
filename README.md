@@ -42,8 +42,8 @@ In English, Spanish or German...
 
 #### 🔭 Latest releases I've contributed to
 
-- [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) ([0.8.0](https://github.com/kreuzwerker/m1-terraform-provider-helper/releases/tag/0.8.0), today) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip
-- [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) ([v2.20.0](https://github.com/rebuy-de/aws-nuke/releases/tag/v2.20.0), 1 day ago) - Nuke a whole AWS account and delete all its resources.
+- [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) ([0.8.0](https://github.com/kreuzwerker/m1-terraform-provider-helper/releases/tag/0.8.0), 1 day ago) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip
+- [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) ([v2.20.0](https://github.com/rebuy-de/aws-nuke/releases/tag/v2.20.0), 2 days ago) - Nuke a whole AWS account and delete all its resources.
 - [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) ([v2.22.0](https://github.com/kreuzwerker/terraform-provider-docker/releases/tag/v2.22.0), 3 weeks ago) - Terraform Docker provider
 - [lovoo/goka](https://github.com/lovoo/goka) ([v1.1.7](https://github.com/lovoo/goka/releases/tag/v1.1.7), 3 months ago) - Goka is a compact yet powerful distributed stream processing library for Apache Kafka written in Go.
 - [superwerker/superwerker](https://github.com/superwerker/superwerker) ([v0.13.2](https://github.com/superwerker/superwerker/releases/tag/v0.13.2), 4 months ago) - superwerker can help you get started with the AWS Cloud quickly without investing in consultants or devoting time to extensive research. superwerker is a free, open-source solution that lets you quickly set up an AWS Cloud environment following best practices for security and efficiency so you can focus on your core business. 
