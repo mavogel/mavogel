@@ -36,7 +36,7 @@ In English, Spanish or German...
 
 - [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip (1 month ago)
 - [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider (4 months ago)
-- [hashicorp/terraform-website](https://github.com/hashicorp/terraform-website) - Build configuration and partial content for terraform.io (8 months ago)
+- [hashicorp/terraform-website](https://github.com/hashicorp/terraform-website) - Build configuration and partial content for terraform.io (9 months ago)
 - [kreuzwerker/envplate](https://github.com/kreuzwerker/envplate) - Docker-friendly trivial templating for configuration files using environment keys (9 months ago)
 - [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) - Nuke a whole AWS account and delete all its resources. (9 months ago)
 
@@ -45,7 +45,7 @@ In English, Spanish or German...
 - [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) ([0.8.0](https://github.com/kreuzwerker/m1-terraform-provider-helper/releases/tag/0.8.0), 1 week ago) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip
 - [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) ([v2.20.0](https://github.com/rebuy-de/aws-nuke/releases/tag/v2.20.0), 1 week ago) - Nuke a whole AWS account and delete all its resources.
 - [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) ([v2.22.0](https://github.com/kreuzwerker/terraform-provider-docker/releases/tag/v2.22.0), 1 month ago) - Terraform Docker provider
-- [superwerker/superwerker](https://github.com/superwerker/superwerker) ([v0.13.2](https://github.com/superwerker/superwerker/releases/tag/v0.13.2), 4 months ago) - superwerker can help you get started with the AWS Cloud quickly without investing in consultants or devoting time to extensive research. superwerker is a free, open-source solution that lets you quickly set up an AWS Cloud environment following best practices for security and efficiency so you can focus on your core business. 
+- [superwerker/superwerker](https://github.com/superwerker/superwerker) ([v0.13.2](https://github.com/superwerker/superwerker/releases/tag/v0.13.2), 5 months ago) - superwerker can help you get started with the AWS Cloud quickly without investing in consultants or devoting time to extensive research. superwerker is a free, open-source solution that lets you quickly set up an AWS Cloud environment following best practices for security and efficiency so you can focus on your core business. 
 - [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) ([v0.15.1](https://github.com/git-chglog/git-chglog/releases/tag/v0.15.1), 10 months ago) - CHANGELOG generator implemented in Go (Golang).
 
 
