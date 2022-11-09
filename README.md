@@ -45,8 +45,8 @@ In English, Spanish or German...
 - [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) ([v2.23.0](https://github.com/kreuzwerker/terraform-provider-docker/releases/tag/v2.23.0), 1 week ago) - Terraform Docker provider
 - [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) ([0.8.0](https://github.com/kreuzwerker/m1-terraform-provider-helper/releases/tag/0.8.0), 4 weeks ago) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip
 - [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) ([v2.20.0](https://github.com/rebuy-de/aws-nuke/releases/tag/v2.20.0), 4 weeks ago) - Nuke a whole AWS account and delete all its resources.
-- [superwerker/superwerker](https://github.com/superwerker/superwerker) ([v0.13.2](https://github.com/superwerker/superwerker/releases/tag/v0.13.2), 5 months ago) - superwerker can help you get started with the AWS Cloud quickly without investing in consultants or devoting time to extensive research. superwerker is a free, open-source solution that lets you quickly set up an AWS Cloud environment following best practices for security and efficiency so you can focus on your core business. 
 - [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) ([v0.15.1](https://github.com/git-chglog/git-chglog/releases/tag/v0.15.1), 11 months ago) - CHANGELOG generator implemented in Go (Golang).
+- [kreuzwerker/awsu](https://github.com/kreuzwerker/awsu) ([v2.3.9](https://github.com/kreuzwerker/awsu/releases/tag/v2.3.9), 11 months ago) - Enhanced account switching for AWS, supports Yubikey as MFA source
 
 
 
