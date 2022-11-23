@@ -42,7 +42,7 @@ In English, Spanish or German...
 
 #### 🔭 Latest releases I've contributed to
 
-- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) ([v2.23.0](https://github.com/kreuzwerker/terraform-provider-docker/releases/tag/v2.23.0), 2 weeks ago) - Terraform Docker provider
+- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) ([v2.23.0](https://github.com/kreuzwerker/terraform-provider-docker/releases/tag/v2.23.0), 3 weeks ago) - Terraform Docker provider
 - [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) ([0.8.0](https://github.com/kreuzwerker/m1-terraform-provider-helper/releases/tag/0.8.0), 1 month ago) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip
 - [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) ([v2.20.0](https://github.com/rebuy-de/aws-nuke/releases/tag/v2.20.0), 1 month ago) - Nuke a whole AWS account and delete all its resources.
 - [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) ([v0.15.1](https://github.com/git-chglog/git-chglog/releases/tag/v0.15.1), 11 months ago) - CHANGELOG generator implemented in Go (Golang).
