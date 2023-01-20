@@ -42,7 +42,7 @@ In English, Spanish or German...
 
 #### 🔭 Latest releases I've contributed to
 
-- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) ([v3.0.1](https://github.com/kreuzwerker/terraform-provider-docker/releases/tag/v3.0.1), 6 days ago) - Terraform Docker provider
+- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) ([v3.0.1](https://github.com/kreuzwerker/terraform-provider-docker/releases/tag/v3.0.1), 1 week ago) - Terraform Docker provider
 - [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) ([0.8.1](https://github.com/kreuzwerker/m1-terraform-provider-helper/releases/tag/0.8.1), 1 month ago) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip
 - [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) ([v2.21.2](https://github.com/rebuy-de/aws-nuke/releases/tag/v2.21.2), 1 month ago) - Nuke a whole AWS account and delete all its resources.
 - [kreuzwerker/envplate](https://github.com/kreuzwerker/envplate) ([v1.0.2](https://github.com/kreuzwerker/envplate/releases/tag/v1.0.2), 1 year ago) - Docker-friendly trivial templating for configuration files using environment keys
