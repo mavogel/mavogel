@@ -34,8 +34,8 @@ In English, Spanish or German...
 
 #### 👷 Check out what I'm currently working on
 
-- [kreuzwerker/awsu](https://github.com/kreuzwerker/awsu) - Enhanced account switching for AWS, supports Yubikey as MFA source (1 day ago)
 - [superwerker/superwerker](https://github.com/superwerker/superwerker) - superwerker can help you get started with the AWS Cloud quickly without investing in consultants or devoting time to extensive research. superwerker is a free, open-source solution that lets you quickly set up an AWS Cloud environment following best practices for security and efficiency so you can focus on your core business.  (1 day ago)
+- [kreuzwerker/awsu](https://github.com/kreuzwerker/awsu) - Enhanced account switching for AWS, supports Yubikey as MFA source (1 day ago)
 - [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider (2 weeks ago)
 - [awslabs/sandbox-accounts-for-events](https://github.com/awslabs/sandbox-accounts-for-events) - &#34;Sandbox Accounts for Events&#34; allows to provide multiple, temporary AWS accounts to a number of authenticated users simultaneously via a browser-based GUI. (3 months ago)
 - [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip (4 months ago)
@@ -45,8 +45,8 @@ In English, Spanish or German...
 - [superwerker/superwerker](https://github.com/superwerker/superwerker) ([v0.15.0](https://github.com/superwerker/superwerker/releases/tag/v0.15.0), 1 day ago) - superwerker can help you get started with the AWS Cloud quickly without investing in consultants or devoting time to extensive research. superwerker is a free, open-source solution that lets you quickly set up an AWS Cloud environment following best practices for security and efficiency so you can focus on your core business. 
 - [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) ([v3.0.1](https://github.com/kreuzwerker/terraform-provider-docker/releases/tag/v3.0.1), 1 week ago) - Terraform Docker provider
 - [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) ([0.8.1](https://github.com/kreuzwerker/m1-terraform-provider-helper/releases/tag/0.8.1), 1 month ago) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip
-- [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) ([v2.21.2](https://github.com/rebuy-de/aws-nuke/releases/tag/v2.21.2), 1 month ago) - Nuke a whole AWS account and delete all its resources.
 - [kreuzwerker/awsu](https://github.com/kreuzwerker/awsu) ([v2.3.9](https://github.com/kreuzwerker/awsu/releases/tag/v2.3.9), 1 year ago) - Enhanced account switching for AWS, supports Yubikey as MFA source
+- [kreuzwerker/envplate](https://github.com/kreuzwerker/envplate) ([v1.0.2](https://github.com/kreuzwerker/envplate/releases/tag/v1.0.2), 1 year ago) - Docker-friendly trivial templating for configuration files using environment keys
 
 
 
