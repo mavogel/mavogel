@@ -34,15 +34,15 @@ In English, Spanish or German...
 
 #### 👷 Check out what I'm currently working on
 
-- [superluminar-io/mavm](https://github.com/superluminar-io/mavm) - Create new AWS accounts and Organizations on the fly and cleanup and close accounts afterwarts again. Fully automated. (today)
-- [mavogel/docker-gh-action-test](https://github.com/mavogel/docker-gh-action-test) -  (3 days ago)
-- [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang). (4 days ago)
-- [kreuzwerker/awsu](https://github.com/kreuzwerker/awsu) - Enhanced account switching for AWS, supports Yubikey as MFA source (1 week ago)
+- [superluminar-io/mavm](https://github.com/superluminar-io/mavm) - Create new AWS accounts and Organizations on the fly and cleanup and close accounts afterwarts again. Fully automated. (1 day ago)
+- [mavogel/docker-gh-action-test](https://github.com/mavogel/docker-gh-action-test) -  (4 days ago)
+- [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang). (5 days ago)
 - [superwerker/superwerker](https://github.com/superwerker/superwerker) - superwerker can help you get started with the AWS Cloud quickly without investing in consultants or devoting time to extensive research. superwerker is a free, open-source solution that lets you quickly set up an AWS Cloud environment following best practices for security and efficiency so you can focus on your core business.  (1 week ago)
+- [kreuzwerker/awsu](https://github.com/kreuzwerker/awsu) - Enhanced account switching for AWS, supports Yubikey as MFA source (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) ([v0.15.2](https://github.com/git-chglog/git-chglog/releases/tag/v0.15.2), 5 days ago) - CHANGELOG generator implemented in Go (Golang).
+- [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) ([v0.15.2](https://github.com/git-chglog/git-chglog/releases/tag/v0.15.2), 6 days ago) - CHANGELOG generator implemented in Go (Golang).
 - [superwerker/superwerker](https://github.com/superwerker/superwerker) ([v0.15.0](https://github.com/superwerker/superwerker/releases/tag/v0.15.0), 1 week ago) - superwerker can help you get started with the AWS Cloud quickly without investing in consultants or devoting time to extensive research. superwerker is a free, open-source solution that lets you quickly set up an AWS Cloud environment following best practices for security and efficiency so you can focus on your core business. 
 - [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) ([v3.0.1](https://github.com/kreuzwerker/terraform-provider-docker/releases/tag/v3.0.1), 2 weeks ago) - Terraform Docker provider
 - [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) ([0.8.1](https://github.com/kreuzwerker/m1-terraform-provider-helper/releases/tag/0.8.1), 1 month ago) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip
