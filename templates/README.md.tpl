@@ -6,28 +6,26 @@ I'm Manuel, an open-source enthusiast, active contributor and automation lover. 
 yet but a maintainer of a bunch of projects. When I see something to be improved, I just do it. When I see a project
 which simplifies my life and the one of many others I use my skills to improve it even more.
 
-Curious what I've been hacking on recently or what I [read](https://www.goodreads.com/user/show/128554892-manuel-vogel)?
-
 #### 📫 How to reach me
 In English, Spanish or German...
 
-- Mail: mavogel[at]posteo.de
-- Slack: mavogel @ [@gophers/terraform-provider-docker](https://gophers.slack.com/archives/C01G9TN5V36)
+- [Mail](mailto:mavogel@posteo.de)
+- [LinkedIn](https://inkedin.com/in/manuel-vogel)
 
 #### 🛠 Languages and Tools
 <p>
 
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-horizontal.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-official.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
-  <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-horizontal.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-official.svg"></code>
+  <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/containerdio/containerdio-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
   <br />
  
 </p>
@@ -42,14 +40,20 @@ In English, Spanish or German...
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
-<!--#### ✨ Stats
+#### ✨ Stats
+<a href="https://github.com/mavogel">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=mavogel&count_private=true&show_icons=true&theme=synthwave" />
+</a>
+<a href="https://github.com/mavogel">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mavogel&layout=compact&show_icons=true&theme=synthwave" />
+</a>
 
-[![](https://raw.githubusercontent.com/mavogel/mavogel/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![](https://raw.githubusercontent.com/mavogel/mavogel/master/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/mavogel/mavogel/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
+<!-- [![](https://raw.githubusercontent.com/mavogel/mavogel/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
+<!-- [![](https://raw.githubusercontent.com/mavogel/mavogel/master/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
+<!-- [![](https://raw.githubusercontent.com/mavogel/mavogel/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
 
-<!-- #### 🌱 My latest projects
+#### 🌱 My latest projects
 {{range recentRepos 5}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
-{{- end}} -->
+{{- end}}
