@@ -6,28 +6,26 @@ I'm Manuel, an open-source enthusiast, active contributor and automation lover. 
 yet but a maintainer of a bunch of projects. When I see something to be improved, I just do it. When I see a project
 which simplifies my life and the one of many others I use my skills to improve it even more.
 
-Curious what I've been hacking on recently or what I [read](https://www.goodreads.com/user/show/128554892-manuel-vogel)?
-
 #### 📫 How to reach me
 In English, Spanish or German...
 
-- Mail: mavogel[at]posteo.de
-- Slack: mavogel @ [@gophers/terraform-provider-docker](https://gophers.slack.com/archives/C01G9TN5V36)
+- [Mail](mailto:mavogel@posteo.de)
+- [LinkedIn](https://inkedin.com/in/manuel-vogel)
 
 #### 🛠 Languages and Tools
 <p>
 
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-horizontal.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-official.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
-  <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-horizontal.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-official.svg"></code>
+  <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/containerdio/containerdio-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
   <br />
  
 </p>
@@ -48,5 +46,23 @@ In English, Spanish or German...
 - [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) ([0.8.1](https://github.com/kreuzwerker/m1-terraform-provider-helper/releases/tag/0.8.1), 2 months ago) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip
 - [kreuzwerker/awsu](https://github.com/kreuzwerker/awsu) ([v2.3.9](https://github.com/kreuzwerker/awsu/releases/tag/v2.3.9), 1 year ago) - Enhanced account switching for AWS, supports Yubikey as MFA source
 
+#### ✨ Stats
+<a href="https://github.com/mavogel">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=mavogel&count_private=true&show_icons=true&theme=synthwave" />
+</a>
+<a href="https://github.com/mavogel">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mavogel&layout=compact&show_icons=true&theme=synthwave" />
+</a>
 
 
+
+
+
+
+#### 🌱 My latest projects
+
+- [mavogel/docker-gh-action-test](https://github.com/mavogel/docker-gh-action-test) - 
+- [mavogel/mavogel.github.io](https://github.com/mavogel/mavogel.github.io) - My portfolio
+- [mavogel/go-ssh-forward](https://github.com/mavogel/go-ssh-forward) - A simple library to establish a forward via a jump host in go
+- [mavogel/ilias-client-lib](https://github.com/mavogel/ilias-client-lib) - Connector library for the Ilias SOAP endpoint
+- [mavogel/dotfiles](https://github.com/mavogel/dotfiles) - My dotfiles
