@@ -33,7 +33,7 @@ In English, Spanish or German...
 #### 👷 Check out what I'm currently working on
 
 - [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang). (3 days ago)
-- [mavogel/docker-gh-action-test](https://github.com/mavogel/docker-gh-action-test) -  (1 week ago)
+- [mavogel/docker-gh-action-test](https://github.com/mavogel/docker-gh-action-test) - Running docker in GitHub Actions (1 week ago)
 - [superluminar-io/mavm](https://github.com/superluminar-io/mavm) - Create new AWS accounts and Organizations on the fly and cleanup and close accounts afterwarts again. Fully automated. (2 weeks ago)
 - [superwerker/superwerker](https://github.com/superwerker/superwerker) - superwerker can help you get started with the AWS Cloud quickly without investing in consultants or devoting time to extensive research. superwerker is a free, open-source solution that lets you quickly set up an AWS Cloud environment following best practices for security and efficiency so you can focus on your core business.  (3 weeks ago)
 - [kreuzwerker/awsu](https://github.com/kreuzwerker/awsu) - Enhanced account switching for AWS, supports Yubikey as MFA source (3 weeks ago)
@@ -61,7 +61,7 @@ In English, Spanish or German...
 
 #### 🌱 My latest projects
 
-- [mavogel/docker-gh-action-test](https://github.com/mavogel/docker-gh-action-test) - 
+- [mavogel/docker-gh-action-test](https://github.com/mavogel/docker-gh-action-test) - Running docker in GitHub Actions
 - [mavogel/mavogel.github.io](https://github.com/mavogel/mavogel.github.io) - My portfolio
 - [mavogel/go-ssh-forward](https://github.com/mavogel/go-ssh-forward) - A simple library to establish a forward via a jump host in go
 - [mavogel/ilias-client-lib](https://github.com/mavogel/ilias-client-lib) - Connector library for the Ilias SOAP endpoint
