@@ -34,16 +34,16 @@ In English, Spanish or German...
 
 - [superwerker/superwerker](https://github.com/superwerker/superwerker) - superwerker can help you get started with the AWS Cloud quickly without investing in consultants or devoting time to extensive research. superwerker is a free, open-source solution that lets you quickly set up an AWS Cloud environment following best practices for security and efficiency so you can focus on your core business.  (2 weeks ago)
 - [kreuzwerker/awsu](https://github.com/kreuzwerker/awsu) - Enhanced account switching for AWS, supports Yubikey as MFA source (2 weeks ago)
-- [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang). (2 weeks ago)
-- [kreuzwerker/envsec](https://github.com/kreuzwerker/envsec) - Encrypted environment variables via AWS KMS (2 weeks ago)
-- [kreuzwerker/envplate](https://github.com/kreuzwerker/envplate) - Docker-friendly trivial templating for configuration files using environment keys (2 weeks ago)
+- [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang). (3 weeks ago)
+- [kreuzwerker/envsec](https://github.com/kreuzwerker/envsec) - Encrypted environment variables via AWS KMS (3 weeks ago)
+- [kreuzwerker/envplate](https://github.com/kreuzwerker/envplate) - Docker-friendly trivial templating for configuration files using environment keys (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
 - [kreuzwerker/awsu](https://github.com/kreuzwerker/awsu) ([v2.3.11](https://github.com/kreuzwerker/awsu/releases/tag/v2.3.11), 2 weeks ago) - Enhanced account switching for AWS, supports Yubikey as MFA source
-- [kreuzwerker/envsec](https://github.com/kreuzwerker/envsec) ([v1.2.2](https://github.com/kreuzwerker/envsec/releases/tag/v1.2.2), 2 weeks ago) - Encrypted environment variables via AWS KMS
-- [kreuzwerker/envplate](https://github.com/kreuzwerker/envplate) ([v1.0.3](https://github.com/kreuzwerker/envplate/releases/tag/v1.0.3), 2 weeks ago) - Docker-friendly trivial templating for configuration files using environment keys
-- [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) ([v0.15.4](https://github.com/git-chglog/git-chglog/releases/tag/v0.15.4), 2 weeks ago) - CHANGELOG generator implemented in Go (Golang).
+- [kreuzwerker/envsec](https://github.com/kreuzwerker/envsec) ([v1.2.2](https://github.com/kreuzwerker/envsec/releases/tag/v1.2.2), 3 weeks ago) - Encrypted environment variables via AWS KMS
+- [kreuzwerker/envplate](https://github.com/kreuzwerker/envplate) ([v1.0.3](https://github.com/kreuzwerker/envplate/releases/tag/v1.0.3), 3 weeks ago) - Docker-friendly trivial templating for configuration files using environment keys
+- [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) ([v0.15.4](https://github.com/git-chglog/git-chglog/releases/tag/v0.15.4), 3 weeks ago) - CHANGELOG generator implemented in Go (Golang).
 - [superwerker/superwerker](https://github.com/superwerker/superwerker) ([v0.15.0](https://github.com/superwerker/superwerker/releases/tag/v0.15.0), 1 month ago) - superwerker can help you get started with the AWS Cloud quickly without investing in consultants or devoting time to extensive research. superwerker is a free, open-source solution that lets you quickly set up an AWS Cloud environment following best practices for security and efficiency so you can focus on your core business. 
 
 #### ✨ Stats
