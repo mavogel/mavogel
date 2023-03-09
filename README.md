@@ -62,7 +62,7 @@ In English, Spanish or German...
 #### 🌱 My latest projects
 
 - [mavogel/docker-gh-action-test](https://github.com/mavogel/docker-gh-action-test) - Running docker in GitHub Actions
-- [mavogel/mavogel.github.io](https://github.com/mavogel/mavogel.github.io) - My portfolio
 - [mavogel/go-ssh-forward](https://github.com/mavogel/go-ssh-forward) - A simple library to establish a forward via a jump host in go
 - [mavogel/ilias-client-lib](https://github.com/mavogel/ilias-client-lib) - Connector library for the Ilias SOAP endpoint
 - [mavogel/dotfiles](https://github.com/mavogel/dotfiles) - My dotfiles
+- [mavogel/simple-city-service](https://github.com/mavogel/simple-city-service) - A simple city service providing additional weather data
