@@ -32,11 +32,11 @@ In English, Spanish or German...
 
 #### 👷 Check out what I'm currently working on
 
-- [superwerker/superwerker](https://github.com/superwerker/superwerker) - superwerker can help you get started with the AWS Cloud quickly without investing in consultants or devoting time to extensive research. superwerker is a free, open-source solution that lets you quickly set up an AWS Cloud environment following best practices for security and efficiency so you can focus on your core business.  (3 weeks ago)
+- [superwerker/superwerker](https://github.com/superwerker/superwerker) - superwerker can help you get started with the AWS Cloud quickly without investing in consultants or devoting time to extensive research. superwerker is a free, open-source solution that lets you quickly set up an AWS Cloud environment following best practices for security and efficiency so you can focus on your core business.  (today)
 - [kreuzwerker/awsu](https://github.com/kreuzwerker/awsu) - Enhanced account switching for AWS, supports Yubikey as MFA source (4 weeks ago)
 - [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang). (4 weeks ago)
-- [kreuzwerker/envsec](https://github.com/kreuzwerker/envsec) - Encrypted environment variables via AWS KMS (4 weeks ago)
 - [kreuzwerker/envplate](https://github.com/kreuzwerker/envplate) - Docker-friendly trivial templating for configuration files using environment keys (4 weeks ago)
+- [kreuzwerker/envsec](https://github.com/kreuzwerker/envsec) - Encrypted environment variables via AWS KMS (4 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
