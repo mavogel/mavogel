@@ -40,15 +40,6 @@ In English, Spanish or German...
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
-#### ✨ Stats
-<a href="https://github.com/mavogel">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=mavogel&count_private=true&show_icons=true&theme=synthwave" />
-</a>
-<a href="https://github.com/mavogel">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mavogel&layout=compact&show_icons=true&theme=synthwave" />
-</a>
-
-
 <!-- [![](https://raw.githubusercontent.com/mavogel/mavogel/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
 <!-- [![](https://raw.githubusercontent.com/mavogel/mavogel/master/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
 <!-- [![](https://raw.githubusercontent.com/mavogel/mavogel/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
