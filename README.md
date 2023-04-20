@@ -46,15 +46,6 @@ In English, Spanish or German...
 - [kreuzwerker/envsec](https://github.com/kreuzwerker/envsec) ([v1.2.2](https://github.com/kreuzwerker/envsec/releases/tag/v1.2.2), 2 months ago) - Encrypted environment variables via AWS KMS
 - [kreuzwerker/envplate](https://github.com/kreuzwerker/envplate) ([v1.0.3](https://github.com/kreuzwerker/envplate/releases/tag/v1.0.3), 2 months ago) - Docker-friendly trivial templating for configuration files using environment keys
 
-#### ✨ Stats
-<a href="https://github.com/mavogel">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=mavogel&count_private=true&show_icons=true&theme=synthwave" />
-</a>
-<a href="https://github.com/mavogel">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mavogel&layout=compact&show_icons=true&theme=synthwave" />
-</a>
-
-
 
 
 
