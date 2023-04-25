@@ -22,23 +22,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/mavogel/mavogel/master/profile-summary-card-output/date_night/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/mavogel/mavogel/master/profile-summary-card-output/date_night/4-productive-time.svg)
-```
-
-    
