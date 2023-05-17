@@ -34,7 +34,7 @@ In English, Spanish or German...
 
 - [mavogel/docker-gh-action-test](https://github.com/mavogel/docker-gh-action-test) - Running docker in GitHub Actions (3 weeks ago)
 - [superwerker/superwerker](https://github.com/superwerker/superwerker) - superwerker can help you get started with the AWS Cloud quickly without investing in consultants or devoting time to extensive research. superwerker is a free, open-source solution that lets you quickly set up an AWS Cloud environment following best practices for security and efficiency so you can focus on your core business.  (1 month ago)
-- [kreuzwerker/awsu](https://github.com/kreuzwerker/awsu) - Enhanced account switching for AWS, supports Yubikey as MFA source (2 months ago)
+- [kreuzwerker/awsu](https://github.com/kreuzwerker/awsu) - Enhanced account switching for AWS, supports Yubikey as MFA source (3 months ago)
 - [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang). (3 months ago)
 - [kreuzwerker/envsec](https://github.com/kreuzwerker/envsec) - Encrypted environment variables via AWS KMS (3 months ago)
 
@@ -42,7 +42,7 @@ In English, Spanish or German...
 
 - [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) ([v3.0.2](https://github.com/kreuzwerker/terraform-provider-docker/releases/tag/v3.0.2), 2 months ago) - Terraform Docker provider
 - [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) ([0.8.2](https://github.com/kreuzwerker/m1-terraform-provider-helper/releases/tag/0.8.2), 2 months ago) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip
-- [kreuzwerker/awsu](https://github.com/kreuzwerker/awsu) ([v2.3.11](https://github.com/kreuzwerker/awsu/releases/tag/v2.3.11), 2 months ago) - Enhanced account switching for AWS, supports Yubikey as MFA source
+- [kreuzwerker/awsu](https://github.com/kreuzwerker/awsu) ([v2.3.11](https://github.com/kreuzwerker/awsu/releases/tag/v2.3.11), 3 months ago) - Enhanced account switching for AWS, supports Yubikey as MFA source
 - [kreuzwerker/envsec](https://github.com/kreuzwerker/envsec) ([v1.2.2](https://github.com/kreuzwerker/envsec/releases/tag/v1.2.2), 3 months ago) - Encrypted environment variables via AWS KMS
 - [kreuzwerker/envplate](https://github.com/kreuzwerker/envplate) ([v1.0.3](https://github.com/kreuzwerker/envplate/releases/tag/v1.0.3), 3 months ago) - Docker-friendly trivial templating for configuration files using environment keys
 
