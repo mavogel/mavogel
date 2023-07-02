@@ -1,10 +1,9 @@
 ### Hola 👋
 
-<img align="right" src="https://raw.githubusercontent.com/kreuzwerkerbot/kreuzwerkerbot/master/assets/xw.png" width="260">
 
-I'm Manuel, an open-source enthusiast, active contributor and automation lover. I'm not an author of my own project 
-yet but a maintainer of a bunch of projects. When I see something to be improved, I just do it. When I see a project
-which simplifies my life and the one of many others I use my skills to improve it even more.
+
+I'm Manuel, an open-source enthusiast, active contributor, and automation lover. When I see something to be improved, I do it. When I see a project
+that simplifies my life and many others. I use my skills to improve it even more.
 
 #### 📫 How to reach me
 In English, Spanish or German...
