@@ -45,6 +45,20 @@ In English, Spanish or German...
 - [kreuzwerker/awsu](https://github.com/kreuzwerker/awsu) ([v2.3.11](https://github.com/kreuzwerker/awsu/releases/tag/v2.3.11), 4 months ago) - Enhanced account switching for AWS, supports Yubikey as MFA source
 - [kreuzwerker/envsec](https://github.com/kreuzwerker/envsec) ([v1.2.2](https://github.com/kreuzwerker/envsec/releases/tag/v1.2.2), 4 months ago) - Encrypted environment variables via AWS KMS
 
+#### ⭐ Recent Stars
+
+- [cdklabs/cdk-monitoring-constructs](https://github.com/cdklabs/cdk-monitoring-constructs) - Easy-to-use CDK constructs for monitoring your AWS infrastructure (6 days ago)
+- [themefisher/academia-hugo](https://github.com/themefisher/academia-hugo) - Academia is a Hugo resume theme. You can showcase your academic resume, publications and talks using this theme. (2 weeks ago)
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more (2 weeks ago)
+- [aws-solutions/centralized-logging-with-opensearch](https://github.com/aws-solutions/centralized-logging-with-opensearch) - Build your own log analytics platform on OpenSearch in 20 minutes (3 weeks ago)
+- [iann0036/iamlive](https://github.com/iann0036/iamlive) - Generate an IAM policy from AWS calls using client-side monitoring (CSM) or embedded proxy (3 weeks ago)
+
+#### 👯 Check out some of my recent followers
+
+- [Phil1602](https://github.com/Phil1602)
+- [businessservic](https://github.com/businessservic)
+- [00mjk](https://github.com/00mjk)
+
 
 
 
