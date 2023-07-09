@@ -39,6 +39,16 @@ In English, Spanish or German...
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
+#### ⭐ Recent Stars
+{{range recentStars 5}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
+{{- end}}
+
+#### 👯 Check out some of my recent followers
+{{range followers 3}}
+- [{{.Login}}]({{.URL}})
+{{- end}}
+
 <!-- [![](https://raw.githubusercontent.com/mavogel/mavogel/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
 <!-- [![](https://raw.githubusercontent.com/mavogel/mavogel/master/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
 <!-- [![](https://raw.githubusercontent.com/mavogel/mavogel/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
