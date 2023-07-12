@@ -50,7 +50,7 @@ In English, Spanish or German...
 - [cdklabs/cdk-monitoring-constructs](https://github.com/cdklabs/cdk-monitoring-constructs) - Easy-to-use CDK constructs for monitoring your AWS infrastructure (1 week ago)
 - [themefisher/academia-hugo](https://github.com/themefisher/academia-hugo) - Academia is a Hugo resume theme. You can showcase your academic resume, publications and talks using this theme. (2 weeks ago)
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more (3 weeks ago)
-- [aws-solutions/centralized-logging-with-opensearch](https://github.com/aws-solutions/centralized-logging-with-opensearch) - Build your own log analytics platform on OpenSearch in 20 minutes (3 weeks ago)
+- [aws-solutions/centralized-logging-with-opensearch](https://github.com/aws-solutions/centralized-logging-with-opensearch) - Build your own log analytics platform on OpenSearch in 20 minutes (4 weeks ago)
 - [iann0036/iamlive](https://github.com/iann0036/iamlive) - Generate an IAM policy from AWS calls using client-side monitoring (CSM) or embedded proxy (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
