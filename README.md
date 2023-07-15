@@ -41,9 +41,9 @@ In English, Spanish or German...
 
 - [mavogel/cdk-hugo-pipeline](https://github.com/mavogel/cdk-hugo-pipeline) ([v0.0.15](https://github.com/mavogel/cdk-hugo-pipeline/releases/tag/v0.0.15), 1 week ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
 - [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) ([0.9.0](https://github.com/kreuzwerker/m1-terraform-provider-helper/releases/tag/0.9.0), 2 weeks ago) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip
-- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) ([v3.0.2](https://github.com/kreuzwerker/terraform-provider-docker/releases/tag/v3.0.2), 3 months ago) - Terraform Docker provider
+- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) ([v3.0.2](https://github.com/kreuzwerker/terraform-provider-docker/releases/tag/v3.0.2), 4 months ago) - Terraform Docker provider
 - [kreuzwerker/awsu](https://github.com/kreuzwerker/awsu) ([v2.3.11](https://github.com/kreuzwerker/awsu/releases/tag/v2.3.11), 4 months ago) - Enhanced account switching for AWS, supports Yubikey as MFA source
-- [kreuzwerker/envsec](https://github.com/kreuzwerker/envsec) ([v1.2.2](https://github.com/kreuzwerker/envsec/releases/tag/v1.2.2), 4 months ago) - Encrypted environment variables via AWS KMS
+- [kreuzwerker/envsec](https://github.com/kreuzwerker/envsec) ([v1.2.2](https://github.com/kreuzwerker/envsec/releases/tag/v1.2.2), 5 months ago) - Encrypted environment variables via AWS KMS
 
 #### ⭐ Recent Stars
 
