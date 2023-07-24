@@ -47,11 +47,11 @@ In English, Spanish or German...
 
 #### ⭐ Recent Stars
 
+- [cdklabs/cdk-stacksets](https://github.com/cdklabs/cdk-stacksets) -  (today)
 - [h-enk/doks](https://github.com/h-enk/doks) - Build beautiful, high-performance documentation websites with Doks (3 days ago)
 - [cdklabs/cdk-monitoring-constructs](https://github.com/cdklabs/cdk-monitoring-constructs) - Easy-to-use CDK constructs for monitoring your AWS infrastructure (3 weeks ago)
 - [themefisher/academia-hugo](https://github.com/themefisher/academia-hugo) - Academia is a Hugo resume theme. You can showcase your academic resume, publications and talks using this theme. (1 month ago)
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more (1 month ago)
-- [aws-solutions/centralized-logging-with-opensearch](https://github.com/aws-solutions/centralized-logging-with-opensearch) - Build your own log analytics platform on OpenSearch in 20 minutes (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
