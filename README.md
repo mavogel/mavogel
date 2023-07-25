@@ -51,7 +51,7 @@ In English, Spanish or German...
 - [cdklabs/cdk-stacksets](https://github.com/cdklabs/cdk-stacksets) -  (1 day ago)
 - [h-enk/doks](https://github.com/h-enk/doks) - Build beautiful, high-performance documentation websites with Doks (4 days ago)
 - [cdklabs/cdk-monitoring-constructs](https://github.com/cdklabs/cdk-monitoring-constructs) - Easy-to-use CDK constructs for monitoring your AWS infrastructure (3 weeks ago)
-- [themefisher/academia-hugo](https://github.com/themefisher/academia-hugo) - Academia is a Hugo resume theme. You can showcase your academic resume, publications and talks using this theme. (1 month ago)
+- [gethugothemes/academia-hugo](https://github.com/gethugothemes/academia-hugo) - Academia is a Hugo resume theme. You can showcase your academic resume, publications and talks using this theme. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
