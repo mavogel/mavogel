@@ -47,9 +47,9 @@ In English, Spanish or German...
 
 #### ⭐ Recent Stars
 
-- [dannysteenman/aws-toolbox](https://github.com/dannysteenman/aws-toolbox) - A collection of tools and python scripts to automate repetitive tasks on AWS Cloud (1 day ago)
-- [cdklabs/cdk-stacksets](https://github.com/cdklabs/cdk-stacksets) -  (1 day ago)
-- [h-enk/doks](https://github.com/h-enk/doks) - Build beautiful, high-performance documentation websites with Doks (4 days ago)
+- [dannysteenman/aws-toolbox](https://github.com/dannysteenman/aws-toolbox) - A collection of tools and python scripts to automate repetitive tasks on AWS Cloud (2 days ago)
+- [cdklabs/cdk-stacksets](https://github.com/cdklabs/cdk-stacksets) -  (2 days ago)
+- [h-enk/doks](https://github.com/h-enk/doks) - Build beautiful, high-performance documentation websites with Doks (5 days ago)
 - [cdklabs/cdk-monitoring-constructs](https://github.com/cdklabs/cdk-monitoring-constructs) - Easy-to-use CDK constructs for monitoring your AWS infrastructure (3 weeks ago)
 - [gethugothemes/academia-hugo](https://github.com/gethugothemes/academia-hugo) - Academia is a Hugo resume theme. You can showcase your academic resume, publications and talks using this theme. (1 month ago)
 
