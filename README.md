@@ -47,11 +47,11 @@ In English, Spanish or German...
 
 #### ⭐ Recent Stars
 
+- [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing. (today)
 - [aws/aws-sdk-js](https://github.com/aws/aws-sdk-js) - AWS SDK for JavaScript in the browser and Node.js (1 day ago)
 - [aws/aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3) - Modularized AWS SDK for JavaScript. (1 day ago)
 - [dannysteenman/aws-toolbox](https://github.com/dannysteenman/aws-toolbox) - A collection of tools and python scripts to automate repetitive tasks on AWS Cloud (1 week ago)
 - [cdklabs/cdk-stacksets](https://github.com/cdklabs/cdk-stacksets) -  (1 week ago)
-- [h-enk/doks](https://github.com/h-enk/doks) - Build beautiful, high-performance documentation websites with Doks (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
