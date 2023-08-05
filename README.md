@@ -31,7 +31,7 @@ In English, Spanish or German...
 
 #### 👷 Check out what I'm currently working on
 
-- [mavogel/cdk-hugo-pipeline](https://github.com/mavogel/cdk-hugo-pipeline) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS (today)
+- [mavogel/cdk-hugo-pipeline](https://github.com/mavogel/cdk-hugo-pipeline) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS (1 day ago)
 - [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip (1 month ago)
 - [mavogel/docker-gh-action-test](https://github.com/mavogel/docker-gh-action-test) - Running docker in GitHub Actions (3 months ago)
 - [superwerker/superwerker](https://github.com/superwerker/superwerker) - superwerker can help you get started with the AWS Cloud quickly without investing in consultants or devoting time to extensive research. superwerker is a free, open-source solution that lets you quickly set up an AWS Cloud environment following best practices for security and efficiency so you can focus on your core business.  (4 months ago)
@@ -39,7 +39,7 @@ In English, Spanish or German...
 
 #### 🔭 Latest releases I've contributed to
 
-- [mavogel/cdk-hugo-pipeline](https://github.com/mavogel/cdk-hugo-pipeline) ([v0.0.24](https://github.com/mavogel/cdk-hugo-pipeline/releases/tag/v0.0.24), today) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
+- [mavogel/cdk-hugo-pipeline](https://github.com/mavogel/cdk-hugo-pipeline) ([v0.0.24](https://github.com/mavogel/cdk-hugo-pipeline/releases/tag/v0.0.24), 1 day ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
 - [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) ([0.9.0](https://github.com/kreuzwerker/m1-terraform-provider-helper/releases/tag/0.9.0), 1 month ago) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip
 - [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) ([v3.0.2](https://github.com/kreuzwerker/terraform-provider-docker/releases/tag/v3.0.2), 4 months ago) - Terraform Docker provider
 - [kreuzwerker/awsu](https://github.com/kreuzwerker/awsu) ([v2.3.11](https://github.com/kreuzwerker/awsu/releases/tag/v2.3.11), 5 months ago) - Enhanced account switching for AWS, supports Yubikey as MFA source
@@ -47,17 +47,17 @@ In English, Spanish or German...
 
 #### ⭐ Recent Stars
 
-- [aws-cli-tools/delete-bucket](https://github.com/aws-cli-tools/delete-bucket) - Delete S3 buckets the easy way (1 day ago)
-- [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing. (3 days ago)
-- [aws/aws-sdk-js](https://github.com/aws/aws-sdk-js) - AWS SDK for JavaScript in the browser and Node.js (4 days ago)
-- [aws/aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3) - Modularized AWS SDK for JavaScript. (4 days ago)
+- [aws-cli-tools/delete-bucket](https://github.com/aws-cli-tools/delete-bucket) - Delete S3 buckets the easy way (2 days ago)
+- [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing. (4 days ago)
+- [aws/aws-sdk-js](https://github.com/aws/aws-sdk-js) - AWS SDK for JavaScript in the browser and Node.js (5 days ago)
+- [aws/aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3) - Modularized AWS SDK for JavaScript. (5 days ago)
 - [dannysteenman/aws-toolbox](https://github.com/dannysteenman/aws-toolbox) - A collection of tools and python scripts to automate repetitive tasks on AWS Cloud (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
+- [0vm](https://github.com/0vm)
 - [Phil1602](https://github.com/Phil1602)
 - [businessservic](https://github.com/businessservic)
-- [00mjk](https://github.com/00mjk)
 
 
 
