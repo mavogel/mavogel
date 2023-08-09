@@ -55,9 +55,9 @@ In English, Spanish or German...
 
 #### 👯 Check out some of my recent followers
 
-- [0vm](https://github.com/0vm)
 - [Phil1602](https://github.com/Phil1602)
 - [businessservic](https://github.com/businessservic)
+- [00mjk](https://github.com/00mjk)
 
 
 
