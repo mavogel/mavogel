@@ -47,11 +47,11 @@ In English, Spanish or German...
 
 #### ⭐ Recent Stars
 
+- [aws-samples/cdk-integ-tests-sample](https://github.com/aws-samples/cdk-integ-tests-sample) -  (today)
 - [aws-cli-tools/delete-bucket](https://github.com/aws-cli-tools/delete-bucket) - Delete S3 buckets the easy way (6 days ago)
 - [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing. (1 week ago)
 - [aws/aws-sdk-js](https://github.com/aws/aws-sdk-js) - AWS SDK for JavaScript in the browser and Node.js (1 week ago)
 - [aws/aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3) - Modularized AWS SDK for JavaScript. (1 week ago)
-- [dannysteenman/aws-toolbox](https://github.com/dannysteenman/aws-toolbox) - A collection of tools and python scripts to automate repetitive tasks on AWS Cloud (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
