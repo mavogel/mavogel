@@ -47,11 +47,11 @@ In English, Spanish or German...
 
 #### ⭐ Recent Stars
 
+- [nusserstudios/tailbliss](https://github.com/nusserstudios/tailbliss) - TailBliss is a Hugo Starter theme built on TailwindCSS 3, and Alpine.JS. (today)
 - [aws-samples/cdk-integ-tests-sample](https://github.com/aws-samples/cdk-integ-tests-sample) -  (2 days ago)
 - [aws-cli-tools/delete-bucket](https://github.com/aws-cli-tools/delete-bucket) - Delete S3 buckets the easy way (1 week ago)
 - [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing. (1 week ago)
 - [aws/aws-sdk-js](https://github.com/aws/aws-sdk-js) - AWS SDK for JavaScript in the browser and Node.js (1 week ago)
-- [aws/aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3) - Modularized AWS SDK for JavaScript. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
