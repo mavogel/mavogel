@@ -51,7 +51,7 @@ In English, Spanish or German...
 - [aws-samples/cdk-integ-tests-sample](https://github.com/aws-samples/cdk-integ-tests-sample) -  (1 week ago)
 - [aws-cli-tools/delete-bucket](https://github.com/aws-cli-tools/delete-bucket) - Delete S3 buckets the easy way (2 weeks ago)
 - [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing. (2 weeks ago)
-- [aws/aws-sdk-js](https://github.com/aws/aws-sdk-js) - AWS SDK for JavaScript in the browser and Node.js (2 weeks ago)
+- [aws/aws-sdk-js](https://github.com/aws/aws-sdk-js) - AWS SDK for JavaScript in the browser and Node.js (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
