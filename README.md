@@ -39,8 +39,8 @@ In English, Spanish or German...
 
 #### 🔭 Latest releases I've contributed to
 
+- [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.27](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.27), today) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
 - [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.2](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.2), today) - The corresponding projen template for the AWS CDK Construct
-- [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.26](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.26), today) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
 - [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) ([0.9.0](https://github.com/kreuzwerker/m1-terraform-provider-helper/releases/tag/0.9.0), 1 month ago) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip
 - [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) ([v3.0.2](https://github.com/kreuzwerker/terraform-provider-docker/releases/tag/v3.0.2), 5 months ago) - Terraform Docker provider
 - [kreuzwerker/awsu](https://github.com/kreuzwerker/awsu) ([v2.3.11](https://github.com/kreuzwerker/awsu/releases/tag/v2.3.11), 6 months ago) - Enhanced account switching for AWS, supports Yubikey as MFA source
