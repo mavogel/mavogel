@@ -47,11 +47,11 @@ In English, Spanish or German...
 
 #### ⭐ Recent Stars
 
+- [romannurik/SlidesCodeHighlighter](https://github.com/romannurik/SlidesCodeHighlighter) - A little web app that helps you copy&#43;paste syntax-highlighted code into slide decks. (today)
 - [thriving-dev/kafka-streams-cassandra-state-store](https://github.com/thriving-dev/kafka-streams-cassandra-state-store) - &#39;Drop-in&#39; Kafka Streams State Store implementation that persists data to Apache Cassandra / ScyllaDB (6 days ago)
 - [nusserstudios/tailbliss](https://github.com/nusserstudios/tailbliss) - TailBliss is a Hugo Starter theme built on TailwindCSS 3, and Alpine.JS. (1 month ago)
 - [aws-samples/cdk-integ-tests-sample](https://github.com/aws-samples/cdk-integ-tests-sample) -  (1 month ago)
 - [aws-cli-tools/delete-bucket](https://github.com/aws-cli-tools/delete-bucket) - Delete S3 buckets the easy way (1 month ago)
-- [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
