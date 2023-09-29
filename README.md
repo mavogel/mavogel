@@ -31,7 +31,7 @@ In English, Spanish or German...
 
 #### 👷 Check out what I'm currently working on
 
-- [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS (2 days ago)
+- [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS (3 days ago)
 - [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) - The corresponding projen template for the AWS CDK Construct (1 week ago)
 - [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip (3 months ago)
 - [mavogel/docker-gh-action-test](https://github.com/mavogel/docker-gh-action-test) - Running docker in GitHub Actions (5 months ago)
@@ -39,7 +39,7 @@ In English, Spanish or German...
 
 #### 🔭 Latest releases I've contributed to
 
-- [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.32](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.32), 2 days ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
+- [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.32](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.32), 3 days ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
 - [superwerker/superwerker](https://github.com/superwerker/superwerker) ([v0.16.0](https://github.com/superwerker/superwerker/releases/tag/v0.16.0), 1 week ago) - superwerker can help you get started with the AWS Cloud quickly without investing in consultants or devoting time to extensive research. superwerker is a free, open-source solution that lets you quickly set up an AWS Cloud environment following best practices for security and efficiency so you can focus on your core business. 
 - [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.6](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.6), 1 week ago) - The corresponding projen template for the AWS CDK Construct
 - [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) ([0.9.0](https://github.com/kreuzwerker/m1-terraform-provider-helper/releases/tag/0.9.0), 3 months ago) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip
@@ -48,7 +48,7 @@ In English, Spanish or German...
 #### ⭐ Recent Stars
 
 - [romannurik/SlidesCodeHighlighter](https://github.com/romannurik/SlidesCodeHighlighter) - A little web app that helps you copy&#43;paste syntax-highlighted code into slide decks. (1 week ago)
-- [thriving-dev/kafka-streams-cassandra-state-store](https://github.com/thriving-dev/kafka-streams-cassandra-state-store) - &#39;Drop-in&#39; Kafka Streams State Store implementation that persists data to Apache Cassandra / ScyllaDB (1 week ago)
+- [thriving-dev/kafka-streams-cassandra-state-store](https://github.com/thriving-dev/kafka-streams-cassandra-state-store) - &#39;Drop-in&#39; Kafka Streams State Store implementation that persists data to Apache Cassandra / ScyllaDB (2 weeks ago)
 - [nusserstudios/tailbliss](https://github.com/nusserstudios/tailbliss) - TailBliss is a Hugo Starter theme built on TailwindCSS 3, and Alpine.JS. (1 month ago)
 - [aws-samples/cdk-integ-tests-sample](https://github.com/aws-samples/cdk-integ-tests-sample) -  (1 month ago)
 - [aws-cli-tools/delete-bucket](https://github.com/aws-cli-tools/delete-bucket) - Delete S3 buckets the easy way (1 month ago)
