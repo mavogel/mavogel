@@ -31,17 +31,17 @@ In English, Spanish or German...
 
 #### 👷 Check out what I'm currently working on
 
-- [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS (4 days ago)
-- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) - The corresponding projen template for the AWS CDK Construct (4 days ago)
-- [davidmc24/gradle-avro-plugin](https://github.com/davidmc24/gradle-avro-plugin) - A Gradle plugin to allow easily performing Java code generation for Apache Avro. It supports JSON schema declaration files, JSON protocol declaration files, and Avro IDL files. (5 days ago)
+- [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS (5 days ago)
+- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) - The corresponding projen template for the AWS CDK Construct (5 days ago)
+- [davidmc24/gradle-avro-plugin](https://github.com/davidmc24/gradle-avro-plugin) - A Gradle plugin to allow easily performing Java code generation for Apache Avro. It supports JSON schema declaration files, JSON protocol declaration files, and Avro IDL files. (6 days ago)
 - [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip (3 months ago)
 - [mavogel/docker-gh-action-test](https://github.com/mavogel/docker-gh-action-test) - Running docker in GitHub Actions (5 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [davidmc24/gradle-avro-plugin](https://github.com/davidmc24/gradle-avro-plugin) ([1.9.1](https://github.com/davidmc24/gradle-avro-plugin/releases/tag/1.9.1), 4 days ago) - A Gradle plugin to allow easily performing Java code generation for Apache Avro. It supports JSON schema declaration files, JSON protocol declaration files, and Avro IDL files.
-- [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.37](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.37), 4 days ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
-- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.10](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.10), 4 days ago) - The corresponding projen template for the AWS CDK Construct
+- [davidmc24/gradle-avro-plugin](https://github.com/davidmc24/gradle-avro-plugin) ([1.9.1](https://github.com/davidmc24/gradle-avro-plugin/releases/tag/1.9.1), 5 days ago) - A Gradle plugin to allow easily performing Java code generation for Apache Avro. It supports JSON schema declaration files, JSON protocol declaration files, and Avro IDL files.
+- [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.37](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.37), 5 days ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
+- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.10](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.10), 5 days ago) - The corresponding projen template for the AWS CDK Construct
 - [superwerker/superwerker](https://github.com/superwerker/superwerker) ([v0.16.0](https://github.com/superwerker/superwerker/releases/tag/v0.16.0), 3 weeks ago) - superwerker can help you get started with the AWS Cloud quickly without investing in consultants or devoting time to extensive research. superwerker is a free, open-source solution that lets you quickly set up an AWS Cloud environment following best practices for security and efficiency so you can focus on your core business. 
 - [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) ([0.9.0](https://github.com/kreuzwerker/m1-terraform-provider-helper/releases/tag/0.9.0), 3 months ago) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip
 
@@ -50,7 +50,7 @@ In English, Spanish or German...
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features (1 week ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one (1 week ago)
 - [romannurik/SlidesCodeHighlighter](https://github.com/romannurik/SlidesCodeHighlighter) - A little web app that helps you copy&#43;paste syntax-highlighted code into slide decks. (3 weeks ago)
-- [thriving-dev/kafka-streams-cassandra-state-store](https://github.com/thriving-dev/kafka-streams-cassandra-state-store) - &#39;Drop-in&#39; Kafka Streams State Store implementation that persists data to Apache Cassandra / ScyllaDB (4 weeks ago)
+- [thriving-dev/kafka-streams-cassandra-state-store](https://github.com/thriving-dev/kafka-streams-cassandra-state-store) - &#39;Drop-in&#39; Kafka Streams State Store implementation that persists data to Apache Cassandra / ScyllaDB (1 month ago)
 - [nusserstudios/tailbliss](https://github.com/nusserstudios/tailbliss) - TailBliss is a Hugo Starter theme built on TailwindCSS 3, and Alpine.JS. (2 months ago)
 
 #### 👯 Check out some of my recent followers
