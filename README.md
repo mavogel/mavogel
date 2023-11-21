@@ -31,26 +31,26 @@ In English, Spanish or German...
 
 #### 👷 Check out what I'm currently working on
 
-- [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS (today)
-- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) - The corresponding projen template for the AWS CDK Construct (today)
+- [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS (1 day ago)
+- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) - The corresponding projen template for the AWS CDK Construct (1 day ago)
 - [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes [✩Star] if you&#39;re using it! (1 month ago)
 - [davidmc24/gradle-avro-plugin](https://github.com/davidmc24/gradle-avro-plugin) - A Gradle plugin to allow easily performing Java code generation for Apache Avro. It supports JSON schema declaration files, JSON protocol declaration files, and Avro IDL files. (1 month ago)
 - [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.63](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.63), today) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
-- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.38](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.38), today) - The corresponding projen template for the AWS CDK Construct
+- [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.63](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.63), 1 day ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
+- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.38](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.38), 1 day ago) - The corresponding projen template for the AWS CDK Construct
 - [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.9](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.9), 1 month ago) - An opinionated way to secure your AWS root email boxes [✩Star] if you&#39;re using it!
 - [davidmc24/gradle-avro-plugin](https://github.com/davidmc24/gradle-avro-plugin) ([1.9.1](https://github.com/davidmc24/gradle-avro-plugin/releases/tag/1.9.1), 1 month ago) - A Gradle plugin to allow easily performing Java code generation for Apache Avro. It supports JSON schema declaration files, JSON protocol declaration files, and Avro IDL files.
 - [superwerker/superwerker](https://github.com/superwerker/superwerker) ([v0.16.0](https://github.com/superwerker/superwerker/releases/tag/v0.16.0), 2 months ago) - superwerker can help you get started with the AWS Cloud quickly without investing in consultants or devoting time to extensive research. superwerker is a free, open-source solution that lets you quickly set up an AWS Cloud environment following best practices for security and efficiency so you can focus on your core business. 
 
 #### ⭐ Recent Stars
 
-- [udondan/cfn-teleport](https://github.com/udondan/cfn-teleport) - A command-line tool which can move CloudFormation resources between stacks (1 day ago)
-- [aws-samples/aws-secure-environment-accelerator](https://github.com/aws-samples/aws-secure-environment-accelerator) - The AWS Secure Environment Accelerator is a tool designed to help deploy and operate secure multi-account, multi-region AWS environments on an ongoing basis. The power of the solution is the configuration file which enables the completely automated deployment of customizable architectures within AWS without changing a single line of code. (3 days ago)
-- [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command (6 days ago)
-- [fluxcd/image-reflector-controller](https://github.com/fluxcd/image-reflector-controller) - GitOps Toolkit controller that scans container registries (6 days ago)
+- [udondan/cfn-teleport](https://github.com/udondan/cfn-teleport) - A command-line tool which can move CloudFormation resources between stacks (2 days ago)
+- [aws-samples/aws-secure-environment-accelerator](https://github.com/aws-samples/aws-secure-environment-accelerator) - The AWS Secure Environment Accelerator is a tool designed to help deploy and operate secure multi-account, multi-region AWS environments on an ongoing basis. The power of the solution is the configuration file which enables the completely automated deployment of customizable architectures within AWS without changing a single line of code. (4 days ago)
+- [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command (1 week ago)
+- [fluxcd/image-reflector-controller](https://github.com/fluxcd/image-reflector-controller) - GitOps Toolkit controller that scans container registries (1 week ago)
 - [aws-samples/eks-saas-gitops](https://github.com/aws-samples/eks-saas-gitops) - Source repo of Building SaaS applications on Amazon EKS using GitOps workshop (1 week ago)
 
 #### 👯 Check out some of my recent followers
