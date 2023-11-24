@@ -47,11 +47,11 @@ In English, Spanish or German...
 
 #### ⭐ Recent Stars
 
+- [aws-solutions/automated-security-response-on-aws](https://github.com/aws-solutions/automated-security-response-on-aws) - Automated Security Response on AWS is an add-on solution that works with AWS Security Hub to provide a ready-to-deploy architecture and a library of automated playbooks. The solution makes it easier for AWS Security Hub customers to resolve common security findings and to improve their security posture in AWS. (today)
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean HTML/Tailwind/JS code (3 days ago)
 - [udondan/cfn-teleport](https://github.com/udondan/cfn-teleport) - A command-line tool which can move CloudFormation resources between stacks (5 days ago)
 - [aws-samples/aws-secure-environment-accelerator](https://github.com/aws-samples/aws-secure-environment-accelerator) - The AWS Secure Environment Accelerator is a tool designed to help deploy and operate secure multi-account, multi-region AWS environments on an ongoing basis. The power of the solution is the configuration file which enables the completely automated deployment of customizable architectures within AWS without changing a single line of code. (1 week ago)
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command (1 week ago)
-- [fluxcd/image-reflector-controller](https://github.com/fluxcd/image-reflector-controller) - GitOps Toolkit controller that scans container registries (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
