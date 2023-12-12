@@ -47,11 +47,11 @@ In English, Spanish or German...
 
 #### ⭐ Recent Stars
 
+- [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs (today)
 - [maaslalani/invoice](https://github.com/maaslalani/invoice) - Command line invoice generator (today)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) - A simple, powerful library for forms and prompts in the terminal 🤷🏻‍♀️ (today)
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada: (today)
 - [containrrr/shoutrrr](https://github.com/containrrr/shoutrrr) - Notification library for gophers and their furry friends. (1 day ago)
-- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources. (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
