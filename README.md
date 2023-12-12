@@ -47,11 +47,11 @@ In English, Spanish or German...
 
 #### ⭐ Recent Stars
 
+- [maaslalani/invoice](https://github.com/maaslalani/invoice) - Command line invoice generator (today)
+- [charmbracelet/huh](https://github.com/charmbracelet/huh) - A simple, powerful library for forms and prompts in the terminal 🤷🏻‍♀️ (today)
+- [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada: (today)
 - [containrrr/shoutrrr](https://github.com/containrrr/shoutrrr) - Notification library for gophers and their furry friends. (1 day ago)
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources. (6 days ago)
-- [aws-solutions/automated-security-response-on-aws](https://github.com/aws-solutions/automated-security-response-on-aws) - Automated Security Response on AWS is an add-on solution that works with AWS Security Hub to provide a ready-to-deploy architecture and a library of automated playbooks. The solution makes it easier for AWS Security Hub customers to resolve common security findings and to improve their security posture in AWS. (2 weeks ago)
-- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue) (3 weeks ago)
-- [udondan/cfn-teleport](https://github.com/udondan/cfn-teleport) - A command-line tool which can move CloudFormation resources between stacks (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
