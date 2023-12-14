@@ -47,11 +47,11 @@ In English, Spanish or German...
 
 #### ⭐ Recent Stars
 
+- [lucadibello/zerotrust-your-home](https://github.com/lucadibello/zerotrust-your-home) - 🔐 Securing Your Digital Sanctuary, Trust None, Protect Everything. (today)
 - [medyagh/setup-minikube](https://github.com/medyagh/setup-minikube) - run minikube in github actions, continuous integration against Kubernetes in github actions. (today)
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs (2 days ago)
 - [maaslalani/invoice](https://github.com/maaslalani/invoice) - Command line invoice generator (2 days ago)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) - A simple, powerful library for forms and prompts in the terminal 🤷🏻‍♀️ (2 days ago)
-- [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada: (2 days ago)
 
 #### 👯 Check out some of my recent followers
 
