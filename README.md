@@ -51,7 +51,7 @@ In English, Spanish or German...
 - [medyagh/setup-minikube](https://github.com/medyagh/setup-minikube) - run minikube in github actions, continuous integration against Kubernetes in github actions. (4 days ago)
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs (6 days ago)
 - [maaslalani/invoice](https://github.com/maaslalani/invoice) - Command line invoice generator (6 days ago)
-- [charmbracelet/huh](https://github.com/charmbracelet/huh) - A simple, powerful library for forms and prompts in the terminal 🤷🏻‍♀️ (6 days ago)
+- [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
