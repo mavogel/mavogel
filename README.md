@@ -47,10 +47,10 @@ In English, Spanish or German...
 
 #### ⭐ Recent Stars
 
-- [coroot/coroot](https://github.com/coroot/coroot) - Open-source observability for microservices. Thanks to eBPF you can gain comprehensive insights into your system within minutes. (6 days ago)
+- [coroot/coroot](https://github.com/coroot/coroot) - Open-source observability for microservices. Thanks to eBPF you can gain comprehensive insights into your system within minutes. (1 week ago)
 - [helm/kind-action](https://github.com/helm/kind-action) - A GitHub Action for Kubernetes IN Docker - local clusters for testing Kubernetes (2 weeks ago)
-- [lucadibello/zerotrust-your-home](https://github.com/lucadibello/zerotrust-your-home) - 🔐 Securing Your Digital Sanctuary, Trust None, Protect Everything. (2 weeks ago)
-- [medyagh/setup-minikube](https://github.com/medyagh/setup-minikube) - run minikube in github actions, continuous integration against Kubernetes in github actions. (2 weeks ago)
+- [lucadibello/zerotrust-your-home](https://github.com/lucadibello/zerotrust-your-home) - 🔐 Securing Your Digital Sanctuary, Trust None, Protect Everything. (3 weeks ago)
+- [medyagh/setup-minikube](https://github.com/medyagh/setup-minikube) - run minikube in github actions, continuous integration against Kubernetes in github actions. (3 weeks ago)
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
