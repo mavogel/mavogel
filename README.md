@@ -39,9 +39,9 @@ In English, Spanish or German...
 
 #### 🔭 Latest releases I've contributed to
 
+- [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.86](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.86), today) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
 - [superwerker/superwerker](https://github.com/superwerker/superwerker) ([v0.17.2](https://github.com/superwerker/superwerker/releases/tag/v0.17.2), 3 days ago) - superwerker can help you get started with the AWS Cloud quickly without investing in consultants or devoting time to extensive research. superwerker is a free, open-source solution that lets you quickly set up an AWS Cloud environment following best practices for security and efficiency so you can focus on your core business. 
 - [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.65](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.65), 1 week ago) - The corresponding projen template for the AWS CDK Construct
-- [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.85](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.85), 1 week ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
 - [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.9](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.9), 2 months ago) - An opinionated way to secure your AWS root email boxes [✩Star] if you&#39;re using it!
 - [davidmc24/gradle-avro-plugin](https://github.com/davidmc24/gradle-avro-plugin) ([1.9.1](https://github.com/davidmc24/gradle-avro-plugin/releases/tag/1.9.1), 2 months ago) - A Gradle plugin to allow easily performing Java code generation for Apache Avro. It supports JSON schema declaration files, JSON protocol declaration files, and Avro IDL files.
 
