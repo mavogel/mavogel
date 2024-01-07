@@ -31,8 +31,8 @@ In English, Spanish or German...
 
 #### 👷 Check out what I'm currently working on
 
+- [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS (today)
 - [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) - The corresponding projen template for the AWS CDK Construct (1 week ago)
-- [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS (1 week ago)
 - [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes [✩Star] if you&#39;re using it! (2 months ago)
 - [davidmc24/gradle-avro-plugin](https://github.com/davidmc24/gradle-avro-plugin) - A Gradle plugin to allow easily performing Java code generation for Apache Avro. It supports JSON schema declaration files, JSON protocol declaration files, and Avro IDL files. (3 months ago)
 - [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip (6 months ago)
