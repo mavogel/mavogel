@@ -31,7 +31,7 @@ In English, Spanish or German...
 
 #### 👷 Check out what I'm currently working on
 
-- [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS (5 days ago)
+- [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS (6 days ago)
 - [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) - The corresponding projen template for the AWS CDK Construct (2 weeks ago)
 - [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes [✩Star] if you&#39;re using it! (2 months ago)
 - [davidmc24/gradle-avro-plugin](https://github.com/davidmc24/gradle-avro-plugin) - A Gradle plugin to allow easily performing Java code generation for Apache Avro. It supports JSON schema declaration files, JSON protocol declaration files, and Avro IDL files. (3 months ago)
@@ -39,7 +39,7 @@ In English, Spanish or German...
 
 #### 🔭 Latest releases I've contributed to
 
-- [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.87](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.87), 5 days ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
+- [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.87](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.87), 6 days ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
 - [superwerker/superwerker](https://github.com/superwerker/superwerker) ([v0.17.2](https://github.com/superwerker/superwerker/releases/tag/v0.17.2), 1 week ago) - superwerker can help you get started with the AWS Cloud quickly without investing in consultants or devoting time to extensive research. superwerker is a free, open-source solution that lets you quickly set up an AWS Cloud environment following best practices for security and efficiency so you can focus on your core business. 
 - [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.65](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.65), 2 weeks ago) - The corresponding projen template for the AWS CDK Construct
 - [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.9](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.9), 2 months ago) - An opinionated way to secure your AWS root email boxes [✩Star] if you&#39;re using it!
@@ -47,11 +47,11 @@ In English, Spanish or German...
 
 #### ⭐ Recent Stars
 
-- [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls (3 days ago)
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls (4 days ago)
 - [coroot/coroot](https://github.com/coroot/coroot) - Open-source observability for microservices. Thanks to eBPF you can gain comprehensive insights into your system within minutes. (2 weeks ago)
 - [helm/kind-action](https://github.com/helm/kind-action) - A GitHub Action for Kubernetes IN Docker - local clusters for testing Kubernetes (3 weeks ago)
-- [lucadibello/zerotrust-your-home](https://github.com/lucadibello/zerotrust-your-home) - 🔐 Securing Your Digital Sanctuary, Trust None, Protect Everything. (4 weeks ago)
-- [medyagh/setup-minikube](https://github.com/medyagh/setup-minikube) - run minikube in github actions, continuous integration against Kubernetes in github actions. (4 weeks ago)
+- [lucadibello/zerotrust-your-home](https://github.com/lucadibello/zerotrust-your-home) - 🔐 Securing Your Digital Sanctuary, Trust None, Protect Everything. (1 month ago)
+- [medyagh/setup-minikube](https://github.com/medyagh/setup-minikube) - run minikube in github actions, continuous integration against Kubernetes in github actions. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
