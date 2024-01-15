@@ -47,7 +47,7 @@ In English, Spanish or German...
 
 #### ⭐ Recent Stars
 
-- [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls (5 days ago)
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls (6 days ago)
 - [coroot/coroot](https://github.com/coroot/coroot) - Open-source observability for microservices. Thanks to eBPF you can gain comprehensive insights into your system within minutes. (2 weeks ago)
 - [helm/kind-action](https://github.com/helm/kind-action) - A GitHub Action for Kubernetes IN Docker - local clusters for testing Kubernetes (3 weeks ago)
 - [lucadibello/zerotrust-your-home](https://github.com/lucadibello/zerotrust-your-home) - 🔐 Securing Your Digital Sanctuary, Trust None, Protect Everything. (1 month ago)
