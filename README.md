@@ -47,11 +47,11 @@ In English, Spanish or German...
 
 #### ⭐ Recent Stars
 
+- [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web (today)
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls (1 week ago)
 - [coroot/coroot](https://github.com/coroot/coroot) - Open-source observability for microservices. Thanks to eBPF you can gain comprehensive insights into your system within minutes. (3 weeks ago)
 - [helm/kind-action](https://github.com/helm/kind-action) - A GitHub Action for Kubernetes IN Docker - local clusters for testing Kubernetes (1 month ago)
 - [lucadibello/zerotrust-your-home](https://github.com/lucadibello/zerotrust-your-home) - 🔐 Securing Your Digital Sanctuary, Trust None, Protect Everything. (1 month ago)
-- [medyagh/setup-minikube](https://github.com/medyagh/setup-minikube) - run minikube in github actions, continuous integration against Kubernetes in github actions. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
