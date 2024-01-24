@@ -39,7 +39,7 @@ In English, Spanish or German...
 
 #### 🔭 Latest releases I've contributed to
 
-- [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.96](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.96), today) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
+- [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.98](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.98), today) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
 - [superwerker/superwerker](https://github.com/superwerker/superwerker) ([v1.0.1](https://github.com/superwerker/superwerker/releases/tag/v1.0.1), 5 days ago) - superwerker can help you get started with the AWS Cloud quickly without investing in consultants or devoting time to extensive research. superwerker is a free, open-source solution that lets you quickly set up an AWS Cloud environment following best practices for security and efficiency so you can focus on your core business. 
 - [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.65](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.65), 4 weeks ago) - The corresponding projen template for the AWS CDK Construct
 - [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.9](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.9), 3 months ago) - An opinionated way to secure your AWS root email boxes [✩Star] if you&#39;re using it!
