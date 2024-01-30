@@ -47,7 +47,7 @@ In English, Spanish or German...
 
 #### ⭐ Recent Stars
 
-- [kkeles/awsug-hugo](https://github.com/kkeles/awsug-hugo) - Hugo Website for AWS UG Berlin (6 days ago)
+- [kkeles/awsug-hugo](https://github.com/kkeles/awsug-hugo) - Hugo Website for AWS UG Berlin (today)
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web (1 week ago)
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls (3 weeks ago)
 - [coroot/coroot](https://github.com/coroot/coroot) - Open-source observability for microservices. Thanks to eBPF you can gain comprehensive insights into your system within minutes. (1 month ago)
