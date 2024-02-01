@@ -47,11 +47,11 @@ In English, Spanish or German...
 
 #### ⭐ Recent Stars
 
+- [gethinode/hinode](https://github.com/gethinode/hinode) - A clean documentation and blog theme for your Hugo site based on Bootstrap 5 (today)
 - [kkeles/awsug-hugo](https://github.com/kkeles/awsug-hugo) - Hugo Website for AWS UG Berlin (2 days ago)
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web (1 week ago)
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls (3 weeks ago)
 - [coroot/coroot](https://github.com/coroot/coroot) - Open-source observability for microservices. Thanks to eBPF you can gain comprehensive insights into your system within minutes. (1 month ago)
-- [helm/kind-action](https://github.com/helm/kind-action) - A GitHub Action for Kubernetes IN Docker - local clusters for testing Kubernetes (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
