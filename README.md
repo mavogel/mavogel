@@ -33,7 +33,7 @@ In English, Spanish or German...
 
 - [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS (today)
 - [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) - The corresponding projen template for the AWS CDK Construct (3 days ago)
-- [kkeles/awsug-hugo](https://github.com/kkeles/awsug-hugo) - Hugo Website for AWS UG Berlin (3 days ago)
+- [kkeles/awsug-hugo](https://github.com/kkeles/awsug-hugo) - Website Template for AWS User Groups (3 days ago)
 - [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes [✩Star] if you&#39;re using it! (3 months ago)
 - [davidmc24/gradle-avro-plugin](https://github.com/davidmc24/gradle-avro-plugin) - A Gradle plugin to allow easily performing Java code generation for Apache Avro. It supports JSON schema declaration files, JSON protocol declaration files, and Avro IDL files. (3 months ago)
 
@@ -48,7 +48,7 @@ In English, Spanish or German...
 #### ⭐ Recent Stars
 
 - [gethinode/hinode](https://github.com/gethinode/hinode) - A clean documentation and blog theme for your Hugo site based on Bootstrap 5 (1 day ago)
-- [kkeles/awsug-hugo](https://github.com/kkeles/awsug-hugo) - Hugo Website for AWS UG Berlin (3 days ago)
+- [kkeles/awsug-hugo](https://github.com/kkeles/awsug-hugo) - Website Template for AWS User Groups (3 days ago)
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web (2 weeks ago)
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls (3 weeks ago)
 - [coroot/coroot](https://github.com/coroot/coroot) - Open-source observability for microservices. Thanks to eBPF you can gain comprehensive insights into your system within minutes. (1 month ago)
