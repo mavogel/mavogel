@@ -47,11 +47,11 @@ In English, Spanish or German...
 
 #### ⭐ Recent Stars
 
+- [CrunchyData/postgres-operator](https://github.com/CrunchyData/postgres-operator) - Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service. (today)
 - [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) - Apache Kafka® running on Kubernetes (3 days ago)
 - [gethinode/hinode](https://github.com/gethinode/hinode) - A clean documentation and blog theme for your Hugo site based on Bootstrap 5 (1 week ago)
 - [kkeles/awsug-hugo](https://github.com/kkeles/awsug-hugo) - Website Template for AWS User Groups (1 week ago)
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web (3 weeks ago)
-- [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
