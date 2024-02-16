@@ -47,11 +47,11 @@ In English, Spanish or German...
 
 #### ⭐ Recent Stars
 
+- [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre) - At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role. (today)
 - [CrunchyData/postgres-operator](https://github.com/CrunchyData/postgres-operator) - Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service. (4 days ago)
 - [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) - Apache Kafka® running on Kubernetes (1 week ago)
 - [gethinode/hinode](https://github.com/gethinode/hinode) - A clean documentation and blog theme for your Hugo site based on Bootstrap 5 (2 weeks ago)
 - [kkeles/awsug-hugo](https://github.com/kkeles/awsug-hugo) - Website Template for AWS User Groups (2 weeks ago)
-- [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
