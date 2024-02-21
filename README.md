@@ -47,11 +47,11 @@ In English, Spanish or German...
 
 #### ⭐ Recent Stars
 
+- [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact with your documents using the power of GPT, 100% privately, no data leaks (today)
 - [eliben/gemini-cli](https://github.com/eliben/gemini-cli) - Access Gemini LLMs from the command-line (1 day ago)
 - [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre) - At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role. (5 days ago)
 - [CrunchyData/postgres-operator](https://github.com/CrunchyData/postgres-operator) - Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service. (1 week ago)
 - [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) - Apache Kafka® running on Kubernetes (1 week ago)
-- [gethinode/hinode](https://github.com/gethinode/hinode) - A clean documentation and blog theme for your Hugo site based on Bootstrap 5 (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
