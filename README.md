@@ -39,10 +39,10 @@ In English, Spanish or German...
 
 #### 🔭 Latest releases I've contributed to
 
+- [superwerker/superwerker](https://github.com/superwerker/superwerker) ([v1.0.0](https://github.com/superwerker/superwerker/releases/tag/v1.0.0), today) - superwerker can help you get started with the AWS Cloud quickly without investing in consultants or devoting time to extensive research. superwerker is a free, open-source solution that lets you quickly set up an AWS Cloud environment following best practices for security and efficiency so you can focus on your core business. 
 - [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.131](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.131), today) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
 - [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.95](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.95), today) - The corresponding projen template for the AWS CDK Construct
 - [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.18](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.18), 4 days ago) - An opinionated way to secure your AWS root email boxes [✩Star] if you&#39;re using it!
-- [superwerker/superwerker](https://github.com/superwerker/superwerker) ([v0.17.2](https://github.com/superwerker/superwerker/releases/tag/v0.17.2), 1 month ago) - superwerker can help you get started with the AWS Cloud quickly without investing in consultants or devoting time to extensive research. superwerker is a free, open-source solution that lets you quickly set up an AWS Cloud environment following best practices for security and efficiency so you can focus on your core business. 
 - [davidmc24/gradle-avro-plugin](https://github.com/davidmc24/gradle-avro-plugin) ([1.9.1](https://github.com/davidmc24/gradle-avro-plugin/releases/tag/1.9.1), 4 months ago) - A Gradle plugin to allow easily performing Java code generation for Apache Avro. It supports JSON schema declaration files, JSON protocol declaration files, and Avro IDL files.
 
 #### ⭐ Recent Stars
