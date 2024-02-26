@@ -55,9 +55,9 @@ In English, Spanish or German...
 
 #### 👯 Check out some of my recent followers
 
+- [tomharvey](https://github.com/tomharvey)
 - [marceloboeira](https://github.com/marceloboeira)
 - [nurzhamalabd](https://github.com/nurzhamalabd)
-- [mastercam123](https://github.com/mastercam123)
 
 
 
