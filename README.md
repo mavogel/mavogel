@@ -47,11 +47,11 @@ In English, Spanish or German...
 
 #### ⭐ Recent Stars
 
+- [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building data-driven applications running on top of REST/GraphQL APIs, using TypeScript, React and Material Design (today)
 - [FranzDiebold/github-env-vars-action](https://github.com/FranzDiebold/github-env-vars-action) - :octocat: 🚀 GitHub Action for Environment Variables (6 days ago)
 - [JannikWempe/cdk-aspects-examples](https://github.com/JannikWempe/cdk-aspects-examples) -  (6 days ago)
 - [awslabs/aws-solutions-constructs](https://github.com/awslabs/aws-solutions-constructs) - The AWS Solutions Constructs Library is an open-source extension of the AWS Cloud Development Kit (AWS CDK) that provides multi-service, well-architected patterns for quickly defining solutions (1 week ago)
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact with your documents using the power of GPT, 100% privately, no data leaks (1 week ago)
-- [eliben/gemini-cli](https://github.com/eliben/gemini-cli) - Access Gemini LLMs from the command-line (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
