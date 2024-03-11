@@ -47,11 +47,11 @@ In English, Spanish or German...
 
 #### ⭐ Recent Stars
 
+- [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file (today)
 - [garabik/grc](https://github.com/garabik/grc) - generic colouriser (6 days ago)
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building data-driven applications running on top of REST/GraphQL APIs, using TypeScript, React and Material Design (1 week ago)
 - [FranzDiebold/github-env-vars-action](https://github.com/FranzDiebold/github-env-vars-action) - :octocat: 🚀 GitHub Action for Environment Variables (2 weeks ago)
 - [JannikWempe/cdk-aspects-examples](https://github.com/JannikWempe/cdk-aspects-examples) -  (2 weeks ago)
-- [awslabs/aws-solutions-constructs](https://github.com/awslabs/aws-solutions-constructs) - The AWS Solutions Constructs Library is an open-source extension of the AWS Cloud Development Kit (AWS CDK) that provides multi-service, well-architected patterns for quickly defining solutions (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
