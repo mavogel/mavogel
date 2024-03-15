@@ -47,11 +47,11 @@ In English, Spanish or German...
 
 #### ⭐ Recent Stars
 
+- [JimmyDqv/serverless-handbook](https://github.com/JimmyDqv/serverless-handbook) -  (today)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (today)
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file (4 days ago)
 - [garabik/grc](https://github.com/garabik/grc) - generic colouriser (1 week ago)
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building data-driven applications running on top of REST/GraphQL APIs, using TypeScript, React and Material Design (2 weeks ago)
-- [FranzDiebold/github-env-vars-action](https://github.com/FranzDiebold/github-env-vars-action) - :octocat: 🚀 GitHub Action for Environment Variables (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
