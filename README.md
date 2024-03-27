@@ -41,9 +41,9 @@ In English, Spanish or German...
 
 - [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.130](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.130), today) - The corresponding projen template for the AWS CDK Construct
 - [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.166](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.166), today) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
-- [superwerker/superwerker](https://github.com/superwerker/superwerker) ([v1.0.0](https://github.com/superwerker/superwerker/releases/tag/v1.0.0), 1 month ago) - superwerker can help you get started with the AWS Cloud quickly without investing in consultants or devoting time to extensive research. superwerker is a free, open-source solution that lets you quickly set up an AWS Cloud environment following best practices for security and efficiency so you can focus on your core business. 
 - [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.18](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.18), 1 month ago) - An opinionated way to secure your AWS root email boxes
 - [davidmc24/gradle-avro-plugin](https://github.com/davidmc24/gradle-avro-plugin) ([1.9.1](https://github.com/davidmc24/gradle-avro-plugin/releases/tag/1.9.1), 5 months ago) - A Gradle plugin to allow easily performing Java code generation for Apache Avro. It supports JSON schema declaration files, JSON protocol declaration files, and Avro IDL files.
+- [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) ([0.9.0](https://github.com/kreuzwerker/m1-terraform-provider-helper/releases/tag/0.9.0), 9 months ago) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip
 
 #### ⭐ Recent Stars
 
