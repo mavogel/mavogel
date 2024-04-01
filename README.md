@@ -47,11 +47,11 @@ In English, Spanish or German...
 
 #### ⭐ Recent Stars
 
+- [adrienverge/yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files. (today)
 - [aripalo/aws-cdk-github-oidc](https://github.com/aripalo/aws-cdk-github-oidc) - CDK constructs to use OpenID Connect for authenticating your Github Action workflow with AWS IAM (2 weeks ago)
 - [JimmyDqv/serverless-handbook](https://github.com/JimmyDqv/serverless-handbook) -  (2 weeks ago)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (2 weeks ago)
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file (3 weeks ago)
-- [garabik/grc](https://github.com/garabik/grc) - generic colouriser (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
