@@ -47,11 +47,11 @@ In English, Spanish or German...
 
 #### ⭐ Recent Stars
 
+- [yannh/kubeconform](https://github.com/yannh/kubeconform) - A FAST Kubernetes manifests validator, with support for Custom Resources! (today)
 - [hmarr/auto-approve-action](https://github.com/hmarr/auto-approve-action) - 👍 GitHub Action for automatically approving GitHub pull requests (2 days ago)
 - [adrienverge/yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files. (1 week ago)
 - [aripalo/aws-cdk-github-oidc](https://github.com/aripalo/aws-cdk-github-oidc) - CDK constructs to use OpenID Connect for authenticating your Github Action workflow with AWS IAM (3 weeks ago)
 - [JimmyDqv/serverless-handbook](https://github.com/JimmyDqv/serverless-handbook) -  (4 weeks ago)
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
