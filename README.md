@@ -31,24 +31,24 @@ In English, Spanish or German...
 
 #### 👷 Check out what I'm currently working on
 
-- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (today)
-- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) - The corresponding projen template for the AWS CDK Construct (today)
-- [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS (today)
+- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (1 day ago)
+- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) - The corresponding projen template for the AWS CDK Construct (1 day ago)
+- [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS (1 day ago)
 - [MV-Consulting/s3-cdk-assets-bootstrap](https://github.com/MV-Consulting/s3-cdk-assets-bootstrap) - Bootstraps your AWS accounts with S3 asset buckets per region and a release bucket. Additionally creates IAM roles for GitHub Actions OICD roles. (1 month ago)
-- [kkeles/awsug-hugo](https://github.com/kkeles/awsug-hugo) - Website Template for AWS User Groups (2 months ago)
+- [kkeles/awsug-hugo](https://github.com/kkeles/awsug-hugo) - Website Template for AWS User Groups (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.48](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.48), today) - An opinionated way to secure your AWS root email boxes
-- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.165](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.165), today) - The corresponding projen template for the AWS CDK Construct
-- [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.192](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.192), today) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
+- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.48](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.48), 1 day ago) - An opinionated way to secure your AWS root email boxes
+- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.165](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.165), 1 day ago) - The corresponding projen template for the AWS CDK Construct
+- [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.192](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.192), 1 day ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
 - [davidmc24/gradle-avro-plugin](https://github.com/davidmc24/gradle-avro-plugin) ([1.9.1](https://github.com/davidmc24/gradle-avro-plugin/releases/tag/1.9.1), 6 months ago) - A Gradle plugin to allow easily performing Java code generation for Apache Avro. It supports JSON schema declaration files, JSON protocol declaration files, and Avro IDL files.
 - [kreuzwerker/m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) ([0.9.0](https://github.com/kreuzwerker/m1-terraform-provider-helper/releases/tag/0.9.0), 10 months ago) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip
 
 #### ⭐ Recent Stars
 
-- [asciinema/agg](https://github.com/asciinema/agg) - asciinema gif generator (2 days ago)
-- [exentriquesolutions/nip.io](https://github.com/exentriquesolutions/nip.io) -  (3 days ago)
+- [asciinema/agg](https://github.com/asciinema/agg) - asciinema gif generator (3 days ago)
+- [exentriquesolutions/nip.io](https://github.com/exentriquesolutions/nip.io) -  (4 days ago)
 - [timothymiller/t4-app](https://github.com/timothymiller/t4-app) - A powerful cross-platform UI toolkit for building actually native iOS, Android, macOS, Windows, Linux, and Progressive Web Apps with React (Native). (1 week ago)
 - [johnlindquist/kit](https://github.com/johnlindquist/kit) - Script Kit. Automate Anything. (2 weeks ago)
 - [yannh/kubeconform](https://github.com/yannh/kubeconform) - A FAST Kubernetes manifests validator, with support for Custom Resources! (3 weeks ago)
