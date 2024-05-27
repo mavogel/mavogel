@@ -55,9 +55,9 @@ In English, Spanish or German...
 
 #### 👯 Check out some of my recent followers
 
+- [Kos-M](https://github.com/Kos-M)
 - [devopsninja254](https://github.com/devopsninja254)
 - [lony](https://github.com/lony)
-- [devopspass](https://github.com/devopspass)
 
 
 
