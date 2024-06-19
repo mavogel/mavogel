@@ -47,11 +47,11 @@ In English, Spanish or German...
 
 #### ⭐ Recent Stars
 
+- [magefile/mage](https://github.com/magefile/mage) - a Make/rake-like dev tool using Go (today)
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations (1 day ago)
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜 (3 days ago)
 - [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder:  (3 weeks ago)
 - [asciinema/agg](https://github.com/asciinema/agg) - asciinema gif generator (1 month ago)
-- [exentriquesolutions/nip.io](https://github.com/exentriquesolutions/nip.io) -  (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
