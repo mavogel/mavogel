@@ -46,11 +46,11 @@ In English, Spanish or German...
 
 #### ⭐ Recent Stars
 
+- [aws-samples/aws-deployment-pipeline-reference-architecture](https://github.com/aws-samples/aws-deployment-pipeline-reference-architecture) - Reference architecture for deployment pipelines (today)
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust (6 days ago)
 - [utkuozdemir/pv-migrate](https://github.com/utkuozdemir/pv-migrate) - CLI tool to easily migrate Kubernetes persistent volumes (6 days ago)
 - [tmc/langchaingo](https://github.com/tmc/langchaingo) - LangChain for Go, the easiest way to write LLM-based programs in Go (1 week ago)
 - [magefile/mage](https://github.com/magefile/mage) - a Make/rake-like dev tool using Go (2 weeks ago)
-- [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
