@@ -31,22 +31,22 @@ In English, Spanish or German...
 
 #### 👷 Check out what I'm currently working on
 
-- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (today)
-- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) - The corresponding projen template for the AWS CDK Construct (today)
-- [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS (today)
-- [MV-Consulting/s3-cdk-assets-bootstrap](https://github.com/MV-Consulting/s3-cdk-assets-bootstrap) - Bootstraps your AWS accounts with S3 asset buckets per region and a release bucket. Additionally creates IAM roles for GitHub Actions OICD roles. (today)
+- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (1 day ago)
+- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) - The corresponding projen template for the AWS CDK Construct (1 day ago)
+- [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS (1 day ago)
+- [MV-Consulting/s3-cdk-assets-bootstrap](https://github.com/MV-Consulting/s3-cdk-assets-bootstrap) - Bootstraps your AWS accounts with S3 asset buckets per region and a release bucket. Additionally creates IAM roles for GitHub Actions OICD roles. (1 day ago)
 - [kkeles/awsug-hugo](https://github.com/kkeles/awsug-hugo) - Website Template for AWS User Groups (5 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.97](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.97), today) - An opinionated way to secure your AWS root email boxes
-- [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.256](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.256), today) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
-- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.241](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.241), today) - The corresponding projen template for the AWS CDK Construct
+- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.97](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.97), 1 day ago) - An opinionated way to secure your AWS root email boxes
+- [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.256](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.256), 1 day ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
+- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.241](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.241), 1 day ago) - The corresponding projen template for the AWS CDK Construct
 - [davidmc24/gradle-avro-plugin](https://github.com/davidmc24/gradle-avro-plugin) ([1.9.1](https://github.com/davidmc24/gradle-avro-plugin/releases/tag/1.9.1), 9 months ago) - A Gradle plugin to allow easily performing Java code generation for Apache Avro. It supports JSON schema declaration files, JSON protocol declaration files, and Avro IDL files.
 
 #### ⭐ Recent Stars
 
-- [stakpak/devx](https://github.com/stakpak/devx) - A tool for generating, validating &amp; sharing all your configurations, powered by CUE. Works with Kubernetes, Terraform, Compose, GitHub actions and much more... (4 days ago)
+- [stakpak/devx](https://github.com/stakpak/devx) - A tool for generating, validating &amp; sharing all your configurations, powered by CUE. Works with Kubernetes, Terraform, Compose, GitHub actions and much more... (5 days ago)
 - [dominikh/gotraceui](https://github.com/dominikh/gotraceui) - Go execution trace frontend (1 week ago)
 - [aws-samples/aws-deployment-pipeline-reference-architecture](https://github.com/aws-samples/aws-deployment-pipeline-reference-architecture) - Reference architecture for deployment pipelines (1 week ago)
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust (2 weeks ago)
