@@ -1,15 +1,15 @@
-### Hola 👋
+### Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+I'm Manuel, an open-source enthusiast, active contributor, and automation lover.
 
+### Boy Scout Rule
 
-I'm Manuel, an open-source enthusiast, active contributor, and automation lover. When I see something to be improved, I do it. When I see a project
+I love open source. I am not a heavy maintainer of any large libraries, but I really like the boyscout rule. 
+When I see something to be improved, I do it. When I see a project
 that simplifies my life and many others. I use my skills to improve it even more.
-
-#### 📫 How to reach me
-In English, Spanish or German...
-
-- [Mail](mailto:mavogel@posteo.de)
-- [LinkedIn](https://inkedin.com/in/manuel-vogel)
+I contribute to things as I come across issues that I think other people might struggle with. 
+This may be things that are overlooked by someone who is deep into the library.  
+I 💕 a good onboarding readme with good example.
 
 #### 🛠 Languages and Tools
 <p>
@@ -18,13 +18,13 @@ In English, Spanish or German...
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-horizontal.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/helmsh/helmsh-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-official.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/fluxcdio/fluxcdio-ar21.svg"></code>
   <br />
  
 </p>
@@ -61,11 +61,3 @@ In English, Spanish or German...
 
 
 
-
-#### 🌱 My latest projects
-
-- [mavogel/docker-gh-action-test](https://github.com/mavogel/docker-gh-action-test) - Running docker in GitHub Actions
-- [mavogel/go-ssh-forward](https://github.com/mavogel/go-ssh-forward) - A simple library to establish a forward via a jump host in go
-- [mavogel/ilias-client-lib](https://github.com/mavogel/ilias-client-lib) - Connector library for the Ilias SOAP endpoint
-- [mavogel/dotfiles](https://github.com/mavogel/dotfiles) - My dotfiles
-- [mavogel/simple-city-service](https://github.com/mavogel/simple-city-service) - A simple city service providing additional weather data
