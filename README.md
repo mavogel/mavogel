@@ -34,7 +34,7 @@ I 💕 a good onboarding readme with good example.
 - [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (today)
 - [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) - The corresponding projen template for the AWS CDK Construct (today)
 - [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS (today)
-- [MV-Consulting/s3-cdk-assets-bootstrap](https://github.com/MV-Consulting/s3-cdk-assets-bootstrap) - Bootstraps your AWS accounts with S3 asset buckets per region and a release bucket. Additionally creates IAM roles for GitHub Actions OICD roles. (1 day ago)
+- [MV-Consulting/s3-cdk-assets-bootstrap](https://github.com/MV-Consulting/s3-cdk-assets-bootstrap) - Bootstraps your AWS accounts with S3 asset buckets per region and a release bucket. Additionally creates IAM roles for GitHub Actions OICD roles. (today)
 - [kkeles/awsug-hugo](https://github.com/kkeles/awsug-hugo) - Website Template for AWS User Groups (5 months ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -46,11 +46,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - 🧙‍♂️ ImageMagick 7 (today)
 - [stakpak/devx](https://github.com/stakpak/devx) - A tool for generating, validating &amp; sharing all your configurations, powered by CUE. Works with Kubernetes, Terraform, Compose, GitHub actions and much more... (1 week ago)
 - [dominikh/gotraceui](https://github.com/dominikh/gotraceui) - Go execution trace frontend (1 week ago)
 - [aws-samples/aws-deployment-pipeline-reference-architecture](https://github.com/aws-samples/aws-deployment-pipeline-reference-architecture) - Reference architecture for deployment pipelines (2 weeks ago)
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust (2 weeks ago)
-- [utkuozdemir/pv-migrate](https://github.com/utkuozdemir/pv-migrate) - CLI tool to easily migrate Kubernetes persistent volumes (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
