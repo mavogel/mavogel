@@ -54,9 +54,9 @@ I 💕 a good onboarding readme with good example.
 
 #### 👯 Check out some of my recent followers
 
+- [zhouxinyu](https://github.com/zhouxinyu)
 - [chukwunonsoprosper](https://github.com/chukwunonsoprosper)
 - [devopsninja254](https://github.com/devopsninja254)
-- [lony](https://github.com/lony)
 
 
 
