@@ -46,11 +46,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [caressofsteel/hugo-story](https://github.com/caressofsteel/hugo-story) - A (modular, highly tweakable) responsive one-page Hugo template. (today)
 - [headlamp-k8s/headlamp](https://github.com/headlamp-k8s/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible (today)
 - [acantril/learn-cantrill-io-labs](https://github.com/acantril/learn-cantrill-io-labs) - Standard and Advanced Demos for learn.cantrill.io courses (6 days ago)
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster (1 week ago)
 - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - 🧙‍♂️ ImageMagick 7 (1 week ago)
-- [stakpak/devx](https://github.com/stakpak/devx) - A tool for generating, validating &amp; sharing all your configurations, powered by CUE. Works with Kubernetes, Terraform, Compose, GitHub actions and much more... (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
