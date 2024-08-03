@@ -46,11 +46,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release) - Visual Studio Code Remote Development: Open any folder in WSL, in a Docker container, or on a remote machine using SSH and take advantage of VS Code&#39;s full feature set. (today)
 - [charm-community/tapioca](https://github.com/charm-community/tapioca) - Floating progress bar compatible with any loggers that you might use (1 day ago)
 - [caressofsteel/hugo-story](https://github.com/caressofsteel/hugo-story) - A (modular, highly tweakable) responsive one-page Hugo template. (2 days ago)
 - [headlamp-k8s/headlamp](https://github.com/headlamp-k8s/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible (2 days ago)
 - [acantril/learn-cantrill-io-labs](https://github.com/acantril/learn-cantrill-io-labs) - Standard and Advanced Demos for learn.cantrill.io courses (1 week ago)
-- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
