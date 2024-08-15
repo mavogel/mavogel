@@ -46,11 +46,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [RhinoSecurityLabs/pacu](https://github.com/RhinoSecurityLabs/pacu) - The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. (today)
 - [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.  (6 days ago)
 - [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release) - Visual Studio Code Remote Development: Open any folder in WSL, in a Docker container, or on a remote machine using SSH and take advantage of VS Code&#39;s full feature set. (1 week ago)
 - [charm-community/tapioca](https://github.com/charm-community/tapioca) - Floating progress bar compatible with any loggers that you might use (1 week ago)
 - [caressofsteel/hugo-story](https://github.com/caressofsteel/hugo-story) - A (modular, highly tweakable) responsive one-page Hugo template. (2 weeks ago)
-- [headlamp-k8s/headlamp](https://github.com/headlamp-k8s/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
