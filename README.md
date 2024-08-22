@@ -47,11 +47,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript. (today)
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (today)
 - [caarlos0/mdtree](https://github.com/caarlos0/mdtree) - Convert markdown lists into ASCII trees (today)
 - [thriving-dev/kafka-streams-topology-design](https://github.com/thriving-dev/kafka-streams-topology-design) - Kafka Streams Topology Design (KSTD) is an open standard dedicated to the clear and effective description and visualization of Kafka Stream topologies. (today)
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.  (6 days ago)
-- [RhinoSecurityLabs/pacu](https://github.com/RhinoSecurityLabs/pacu) - The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
