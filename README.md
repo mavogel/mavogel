@@ -39,9 +39,9 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
+- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.283](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.283), today) - The corresponding projen template for the AWS CDK Construct
 - [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.139](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.139), today) - An opinionated way to secure your AWS root email boxes
 - [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.294](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.294), today) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
-- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.282](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.282), 1 day ago) - The corresponding projen template for the AWS CDK Construct
 - [awslabs/sandbox-accounts-for-events](https://github.com/awslabs/sandbox-accounts-for-events) ([v1.2.0](https://github.com/awslabs/sandbox-accounts-for-events/releases/tag/v1.2.0), 1 week ago) - &#34;Sandbox Accounts for Events&#34; allows to provide multiple, temporary AWS accounts to a number of authenticated users simultaneously via a browser-based GUI.
 - [davidmc24/gradle-avro-plugin](https://github.com/davidmc24/gradle-avro-plugin) ([1.9.1](https://github.com/davidmc24/gradle-avro-plugin/releases/tag/1.9.1), 10 months ago) - A Gradle plugin to allow easily performing Java code generation for Apache Avro. It supports JSON schema declaration files, JSON protocol declaration files, and Avro IDL files.
 
