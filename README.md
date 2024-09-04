@@ -47,7 +47,7 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
-- [taimos/projen-pipelines](https://github.com/taimos/projen-pipelines) - CDK pipelines using projen (today)
+- [open-constructs/projen-pipelines](https://github.com/open-constructs/projen-pipelines) - CDK pipelines using projen (today)
 - [tailwindlabs/tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense) - Intelligent Tailwind CSS tooling for Visual Studio Code (1 week ago)
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript. (1 week ago)
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (1 week ago)
