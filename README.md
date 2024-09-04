@@ -47,11 +47,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [taimos/projen-pipelines](https://github.com/taimos/projen-pipelines) - CDK pipelines using projen (today)
 - [tailwindlabs/tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense) - Intelligent Tailwind CSS tooling for Visual Studio Code (1 week ago)
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript. (1 week ago)
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (1 week ago)
 - [caarlos0/mdtree](https://github.com/caarlos0/mdtree) - Convert markdown lists into ASCII trees (1 week ago)
-- [thriving-dev/kafka-streams-topology-design](https://github.com/thriving-dev/kafka-streams-topology-design) - Kafka Streams Topology Design (KSTD) is an open standard dedicated to the clear and effective description and visualization of Kafka Stream topologies. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
