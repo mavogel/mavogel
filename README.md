@@ -47,11 +47,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics. (today)
 - [open-constructs/projen-pipelines](https://github.com/open-constructs/projen-pipelines) - CDK pipelines using projen (1 day ago)
 - [tailwindlabs/tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense) - Intelligent Tailwind CSS tooling for Visual Studio Code (1 week ago)
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript. (2 weeks ago)
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (2 weeks ago)
-- [caarlos0/mdtree](https://github.com/caarlos0/mdtree) - Convert markdown lists into ASCII trees (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
