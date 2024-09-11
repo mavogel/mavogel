@@ -11,6 +11,7 @@ I contribute to things as I come across issues that I think other people might s
 This may be things that are overlooked by someone who is deep into the library.  
 I 💕 a good onboarding readme with good example.
 
+<!--
 #### 🛠 Languages and Tools
 <p>
 
@@ -28,6 +29,7 @@ I 💕 a good onboarding readme with good example.
   <br />
  
 </p>
+-->
 
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 5}}
