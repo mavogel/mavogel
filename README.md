@@ -47,9 +47,9 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics. (4 days ago)
-- [open-constructs/projen-pipelines](https://github.com/open-constructs/projen-pipelines) - CDK pipelines using projen (5 days ago)
-- [tailwindlabs/tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense) - Intelligent Tailwind CSS tooling for Visual Studio Code (1 week ago)
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics. (6 days ago)
+- [open-constructs/projen-pipelines](https://github.com/open-constructs/projen-pipelines) - CDK pipelines using projen (1 week ago)
+- [tailwindlabs/tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense) - Intelligent Tailwind CSS tooling for Visual Studio Code (2 weeks ago)
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript. (2 weeks ago)
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (2 weeks ago)
 
