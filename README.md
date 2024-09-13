@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [ekristen/libnuke](https://github.com/ekristen/libnuke) - Common Golang Packages for use by the Various Cloud Nuke Tools (today)
+- [ekristen/aws-nuke](https://github.com/ekristen/aws-nuke) - Remove all the resources from an AWS account (today)
+- [Optum/dce](https://github.com/Optum/dce) - Disposable Cloud Environment (today)
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸 (2 days ago)
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics. (1 week ago)
-- [open-constructs/projen-pipelines](https://github.com/open-constructs/projen-pipelines) - CDK pipelines using projen (1 week ago)
-- [tailwindlabs/tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense) - Intelligent Tailwind CSS tooling for Visual Studio Code (2 weeks ago)
-- [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
