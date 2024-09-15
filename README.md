@@ -31,10 +31,10 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
-- [ekristen/libnuke](https://github.com/ekristen/libnuke) - Common Golang Packages for use by the Various Cloud Nuke Tools (1 day ago)
-- [ekristen/aws-nuke](https://github.com/ekristen/aws-nuke) - Remove all the resources from an AWS account (1 day ago)
-- [Optum/dce](https://github.com/Optum/dce) - Disposable Cloud Environment (1 day ago)
-- [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸 (3 days ago)
+- [ekristen/libnuke](https://github.com/ekristen/libnuke) - Common Golang Packages for use by the Various Cloud Nuke Tools (2 days ago)
+- [ekristen/aws-nuke](https://github.com/ekristen/aws-nuke) - Remove all the resources from an AWS account (2 days ago)
+- [Optum/dce](https://github.com/Optum/dce) - Disposable Cloud Environment (2 days ago)
+- [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸 (4 days ago)
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics. (1 week ago)
 
 #### 👯 Check out some of my recent followers
