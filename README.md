@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [chromedp/chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol. (today)
 - [leerob/next-saas-starter](https://github.com/leerob/next-saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui. (1 day ago)
 - [ekristen/libnuke](https://github.com/ekristen/libnuke) - Common Golang Packages for use by the Various Cloud Nuke Tools (1 week ago)
 - [ekristen/aws-nuke](https://github.com/ekristen/aws-nuke) - Remove all the resources from an AWS account (1 week ago)
 - [Optum/dce](https://github.com/Optum/dce) - Disposable Cloud Environment (1 week ago)
-- [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸 (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
