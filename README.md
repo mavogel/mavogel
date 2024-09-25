@@ -35,7 +35,7 @@ I 💕 a good onboarding readme with good example.
 - [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - How smooth scroll should be (today)
 - [saoudrizwan/claude-dev](https://github.com/saoudrizwan/claude-dev) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way. (today)
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (today)
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models. (today)
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models. (today)
 
 #### 👯 Check out some of my recent followers
 
