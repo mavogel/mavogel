@@ -19,7 +19,7 @@ I 💕 a good onboarding readme with good example.
 - [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (today)
 - [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS (today)
 - [MV-Consulting/s3-cdk-assets-bootstrap](https://github.com/MV-Consulting/s3-cdk-assets-bootstrap) - Bootstraps your AWS accounts with S3 asset buckets per region and a release bucket. Additionally creates IAM roles for GitHub Actions OICD roles. (today)
-- [awslabs/sandbox-accounts-for-events](https://github.com/awslabs/sandbox-accounts-for-events) - &#34;Sandbox Accounts for Events&#34; allows to provide multiple, temporary AWS accounts to a number of authenticated users simultaneously via a browser-based GUI. (1 month ago)
+- [mavogel/nextjs-dashboard](https://github.com/mavogel/nextjs-dashboard) -  (today)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [build-on-aws/amazon-bedrock-minecraft-agent](https://github.com/build-on-aws/amazon-bedrock-minecraft-agent) - AI agentic bot for Minecraft using Agents for Amazon Bedrock. (today)
+- [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - How smooth scroll should be (today)
 - [saoudrizwan/claude-dev](https://github.com/saoudrizwan/claude-dev) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way. (today)
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (today)
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models. (today)
-- [chromedp/chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol. (5 days ago)
-- [leerob/next-saas-starter](https://github.com/leerob/next-saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui. (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
