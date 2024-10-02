@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​. (today)
 - [cdklabs/cdk-pipelines-github](https://github.com/cdklabs/cdk-pipelines-github) -  (6 days ago)
 - [build-on-aws/amazon-bedrock-minecraft-agent](https://github.com/build-on-aws/amazon-bedrock-minecraft-agent) - AI agentic bot for Minecraft using Agents for Amazon Bedrock. (1 week ago)
 - [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - How smooth scroll should be (1 week ago)
 - [saoudrizwan/claude-dev](https://github.com/saoudrizwan/claude-dev) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way. (1 week ago)
-- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
