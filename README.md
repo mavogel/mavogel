@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker&#43;nginx) - aka Heroku on Steroids (today)
 - [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​. (4 days ago)
 - [cdklabs/cdk-pipelines-github](https://github.com/cdklabs/cdk-pipelines-github) -  (1 week ago)
 - [build-on-aws/amazon-bedrock-minecraft-agent](https://github.com/build-on-aws/amazon-bedrock-minecraft-agent) - AI agentic bot for Minecraft using Agents for Amazon Bedrock. (1 week ago)
 - [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - How smooth scroll should be (1 week ago)
-- [saoudrizwan/claude-dev](https://github.com/saoudrizwan/claude-dev) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
