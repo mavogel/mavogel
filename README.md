@@ -30,11 +30,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [charm-and-friends/charm-in-the-wild](https://github.com/charm-and-friends/charm-in-the-wild) - Featuring only the most showstopping, glamorous CLI tooling out there... (today)
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker&#43;nginx) - aka Heroku on Steroids (1 week ago)
 - [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​. (1 week ago)
 - [cdklabs/cdk-pipelines-github](https://github.com/cdklabs/cdk-pipelines-github) -  (2 weeks ago)
 - [build-on-aws/amazon-bedrock-minecraft-agent](https://github.com/build-on-aws/amazon-bedrock-minecraft-agent) - AI agentic bot for Minecraft using Agents for Amazon Bedrock. (2 weeks ago)
-- [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - How smooth scroll should be (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
