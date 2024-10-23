@@ -23,7 +23,7 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
-- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.179](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.179), today) - An opinionated way to secure your AWS root email boxes
+- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.180](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.180), today) - An opinionated way to secure your AWS root email boxes
 - [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.321](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.321), today) - The corresponding projen template for the AWS CDK Construct
 - [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.329](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.329), today) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
 - [mavogel/go-ssh-forward](https://github.com/mavogel/go-ssh-forward) ([v0.1.2](https://github.com/mavogel/go-ssh-forward/releases/tag/v0.1.2), 1 week ago) - A simple library to establish a forward via a jump host in go
