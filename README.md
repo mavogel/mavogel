@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [SummitRoute/aws_breaking_changes](https://github.com/SummitRoute/aws_breaking_changes) - List of changes announced for AWS that may break existing code (today)
 - [aws-samples/baseline-environment-on-aws](https://github.com/aws-samples/baseline-environment-on-aws) - Baseline Environment on AWS(BLEA) is a set of reference CDK template to establish secure baseline on standalone-account or ControlTower based multi-account AWS environment. This solution provides basic and extensible guardrail with AWS security services and end-to-end sample CDK code for typical system architecture.  (2 weeks ago)
 - [charm-and-friends/charm-in-the-wild](https://github.com/charm-and-friends/charm-in-the-wild) - Featuring only the most showstopping, glamorous CLI tooling out there... (3 weeks ago)
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker&#43;nginx) - aka Heroku on Steroids (4 weeks ago)
 - [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​. (1 month ago)
-- [cdklabs/cdk-pipelines-github](https://github.com/cdklabs/cdk-pipelines-github) -  (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
