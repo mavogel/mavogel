@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [anchore/quill](https://github.com/anchore/quill) - Simple mac binary signing from any platform (today)
+- [ekristen/go-project-template](https://github.com/ekristen/go-project-template) - Opinionated Go Project Template (today)
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces. (5 days ago)
 - [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage. (5 days ago)
 - [SummitRoute/aws_breaking_changes](https://github.com/SummitRoute/aws_breaking_changes) - List of changes announced for AWS that may break existing code (2 weeks ago)
-- [aws-samples/baseline-environment-on-aws](https://github.com/aws-samples/baseline-environment-on-aws) - Baseline Environment on AWS(BLEA) is a set of reference CDK template to establish secure baseline on standalone-account or ControlTower based multi-account AWS environment. This solution provides basic and extensible guardrail with AWS security services and end-to-end sample CDK code for typical system architecture.  (1 month ago)
-- [charm-and-friends/charm-in-the-wild](https://github.com/charm-and-friends/charm-in-the-wild) - Featuring only the most showstopping, glamorous CLI tooling out there... (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
