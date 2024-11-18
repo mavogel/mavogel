@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [awslabs/awscli-aliases](https://github.com/awslabs/awscli-aliases) - Repository for AWS CLI aliases. (today)
 - [anchore/quill](https://github.com/anchore/quill) - Simple mac binary signing from any platform (1 day ago)
 - [ekristen/go-project-template](https://github.com/ekristen/go-project-template) - Opinionated Go Project Template (1 day ago)
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces. (6 days ago)
 - [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage. (6 days ago)
-- [SummitRoute/aws_breaking_changes](https://github.com/SummitRoute/aws_breaking_changes) - List of changes announced for AWS that may break existing code (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
