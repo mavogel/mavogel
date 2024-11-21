@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [joyrex2001/kubedock](https://github.com/joyrex2001/kubedock) - Kubedock is a minimal implementation of the docker api that will orchestrate containers on a Kubernetes cluster, rather than running containers locally. (today)
 - [awslabs/awscli-aliases](https://github.com/awslabs/awscli-aliases) - Repository for AWS CLI aliases. (3 days ago)
 - [anchore/quill](https://github.com/anchore/quill) - Simple mac binary signing from any platform (4 days ago)
 - [ekristen/go-project-template](https://github.com/ekristen/go-project-template) - Opinionated Go Project Template (4 days ago)
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces. (1 week ago)
-- [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
