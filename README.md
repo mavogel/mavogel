@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [egoist/awesome-esbuild](https://github.com/egoist/awesome-esbuild) - A curated list of awesome esbuild resources (today)
 - [joyrex2001/kubedock](https://github.com/joyrex2001/kubedock) - Kubedock is a minimal implementation of the docker api that will orchestrate containers on a Kubernetes cluster, rather than running containers locally. (4 days ago)
 - [awslabs/awscli-aliases](https://github.com/awslabs/awscli-aliases) - Repository for AWS CLI aliases. (1 week ago)
 - [anchore/quill](https://github.com/anchore/quill) - Simple mac binary signing from any platform (1 week ago)
 - [ekristen/go-project-template](https://github.com/ekristen/go-project-template) - Opinionated Go Project Template (1 week ago)
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
