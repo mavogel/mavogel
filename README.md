@@ -23,8 +23,8 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
+- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.227](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.227), today) - An opinionated way to secure your AWS root email boxes
 - [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.363](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.363), today) - The corresponding projen template for the AWS CDK Construct
-- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.226](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.226), today) - An opinionated way to secure your AWS root email boxes
 - [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.365](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.365), 1 day ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
 - [awslabs/sandbox-accounts-for-events](https://github.com/awslabs/sandbox-accounts-for-events) ([v1.3.1](https://github.com/awslabs/sandbox-accounts-for-events/releases/tag/v1.3.1), 3 weeks ago) - &#34;Sandbox Accounts for Events&#34; allows to provide multiple, temporary AWS accounts to a number of authenticated users simultaneously via a browser-based GUI.
 - [mavogel/go-ssh-forward](https://github.com/mavogel/go-ssh-forward) ([v0.1.3](https://github.com/mavogel/go-ssh-forward/releases/tag/v0.1.3), 3 weeks ago) - A simple library to establish a forward via a jump host in go
