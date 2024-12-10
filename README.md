@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [i-love-flamingo/flamingo](https://github.com/i-love-flamingo/flamingo) - Flamingo Framework and Core Library. Flamingo is a go based framework to build pluggable applications. Focus is on clean architecture, maintainability and operation readiness. (today)
 - [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) - A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats. (today)
 - [aws-samples/fleet-management-on-amazon-eks-workshop](https://github.com/aws-samples/fleet-management-on-amazon-eks-workshop) -  (6 days ago)
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects. (1 week ago)
 - [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go (2 weeks ago)
-- [egoist/awesome-esbuild](https://github.com/egoist/awesome-esbuild) - A curated list of awesome esbuild resources (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
