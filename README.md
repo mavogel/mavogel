@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 15 with App Router and Page Router support, Tailwind CSS 3.4 and TypeScript ⚡️ Made with developer experience first: Next.js &#43; TypeScript &#43; ESLint &#43; Prettier &#43; Drizzle ORM &#43; Husky &#43; Lint-Staged &#43; Vitest &#43; Testing Library &#43; Playwright &#43; Storybook &#43; Commitlint &#43; VSCode &#43; Netlify &#43; PostCSS &#43; Tailwind CSS ✨ (today)
 - [i-love-flamingo/flamingo](https://github.com/i-love-flamingo/flamingo) - Flamingo Framework and Core Library. Flamingo is a go based framework to build pluggable applications. Focus is on clean architecture, maintainability and operation readiness. (1 day ago)
 - [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) - A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats. (1 day ago)
 - [aws-samples/fleet-management-on-amazon-eks-workshop](https://github.com/aws-samples/fleet-management-on-amazon-eks-workshop) -  (1 week ago)
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects. (1 week ago)
-- [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
