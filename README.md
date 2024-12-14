@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [tailwindlabs/prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) - A Prettier plugin for Tailwind CSS that automatically sorts classes based on our recommended class order. (today)
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework (today)
 - [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 15 with App Router and Page Router support, Tailwind CSS 3.4 and TypeScript ⚡️ Made with developer experience first: Next.js &#43; TypeScript &#43; ESLint &#43; Prettier &#43; Drizzle ORM &#43; Husky &#43; Lint-Staged &#43; Vitest &#43; Testing Library &#43; Playwright &#43; Storybook &#43; Commitlint &#43; VSCode &#43; Netlify &#43; PostCSS &#43; Tailwind CSS ✨ (3 days ago)
 - [i-love-flamingo/flamingo](https://github.com/i-love-flamingo/flamingo) - Flamingo Framework and Core Library. Flamingo is a go based framework to build pluggable applications. Focus is on clean architecture, maintainability and operation readiness. (4 days ago)
 - [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) - A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats. (4 days ago)
-- [aws-samples/fleet-management-on-amazon-eks-workshop](https://github.com/aws-samples/fleet-management-on-amazon-eks-workshop) -  (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
