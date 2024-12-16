@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [goreleaser/example-multi-language](https://github.com/goreleaser/example-multi-language) - Example project using all 3 currently available builders: Go, Rust, and Zig (today)
 - [tailwindlabs/prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) - A Prettier plugin for Tailwind CSS that automatically sorts classes based on our recommended class order. (2 days ago)
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework (2 days ago)
 - [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 15 with App Router and Page Router support, Tailwind CSS 3.4 and TypeScript ⚡️ Made with developer experience first: Next.js &#43; TypeScript &#43; ESLint &#43; Prettier &#43; Drizzle ORM &#43; Husky &#43; Lint-Staged &#43; Vitest &#43; Testing Library &#43; Playwright &#43; Storybook &#43; Commitlint &#43; VSCode &#43; Netlify &#43; PostCSS &#43; Tailwind CSS ✨ (5 days ago)
 - [i-love-flamingo/flamingo](https://github.com/i-love-flamingo/flamingo) - Flamingo Framework and Core Library. Flamingo is a go based framework to build pluggable applications. Focus is on clean architecture, maintainability and operation readiness. (6 days ago)
-- [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) - A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats. (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
