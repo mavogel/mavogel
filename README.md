@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [jnsahaj/lumen](https://github.com/jnsahaj/lumen) - Instant AI Git Commit message, Git changes summary from the CLI (no API key required) (today)
 - [AvitalTamir/cyphernetes](https://github.com/AvitalTamir/cyphernetes) - A Kubernetes Query Language (4 days ago)
 - [goreleaser/example-multi-language](https://github.com/goreleaser/example-multi-language) - Example project using all 3 currently available builders: Go, Rust, and Zig (5 days ago)
 - [tailwindlabs/prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) - A Prettier plugin for Tailwind CSS that automatically sorts classes based on our recommended class order. (1 week ago)
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework (1 week ago)
-- [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 15 with App Router and Page Router support, Tailwind CSS 3.4 and TypeScript ⚡️ Made with developer experience first: Next.js &#43; TypeScript &#43; ESLint &#43; Prettier &#43; Drizzle ORM &#43; Husky &#43; Lint-Staged &#43; Vitest &#43; Testing Library &#43; Playwright &#43; Storybook &#43; Commitlint &#43; VSCode &#43; Netlify &#43; PostCSS &#43; Tailwind CSS ✨ (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
