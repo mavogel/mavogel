@@ -39,9 +39,9 @@ I 💕 a good onboarding readme with good example.
 
 #### 👯 Check out some of my recent followers
 
-- [thegithubmenace](https://github.com/thegithubmenace)
 - [XiaomingX](https://github.com/XiaomingX)
 - [Neustradamus](https://github.com/Neustradamus)
+- [SadiqAlnaam](https://github.com/SadiqAlnaam)
 
 
 
