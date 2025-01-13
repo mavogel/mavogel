@@ -15,7 +15,7 @@ I 💕 a good onboarding readme with good example.
 
 #### 👷 Check out what I'm currently working on
 
-- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (1 day ago)
+- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (today)
 - [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS (2 days ago)
 - [MV-Consulting/s3-cdk-assets-bootstrap](https://github.com/MV-Consulting/s3-cdk-assets-bootstrap) - Bootstraps your AWS accounts with S3 asset buckets per region and a release bucket. Additionally creates IAM roles for GitHub Actions OICD roles. (2 days ago)
 - [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) - The corresponding projen template for the AWS CDK Construct (4 days ago)
@@ -23,7 +23,7 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
-- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.266](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.266), 1 day ago) - An opinionated way to secure your AWS root email boxes
+- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.267](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.267), today) - An opinionated way to secure your AWS root email boxes
 - [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.385](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.385), 3 days ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
 - [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.397](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.397), 4 days ago) - The corresponding projen template for the AWS CDK Construct
 - [mavogel/go-ssh-forward](https://github.com/mavogel/go-ssh-forward) ([v0.1.5](https://github.com/mavogel/go-ssh-forward/releases/tag/v0.1.5), 3 weeks ago) - A simple library to establish a forward via a jump host in go
