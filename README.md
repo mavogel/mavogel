@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [awslabs/aws-cfn-template-flip](https://github.com/awslabs/aws-cfn-template-flip) - Tool for converting AWS CloudFormation templates between JSON and YAML formats. (today)
 - [badmintoncryer/cloud-duck](https://github.com/badmintoncryer/cloud-duck) - CDK construct for creating an analysis environment using DuckDB for S3 data (1 day ago)
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference (2 days ago)
 - [aws-samples/aws-cdk-examples](https://github.com/aws-samples/aws-cdk-examples) - Example projects using the AWS CDK (6 days ago)
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free. (6 days ago)
-- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
