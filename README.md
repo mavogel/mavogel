@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [rioastamal/installer-vscode-for-web](https://github.com/rioastamal/installer-vscode-for-web) - Turn your fresh cloud VM into fully functional VS Code for the web with HTTPS enabled. (today)
 - [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication (1 day ago)
 - [awslabs/aws-cfn-template-flip](https://github.com/awslabs/aws-cfn-template-flip) - Tool for converting AWS CloudFormation templates between JSON and YAML formats. (1 day ago)
 - [badmintoncryer/cloud-duck](https://github.com/badmintoncryer/cloud-duck) - CDK construct for creating an analysis environment using DuckDB for S3 data (2 days ago)
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference (3 days ago)
-- [aws-samples/aws-cdk-examples](https://github.com/aws-samples/aws-cdk-examples) - Example projects using the AWS CDK (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
