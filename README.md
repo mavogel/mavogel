@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [serafimcloud/21st](https://github.com/serafimcloud/21st) - npm for design engineers: largest marketplace of shadcn/ui-based React Tailwind components, blocks and hooks (today)
 - [kalaiser/awesome-cdk](https://github.com/kalaiser/awesome-cdk) - A collection of awesome things related to the AWS Cloud Development Kit (CDK) (1 day ago)
 - [DS4SD/docling](https://github.com/DS4SD/docling) - Get your documents ready for gen AI (2 days ago)
 - [rioastamal/installer-vscode-for-web](https://github.com/rioastamal/installer-vscode-for-web) - Turn your fresh cloud VM into fully functional VS Code for the web with HTTPS enabled. (3 days ago)
 - [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication (4 days ago)
-- [awslabs/aws-cfn-template-flip](https://github.com/awslabs/aws-cfn-template-flip) - Tool for converting AWS CloudFormation templates between JSON and YAML formats. (4 days ago)
 
 #### 👯 Check out some of my recent followers
 
