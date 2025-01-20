@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [Kiranism/next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter) - Admin Dashboard Starter with Nextjs15 and shadcn ui (today)
 - [openai/openai-realtime-agents](https://github.com/openai/openai-realtime-agents) - This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API. (today)
 - [serafimcloud/21st](https://github.com/serafimcloud/21st) - npm for design engineers: largest marketplace of shadcn/ui-based React Tailwind components, blocks and hooks (2 days ago)
 - [kalaiser/awesome-cdk](https://github.com/kalaiser/awesome-cdk) - A collection of awesome things related to the AWS Cloud Development Kit (CDK) (3 days ago)
 - [DS4SD/docling](https://github.com/DS4SD/docling) - Get your documents ready for gen AI (4 days ago)
-- [rioastamal/installer-vscode-for-web](https://github.com/rioastamal/installer-vscode-for-web) - Turn your fresh cloud VM into fully functional VS Code for the web with HTTPS enabled. (5 days ago)
 
 #### 👯 Check out some of my recent followers
 
