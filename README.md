@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [iainelder/aws-root-account-creator](https://github.com/iainelder/aws-root-account-creator) - Creates a new AWS root account and saves the credentials locally (today)
+- [maxritter/aws-bedrock-multi-agent-blueprint](https://github.com/maxritter/aws-bedrock-multi-agent-blueprint) - Blueprint for running AWS Bedrock Multi-Agent AI collaboration with CDK, Streamlit and LangFuse (today)
 - [Kiranism/next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter) - Admin Dashboard Starter with Nextjs15 and shadcn ui (1 day ago)
 - [openai/openai-realtime-agents](https://github.com/openai/openai-realtime-agents) - This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API. (1 day ago)
 - [serafimcloud/21st](https://github.com/serafimcloud/21st) - npm for design engineers: largest marketplace of shadcn/ui-based React Tailwind components, blocks and hooks (3 days ago)
-- [kalaiser/awesome-cdk](https://github.com/kalaiser/awesome-cdk) - A collection of awesome things related to the AWS Cloud Development Kit (CDK) (4 days ago)
-- [DS4SD/docling](https://github.com/DS4SD/docling) - Get your documents ready for gen AI (5 days ago)
 
 #### 👯 Check out some of my recent followers
 
