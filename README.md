@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [dannysteenman/aws-cdk-starterkit](https://github.com/dannysteenman/aws-cdk-starterkit) - Create and deploy an AWS CDK TypeScript app on your AWS account in less than 5 minutes using GitHub actions! (today)
 - [shadcn/app-tailwind-v4](https://github.com/shadcn/app-tailwind-v4) - shadcn/ui &#43; tailwind v4 (1 day ago)
 - [aws-samples/cdk-wakeful](https://github.com/aws-samples/cdk-wakeful) -  (4 days ago)
 - [iainelder/aws-root-account-creator](https://github.com/iainelder/aws-root-account-creator) - Creates a new AWS root account and saves the credentials locally (4 days ago)
 - [maxritter/aws-bedrock-multi-agent-blueprint](https://github.com/maxritter/aws-bedrock-multi-agent-blueprint) - Blueprint for running AWS Bedrock Multi-Agent AI collaboration with CDK, Streamlit and LangFuse (4 days ago)
-- [Kiranism/next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter) - Admin Dashboard Starter with Nextjs15 and shadcn ui (5 days ago)
 
 #### 👯 Check out some of my recent followers
 
