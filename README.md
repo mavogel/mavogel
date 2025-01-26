@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web. (today)
 - [ran-isenberg/aws-lambda-handler-cookbook](https://github.com/ran-isenberg/aws-lambda-handler-cookbook) - This repository provides a working, deployable, open source-based, serverless service blueprint with an AWS Lambda function and AWS CDK Python code with all the best practices and a complete CI/CD pipeline. (1 day ago)
 - [cdklabs/cdk-nextjs](https://github.com/cdklabs/cdk-nextjs) - Deploy Next.js on AWS with CDK (1 day ago)
 - [dannysteenman/aws-cdk-starterkit](https://github.com/dannysteenman/aws-cdk-starterkit) - Create and deploy an AWS CDK TypeScript app on your AWS account in less than 5 minutes using GitHub actions! (1 day ago)
 - [shadcn/app-tailwind-v4](https://github.com/shadcn/app-tailwind-v4) - shadcn/ui &#43; tailwind v4 (2 days ago)
-- [aws-samples/cdk-wakeful](https://github.com/aws-samples/cdk-wakeful) -  (5 days ago)
 
 #### 👯 Check out some of my recent followers
 
