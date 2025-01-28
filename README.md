@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1 (today)
 - [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - DeepSeek Coder: Let the Code Write Itself (1 day ago)
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web. (2 days ago)
 - [ran-isenberg/aws-lambda-handler-cookbook](https://github.com/ran-isenberg/aws-lambda-handler-cookbook) - This repository provides a working, deployable, open source-based, serverless service blueprint with an AWS Lambda function and AWS CDK Python code with all the best practices and a complete CI/CD pipeline. (3 days ago)
 - [cdklabs/cdk-nextjs](https://github.com/cdklabs/cdk-nextjs) - Deploy Next.js on AWS with CDK (3 days ago)
-- [dannysteenman/aws-cdk-starterkit](https://github.com/dannysteenman/aws-cdk-starterkit) - Create and deploy an AWS CDK TypeScript app on your AWS account in less than 5 minutes using GitHub actions! (3 days ago)
 
 #### 👯 Check out some of my recent followers
 
