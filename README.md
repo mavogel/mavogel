@@ -15,19 +15,19 @@ I 💕 a good onboarding readme with good example.
 
 #### 👷 Check out what I'm currently working on
 
+- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (today)
 - [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) - The corresponding projen template for the AWS CDK Construct (today)
 - [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS (today)
 - [MV-Consulting/s3-cdk-assets-bootstrap](https://github.com/MV-Consulting/s3-cdk-assets-bootstrap) - Bootstraps your AWS accounts with S3 asset buckets per region and a release bucket. Additionally creates IAM roles for GitHub Actions OICD roles. (today)
 - [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) - Projen templates for our projects (today)
-- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.291](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.291), today) - An opinionated way to secure your AWS root email boxes
 - [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.419](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.419), today) - The corresponding projen template for the AWS CDK Construct
 - [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.401](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.401), today) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
 - [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) ([v0.0.2](https://github.com/MV-Consulting/mvc-projen/releases/tag/v0.0.2), today) - Projen templates for our projects
 - [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.21](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.21), today) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
-- [mavogel/go-ssh-forward](https://github.com/mavogel/go-ssh-forward) ([v0.1.6](https://github.com/mavogel/go-ssh-forward/releases/tag/v0.1.6), today) - A simple library to establish a forward via a jump host in go
 
 #### ⭐ Recent Stars
 
