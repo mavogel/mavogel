@@ -15,19 +15,19 @@ I 💕 a good onboarding readme with good example.
 
 #### 👷 Check out what I'm currently working on
 
+- [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) - Projen templates for our projects (today)
 - [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (4 days ago)
 - [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) - The corresponding projen template for the AWS CDK Construct (4 days ago)
 - [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS (4 days ago)
 - [MV-Consulting/s3-cdk-assets-bootstrap](https://github.com/MV-Consulting/s3-cdk-assets-bootstrap) - Bootstraps your AWS accounts with S3 asset buckets per region and a release bucket. Additionally creates IAM roles for GitHub Actions OICD roles. (4 days ago)
-- [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️ (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) ([v0.0.1](https://github.com/MV-Consulting/mvc-projen/releases/tag/v0.0.1), today) - Projen templates for our projects
+- [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.21](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.21), today) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
 - [mavogel/go-ssh-forward](https://github.com/mavogel/go-ssh-forward) ([v0.1.6](https://github.com/mavogel/go-ssh-forward/releases/tag/v0.1.6), today) - A simple library to establish a forward via a jump host in go
 - [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.400](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.400), 4 days ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
 - [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.417](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.417), 4 days ago) - The corresponding projen template for the AWS CDK Construct
-- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.290](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.290), 4 days ago) - An opinionated way to secure your AWS root email boxes
-- [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.20](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.20), 1 week ago) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
 
 #### ⭐ Recent Stars
 
