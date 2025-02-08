@@ -23,7 +23,7 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
-- [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) ([v0.0.1](https://github.com/MV-Consulting/mvc-projen/releases/tag/v0.0.1), today) - Projen templates for our projects
+- [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) ([v0.0.2](https://github.com/MV-Consulting/mvc-projen/releases/tag/v0.0.2), today) - Projen templates for our projects
 - [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.21](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.21), today) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
 - [mavogel/go-ssh-forward](https://github.com/mavogel/go-ssh-forward) ([v0.1.6](https://github.com/mavogel/go-ssh-forward/releases/tag/v0.1.6), today) - A simple library to establish a forward via a jump host in go
 - [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.400](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.400), 4 days ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
