@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [org-formation/org-formation-cli](https://github.com/org-formation/org-formation-cli) - Better than landingzones! (today)
 - [LeanerCloud/AutoSpotting](https://github.com/LeanerCloud/AutoSpotting) - Saves up to 90% of AWS EC2 costs by automating the use of spot instances on existing AutoScaling groups. Installs in minutes using CloudFormation or Terraform. Convenient to deploy at scale using StackSets. Uses tagging to avoid launch configuration changes. Automated spot termination handling. Reliable fallback to on-demand instances. (1 day ago)
 - [dynamodb-toolbox/dynamodb-toolbox](https://github.com/dynamodb-toolbox/dynamodb-toolbox) - Lightweight and type-safe query builder for DynamoDB and TypeScript (1 day ago)
 - [kro-run/kro](https://github.com/kro-run/kro) - kro | Kube Resource Orchestrator (1 day ago)
 - [awslabs/sbt-aws](https://github.com/awslabs/sbt-aws) - SaaS Builder Toolkit for AWS is a developer toolkit to implement SaaS best practices and increase developer velocity. (2 days ago)
-- [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1 (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
