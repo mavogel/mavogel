@@ -23,19 +23,19 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
+- [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.22](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.22), today) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
 - [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.402](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.402), today) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
 - [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.292](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.292), 2 days ago) - An opinionated way to secure your AWS root email boxes
 - [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.419](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.419), 2 days ago) - The corresponding projen template for the AWS CDK Construct
 - [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) ([v0.0.2](https://github.com/MV-Consulting/mvc-projen/releases/tag/v0.0.2), 2 days ago) - Projen templates for our projects
-- [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.21](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.21), 2 days ago) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
 
 #### ⭐ Recent Stars
 
+- [aws-samples/bedrock-engineer](https://github.com/aws-samples/bedrock-engineer) - Autonomous software development agent apps using Amazon Bedrock, capable of customize to create/edit files, execute commands, search the web, use knowledge base, use multi-agents, generative images and more. (today)
 - [aws-samples/aws-amplify-stepfunctions-example](https://github.com/aws-samples/aws-amplify-stepfunctions-example) - Learn how to extend AWS Amplify resources with CDK v2 with this example that deploys a Step Functions workflow triggered via an Amplify-managed AppSync API (today)
 - [org-formation/org-formation-cli](https://github.com/org-formation/org-formation-cli) - Better than landingzones! (1 day ago)
 - [LeanerCloud/AutoSpotting](https://github.com/LeanerCloud/AutoSpotting) - Saves up to 90% of AWS EC2 costs by automating the use of spot instances on existing AutoScaling groups. Installs in minutes using CloudFormation or Terraform. Convenient to deploy at scale using StackSets. Uses tagging to avoid launch configuration changes. Automated spot termination handling. Reliable fallback to on-demand instances. (2 days ago)
 - [dynamodb-toolbox/dynamodb-toolbox](https://github.com/dynamodb-toolbox/dynamodb-toolbox) - Lightweight and type-safe query builder for DynamoDB and TypeScript (2 days ago)
-- [kro-run/kro](https://github.com/kro-run/kro) - kro | Kube Resource Orchestrator (2 days ago)
 
 #### 👯 Check out some of my recent followers
 
