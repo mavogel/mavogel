@@ -23,17 +23,17 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
-- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.294](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.294), 5 days ago) - An opinionated way to secure your AWS root email boxes
-- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.421](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.421), 6 days ago) - The corresponding projen template for the AWS CDK Construct
-- [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.403](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.403), 6 days ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
-- [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.24](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.24), 6 days ago) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
+- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.294](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.294), 6 days ago) - An opinionated way to secure your AWS root email boxes
+- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.421](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.421), 1 week ago) - The corresponding projen template for the AWS CDK Construct
+- [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.403](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.403), 1 week ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
+- [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.24](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.24), 1 week ago) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
 - [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) ([v0.0.4](https://github.com/MV-Consulting/mvc-projen/releases/tag/v0.0.4), 1 week ago) - Projen templates for our projects
 
 #### ⭐ Recent Stars
 
 - [noneback/go-taskflow](https://github.com/noneback/go-taskflow) - A pure go General-purpose Task-parallel Programming Framework with integrated visualizer and profiler (1 week ago)
-- [aws-samples/bedrock-engineer](https://github.com/aws-samples/bedrock-engineer) - Autonomous software development agent apps using Amazon Bedrock, capable of customize to create/edit files, execute commands, search the web, use knowledge base, use multi-agents, generative images and more. (1 week ago)
-- [aws-samples/aws-amplify-stepfunctions-example](https://github.com/aws-samples/aws-amplify-stepfunctions-example) - Learn how to extend AWS Amplify resources with CDK v2 with this example that deploys a Step Functions workflow triggered via an Amplify-managed AppSync API (1 week ago)
+- [aws-samples/bedrock-engineer](https://github.com/aws-samples/bedrock-engineer) - Autonomous software development agent apps using Amazon Bedrock, capable of customize to create/edit files, execute commands, search the web, use knowledge base, use multi-agents, generative images and more. (2 weeks ago)
+- [aws-samples/aws-amplify-stepfunctions-example](https://github.com/aws-samples/aws-amplify-stepfunctions-example) - Learn how to extend AWS Amplify resources with CDK v2 with this example that deploys a Step Functions workflow triggered via an Amplify-managed AppSync API (2 weeks ago)
 - [org-formation/org-formation-cli](https://github.com/org-formation/org-formation-cli) - Better than landingzones! (2 weeks ago)
 - [LeanerCloud/AutoSpotting](https://github.com/LeanerCloud/AutoSpotting) - Saves up to 90% of AWS EC2 costs by automating the use of spot instances on existing AutoScaling groups. Installs in minutes using CloudFormation or Terraform. Convenient to deploy at scale using StackSets. Uses tagging to avoid launch configuration changes. Automated spot termination handling. Reliable fallback to on-demand instances. (2 weeks ago)
 
