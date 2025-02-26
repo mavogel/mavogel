@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [aklomp/shrinkpdf](https://github.com/aklomp/shrinkpdf) - Shrink PDF files with Ghostscript (today)
 - [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) - Gen AI Toolbox for Databases is an open source server that makes it easier to build Gen AI tools for interacting with databases.  (2 days ago)
 - [noneback/go-taskflow](https://github.com/noneback/go-taskflow) - A pure go General-purpose Task-parallel Programming Framework with integrated visualizer and profiler (1 week ago)
 - [aws-samples/bedrock-engineer](https://github.com/aws-samples/bedrock-engineer) - Autonomous software development agent apps using Amazon Bedrock, capable of customize to create/edit files, execute commands, search the web, use knowledge base, use multi-agents, generative images and more. (2 weeks ago)
 - [aws-samples/aws-amplify-stepfunctions-example](https://github.com/aws-samples/aws-amplify-stepfunctions-example) - Learn how to extend AWS Amplify resources with CDK v2 with this example that deploys a Step Functions workflow triggered via an Amplify-managed AppSync API (2 weeks ago)
-- [org-formation/org-formation-cli](https://github.com/org-formation/org-formation-cli) - Better than landingzones! (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
