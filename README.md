@@ -39,9 +39,9 @@ I 💕 a good onboarding readme with good example.
 
 #### 👯 Check out some of my recent followers
 
+- [LinuxJS](https://github.com/LinuxJS)
 - [XiaomingX](https://github.com/XiaomingX)
 - [moltar](https://github.com/moltar)
-- [itzrahulyadav](https://github.com/itzrahulyadav)
 
 
 
