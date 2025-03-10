@@ -23,11 +23,11 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
+- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.424](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.424), today) - The corresponding projen template for the AWS CDK Construct
 - [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.27](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.27), today) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
 - [mavogel/go-ssh-forward](https://github.com/mavogel/go-ssh-forward) ([v0.1.7](https://github.com/mavogel/go-ssh-forward/releases/tag/v0.1.7), 2 days ago) - A simple library to establish a forward via a jump host in go
 - [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) ([v0.0.6](https://github.com/MV-Consulting/mvc-projen/releases/tag/v0.0.6), 2 days ago) - Projen templates for our projects
 - [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.296](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.296), 1 week ago) - An opinionated way to secure your AWS root email boxes
-- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.423](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.423), 1 week ago) - The corresponding projen template for the AWS CDK Construct
 
 #### ⭐ Recent Stars
 
