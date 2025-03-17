@@ -23,19 +23,19 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
+- [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.28](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.28), today) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
 - [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) ([v0.0.7](https://github.com/MV-Consulting/mvc-projen/releases/tag/v0.0.7), 1 day ago) - Projen templates for our projects
 - [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.297](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.297), 6 days ago) - An opinionated way to secure your AWS root email boxes
 - [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.424](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.424), 1 week ago) - The corresponding projen template for the AWS CDK Construct
-- [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.27](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.27), 1 week ago) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
 - [mavogel/go-ssh-forward](https://github.com/mavogel/go-ssh-forward) ([v0.1.7](https://github.com/mavogel/go-ssh-forward/releases/tag/v0.1.7), 1 week ago) - A simple library to establish a forward via a jump host in go
 
 #### ⭐ Recent Stars
 
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (today)
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript (4 days ago)
 - [saasfly/saasfly](https://github.com/saasfly/saasfly) - Your Next SaaS Template or Boilerplate ! A magic trip start with `bun create saasfly` . The more stars, the more surprises (1 week ago)
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]  (1 week ago)
 - [coleam00/local-ai-packaged](https://github.com/coleam00/local-ai-packaged) - Run all your local AI together in one package - Ollama, Supabase, n8n, Open WebUI, and more! (1 week ago)
-- [gocarina/gocsv](https://github.com/gocarina/gocsv) - The GoCSV package aims to provide easy CSV serialization and deserialization to the golang programming language (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
