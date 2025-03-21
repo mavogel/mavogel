@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [sonnylazuardi/cursor-talk-to-figma-mcp](https://github.com/sonnylazuardi/cursor-talk-to-figma-mcp) - Cursor Talk To Figma MCP (today)
 - [jetbridge/cdk-nextjs](https://github.com/jetbridge/cdk-nextjs) - Deploy a NextJS application using AWS CDK (3 days ago)
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (4 days ago)
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript (1 week ago)
 - [saasfly/saasfly](https://github.com/saasfly/saasfly) - Your Next SaaS Template or Boilerplate ! A magic trip start with `bun create saasfly` . The more stars, the more surprises (1 week ago)
-- [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]  (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
