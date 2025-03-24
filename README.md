@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [contentful/template-marketing-webapp-nextjs](https://github.com/contentful/template-marketing-webapp-nextjs) - Next.js marketing website starter template (today)
 - [maxritter/max-ritter-website](https://github.com/maxritter/max-ritter-website) - My personal website, created with Vite, React &amp; Tailwind (3 days ago)
 - [sonnylazuardi/cursor-talk-to-figma-mcp](https://github.com/sonnylazuardi/cursor-talk-to-figma-mcp) - Cursor Talk To Figma MCP (3 days ago)
 - [jetbridge/cdk-nextjs](https://github.com/jetbridge/cdk-nextjs) - Deploy a NextJS application using AWS CDK (6 days ago)
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (1 week ago)
-- [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
