@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [eastlondoner/cursor-tools](https://github.com/eastlondoner/cursor-tools) - Give Cursor Agent an AI Team and Advanced Skills (today)
 - [contentful/template-marketing-webapp-nextjs](https://github.com/contentful/template-marketing-webapp-nextjs) - Next.js marketing website starter template (4 days ago)
 - [maxritter/max-ritter-website](https://github.com/maxritter/max-ritter-website) - My personal website, created with Vite, React &amp; Tailwind (1 week ago)
 - [sonnylazuardi/cursor-talk-to-figma-mcp](https://github.com/sonnylazuardi/cursor-talk-to-figma-mcp) - Cursor Talk To Figma MCP (1 week ago)
 - [jetbridge/cdk-nextjs](https://github.com/jetbridge/cdk-nextjs) - Deploy a NextJS application using AWS CDK (1 week ago)
-- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
