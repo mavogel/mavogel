@@ -41,7 +41,7 @@ I 💕 a good onboarding readme with good example.
 
 - [standardgalactic](https://github.com/standardgalactic)
 - [LinuxJS](https://github.com/LinuxJS)
-- [XiaomingX](https://github.com/XiaomingX)
+- [moltar](https://github.com/moltar)
 
 
 
