@@ -15,7 +15,7 @@ I 💕 a good onboarding readme with good example.
 
 #### 👷 Check out what I'm currently working on
 
-- [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) - Projen templates for our projects (today)
+- [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) - Projen templates for our projects (1 day ago)
 - [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang). (3 weeks ago)
 - [mavogel/go-ssh-forward](https://github.com/mavogel/go-ssh-forward) - A simple library to establish a forward via a jump host in go (1 month ago)
 - [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️ (2 months ago)
@@ -23,18 +23,18 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
-- [mavogel/go-ssh-forward](https://github.com/mavogel/go-ssh-forward) ([v0.1.8](https://github.com/mavogel/go-ssh-forward/releases/tag/v0.1.8), today) - A simple library to establish a forward via a jump host in go
-- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.302](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.302), 4 days ago) - An opinionated way to secure your AWS root email boxes
-- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.428](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.428), 5 days ago) - The corresponding projen template for the AWS CDK Construct
-- [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.407](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.407), 5 days ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
-- [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.32](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.32), 5 days ago) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
+- [mavogel/go-ssh-forward](https://github.com/mavogel/go-ssh-forward) ([v0.1.8](https://github.com/mavogel/go-ssh-forward/releases/tag/v0.1.8), 1 day ago) - A simple library to establish a forward via a jump host in go
+- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.302](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.302), 5 days ago) - An opinionated way to secure your AWS root email boxes
+- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.428](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.428), 6 days ago) - The corresponding projen template for the AWS CDK Construct
+- [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.407](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.407), 6 days ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
+- [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.32](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.32), 6 days ago) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
 
 #### ⭐ Recent Stars
 
 - [eastlondoner/cursor-tools](https://github.com/eastlondoner/cursor-tools) - Give Cursor Agent an AI Team and Advanced Skills (3 weeks ago)
 - [contentful/template-marketing-webapp-nextjs](https://github.com/contentful/template-marketing-webapp-nextjs) - Next.js marketing website starter template (3 weeks ago)
-- [maxritter/max-ritter-website](https://github.com/maxritter/max-ritter-website) - My personal website, created with Vite, React &amp; Tailwind (4 weeks ago)
-- [sonnylazuardi/cursor-talk-to-figma-mcp](https://github.com/sonnylazuardi/cursor-talk-to-figma-mcp) - Cursor Talk To Figma MCP (4 weeks ago)
+- [maxritter/max-ritter-website](https://github.com/maxritter/max-ritter-website) - My personal website, created with Vite, React &amp; Tailwind (1 month ago)
+- [sonnylazuardi/cursor-talk-to-figma-mcp](https://github.com/sonnylazuardi/cursor-talk-to-figma-mcp) - Cursor Talk To Figma MCP (1 month ago)
 - [jetbridge/cdk-nextjs](https://github.com/jetbridge/cdk-nextjs) - Deploy a NextJS application using AWS CDK (1 month ago)
 
 #### 👯 Check out some of my recent followers
