@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com) - The Tailwind CSS documentation website. (today)
+- [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS. (today)
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development. (today)
 - [adrianhajdin/portfolio](https://github.com/adrianhajdin/portfolio) - Modern &amp; Minimal JS Mastery Portfolio (4 days ago)
 - [eastlondoner/cursor-tools](https://github.com/eastlondoner/cursor-tools) - Give Cursor Agent an AI Team and Advanced Skills (3 weeks ago)
-- [contentful/template-marketing-webapp-nextjs](https://github.com/contentful/template-marketing-webapp-nextjs) - Next.js marketing website starter template (1 month ago)
-- [maxritter/max-ritter-website](https://github.com/maxritter/max-ritter-website) - My personal website, created with Vite, React &amp; Tailwind (1 month ago)
-- [sonnylazuardi/cursor-talk-to-figma-mcp](https://github.com/sonnylazuardi/cursor-talk-to-figma-mcp) - Cursor Talk To Figma MCP (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
