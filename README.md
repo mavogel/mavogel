@@ -23,19 +23,19 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
-- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.303](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.303), 5 days ago) - An opinionated way to secure your AWS root email boxes
-- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.429](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.429), 5 days ago) - The corresponding projen template for the AWS CDK Construct
-- [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.33](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.33), 5 days ago) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
+- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.303](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.303), 6 days ago) - An opinionated way to secure your AWS root email boxes
+- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.429](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.429), 6 days ago) - The corresponding projen template for the AWS CDK Construct
+- [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.33](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.33), 6 days ago) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
 - [mavogel/go-ssh-forward](https://github.com/mavogel/go-ssh-forward) ([v0.1.8](https://github.com/mavogel/go-ssh-forward/releases/tag/v0.1.8), 1 week ago) - A simple library to establish a forward via a jump host in go
 - [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.407](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.407), 1 week ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
 
 #### ⭐ Recent Stars
 
-- [pacocoursey/next-themes](https://github.com/pacocoursey/next-themes) - Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing (1 day ago)
-- [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust. (2 days ago)
-- [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com) - The Tailwind CSS documentation website. (2 days ago)
-- [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS. (2 days ago)
-- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development. (2 days ago)
+- [pacocoursey/next-themes](https://github.com/pacocoursey/next-themes) - Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing (2 days ago)
+- [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust. (3 days ago)
+- [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com) - The Tailwind CSS documentation website. (3 days ago)
+- [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS. (3 days ago)
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development. (3 days ago)
 
 #### 👯 Check out some of my recent followers
 
