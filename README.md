@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [ravikiranvm/aws-finops-dashboard](https://github.com/ravikiranvm/aws-finops-dashboard) - A terminal-based AWS cost and resource dashboard built with Python and the Rich library. It provides an overview of AWS spend by account, service-level breakdowns, budget tracking, and EC2 instance summaries. (today)
 - [phucbm/nextra-docs-starter](https://github.com/phucbm/nextra-docs-starter) - A template for Nextra v4 docs theme with Next.js 15, React 19 and Pagefind search ready-to-use. (5 days ago)
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js. (5 days ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (5 days ago)
 - [pacocoursey/next-themes](https://github.com/pacocoursey/next-themes) - Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing (2 weeks ago)
-- [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
