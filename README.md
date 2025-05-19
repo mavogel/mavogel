@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording (today)
 - [AnwarHossainSR/nextjs-15-template](https://github.com/AnwarHossainSR/nextjs-15-template) - This is next js 15 boilerplate. You can start your next 15 project without any hassle of setup. (4 days ago)
 - [ixartz/SaaS-Boilerplate](https://github.com/ixartz/SaaS-Boilerplate) - 🚀🎉📚 SaaS Boilerplate built with Next.js &#43; Tailwind CSS &#43; Shadcn UI &#43; TypeScript. ⚡️ Full-stack React application with Auth, Multi-tenancy, Roles &amp; Permissions, i18n, Landing Page, DB, Logging, Testing (5 days ago)
 - [ravikiranvm/aws-finops-dashboard](https://github.com/ravikiranvm/aws-finops-dashboard) - A terminal-based AWS cost and resource dashboard built with Python and the Rich library. It provides an overview of AWS spend by account, service-level breakdowns, budget tracking, and EC2 instance summaries. (1 week ago)
 - [phucbm/nextra-docs-starter](https://github.com/phucbm/nextra-docs-starter) - A template for Nextra v4 docs theme with Next.js 15, React 19 and Pagefind search ready-to-use. (2 weeks ago)
-- [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
