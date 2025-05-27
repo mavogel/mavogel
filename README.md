@@ -15,25 +15,25 @@ I 💕 a good onboarding readme with good example.
 
 #### 👷 Check out what I'm currently working on
 
-- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (4 days ago)
-- [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) - Projen templates for our projects (1 week ago)
+- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (5 days ago)
+- [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) - Projen templates for our projects (2 weeks ago)
 - [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang). (2 months ago)
 - [mavogel/go-ssh-forward](https://github.com/mavogel/go-ssh-forward) - A simple library to establish a forward via a jump host in go (2 months ago)
 - [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️ (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.434](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.434), today) - The corresponding projen template for the AWS CDK Construct
-- [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.410](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.410), today) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
-- [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.38](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.38), today) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
-- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.308](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.308), 4 days ago) - An opinionated way to secure your AWS root email boxes
-- [awslabs/landing-zone-accelerator-on-aws](https://github.com/awslabs/landing-zone-accelerator-on-aws) ([v1.12.2](https://github.com/awslabs/landing-zone-accelerator-on-aws/releases/tag/v1.12.2), 5 days ago) - Deploy a multi-account cloud foundation to support highly-regulated workloads and complex compliance requirements.
+- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.309](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.309), 1 day ago) - An opinionated way to secure your AWS root email boxes
+- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.434](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.434), 1 day ago) - The corresponding projen template for the AWS CDK Construct
+- [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.410](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.410), 1 day ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
+- [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.38](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.38), 1 day ago) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
+- [awslabs/landing-zone-accelerator-on-aws](https://github.com/awslabs/landing-zone-accelerator-on-aws) ([v1.12.2](https://github.com/awslabs/landing-zone-accelerator-on-aws/releases/tag/v1.12.2), 6 days ago) - Deploy a multi-account cloud foundation to support highly-regulated workloads and complex compliance requirements.
 
 #### ⭐ Recent Stars
 
-- [theodorusclarence/ts-nextjs-tailwind-starter](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter) - 🔋 Next.js &#43; Tailwind CSS &#43; TypeScript starter and boilerplate packed with useful development features (today)
-- [schoero/eslint-plugin-readable-tailwind](https://github.com/schoero/eslint-plugin-readable-tailwind) - ESLint plugin to automatically break up long tailwind class strings into multiple lines for better readability. (1 day ago)
-- [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - An AI Hedge Fund Team (6 days ago)
+- [theodorusclarence/ts-nextjs-tailwind-starter](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter) - 🔋 Next.js &#43; Tailwind CSS &#43; TypeScript starter and boilerplate packed with useful development features (1 day ago)
+- [schoero/eslint-plugin-readable-tailwind](https://github.com/schoero/eslint-plugin-readable-tailwind) - ESLint plugin to automatically break up long tailwind class strings into multiple lines for better readability. (2 days ago)
+- [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - An AI Hedge Fund Team (1 week ago)
 - [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording (1 week ago)
 - [AnwarHossainSR/nextjs-15-template](https://github.com/AnwarHossainSR/nextjs-15-template) - This is next js 15 boilerplate. You can start your next 15 project without any hassle of setup. (1 week ago)
 
