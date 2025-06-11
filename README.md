@@ -19,22 +19,22 @@ I 💕 a good onboarding readme with good example.
 - [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (2 weeks ago)
 - [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang). (2 months ago)
 - [mavogel/go-ssh-forward](https://github.com/mavogel/go-ssh-forward) - A simple library to establish a forward via a jump host in go (3 months ago)
-- [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️ (3 months ago)
+- [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️ (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.311](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.311), today) - An opinionated way to secure your AWS root email boxes
-- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.436](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.436), 1 day ago) - The corresponding projen template for the AWS CDK Construct
-- [mavogel/go-ssh-forward](https://github.com/mavogel/go-ssh-forward) ([v0.1.10](https://github.com/mavogel/go-ssh-forward/releases/tag/v0.1.10), 1 day ago) - A simple library to establish a forward via a jump host in go
-- [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.412](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.412), 1 day ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
-- [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.40](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.40), 1 day ago) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
+- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.311](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.311), 1 day ago) - An opinionated way to secure your AWS root email boxes
+- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.436](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.436), 2 days ago) - The corresponding projen template for the AWS CDK Construct
+- [mavogel/go-ssh-forward](https://github.com/mavogel/go-ssh-forward) ([v0.1.10](https://github.com/mavogel/go-ssh-forward/releases/tag/v0.1.10), 2 days ago) - A simple library to establish a forward via a jump host in go
+- [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.412](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.412), 2 days ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
+- [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.40](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.40), 2 days ago) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
 
 #### ⭐ Recent Stars
 
-- [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code (today)
-- [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework (1 day ago)
+- [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code (1 day ago)
+- [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework (2 days ago)
 - [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) - A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools. (1 week ago)
-- [awslabs/llrt](https://github.com/awslabs/llrt) - LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications. (1 week ago)
+- [awslabs/llrt](https://github.com/awslabs/llrt) - LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications. (2 weeks ago)
 - [theodorusclarence/ts-nextjs-tailwind-starter](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter) - 🔋 Next.js &#43; Tailwind CSS &#43; TypeScript starter and boilerplate packed with useful development features (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
