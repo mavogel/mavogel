@@ -23,17 +23,17 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
-- [awslabs/landing-zone-accelerator-on-aws](https://github.com/awslabs/landing-zone-accelerator-on-aws) ([v1.12.3](https://github.com/awslabs/landing-zone-accelerator-on-aws/releases/tag/v1.12.3), 1 day ago) - Deploy a multi-account cloud foundation to support highly-regulated workloads and complex compliance requirements.
-- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.311](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.311), 2 days ago) - An opinionated way to secure your AWS root email boxes
-- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.436](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.436), 3 days ago) - The corresponding projen template for the AWS CDK Construct
-- [mavogel/go-ssh-forward](https://github.com/mavogel/go-ssh-forward) ([v0.1.10](https://github.com/mavogel/go-ssh-forward/releases/tag/v0.1.10), 3 days ago) - A simple library to establish a forward via a jump host in go
-- [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.412](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.412), 3 days ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
+- [awslabs/landing-zone-accelerator-on-aws](https://github.com/awslabs/landing-zone-accelerator-on-aws) ([v1.12.3](https://github.com/awslabs/landing-zone-accelerator-on-aws/releases/tag/v1.12.3), 2 days ago) - Deploy a multi-account cloud foundation to support highly-regulated workloads and complex compliance requirements.
+- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.311](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.311), 3 days ago) - An opinionated way to secure your AWS root email boxes
+- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.436](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.436), 4 days ago) - The corresponding projen template for the AWS CDK Construct
+- [mavogel/go-ssh-forward](https://github.com/mavogel/go-ssh-forward) ([v0.1.10](https://github.com/mavogel/go-ssh-forward/releases/tag/v0.1.10), 4 days ago) - A simple library to establish a forward via a jump host in go
+- [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.412](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.412), 4 days ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
 
 #### ⭐ Recent Stars
 
-- [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code (2 days ago)
-- [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework (3 days ago)
-- [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) - A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools. (1 week ago)
+- [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code (3 days ago)
+- [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework (4 days ago)
+- [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) - A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools. (2 weeks ago)
 - [awslabs/llrt](https://github.com/awslabs/llrt) - LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications. (2 weeks ago)
 - [theodorusclarence/ts-nextjs-tailwind-starter](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter) - 🔋 Next.js &#43; Tailwind CSS &#43; TypeScript starter and boilerplate packed with useful development features (2 weeks ago)
 
