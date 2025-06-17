@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [shobrook/promptimal](https://github.com/shobrook/promptimal) - A very fast, very minimal prompt optimizer (today)
 - [mfridman/cli](https://github.com/mfridman/cli) - Simple Go library for creating CLI apps with subcommands and flexible flags (1 day ago)
 - [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code (1 week ago)
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework (1 week ago)
 - [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) - A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools. (2 weeks ago)
-- [awslabs/llrt](https://github.com/awslabs/llrt) - LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
