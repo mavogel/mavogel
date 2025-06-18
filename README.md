@@ -15,7 +15,7 @@ I 💕 a good onboarding readme with good example.
 
 #### 👷 Check out what I'm currently working on
 
-- [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) - Projen templates for our projects (1 day ago)
+- [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) - Projen templates for our projects (2 days ago)
 - [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (3 weeks ago)
 - [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang). (2 months ago)
 - [mavogel/go-ssh-forward](https://github.com/mavogel/go-ssh-forward) - A simple library to establish a forward via a jump host in go (3 months ago)
@@ -23,16 +23,16 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
-- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.312](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.312), today) - An opinionated way to secure your AWS root email boxes
-- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.437](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.437), 1 day ago) - The corresponding projen template for the AWS CDK Construct
-- [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.41](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.41), 1 day ago) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
-- [awslabs/landing-zone-accelerator-on-aws](https://github.com/awslabs/landing-zone-accelerator-on-aws) ([v1.12.3](https://github.com/awslabs/landing-zone-accelerator-on-aws/releases/tag/v1.12.3), 6 days ago) - Deploy a multi-account cloud foundation to support highly-regulated workloads and complex compliance requirements.
+- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.312](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.312), 1 day ago) - An opinionated way to secure your AWS root email boxes
+- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.437](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.437), 2 days ago) - The corresponding projen template for the AWS CDK Construct
+- [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.41](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.41), 2 days ago) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
+- [awslabs/landing-zone-accelerator-on-aws](https://github.com/awslabs/landing-zone-accelerator-on-aws) ([v1.12.3](https://github.com/awslabs/landing-zone-accelerator-on-aws/releases/tag/v1.12.3), 1 week ago) - Deploy a multi-account cloud foundation to support highly-regulated workloads and complex compliance requirements.
 - [mavogel/go-ssh-forward](https://github.com/mavogel/go-ssh-forward) ([v0.1.10](https://github.com/mavogel/go-ssh-forward/releases/tag/v0.1.10), 1 week ago) - A simple library to establish a forward via a jump host in go
 
 #### ⭐ Recent Stars
 
-- [shobrook/promptimal](https://github.com/shobrook/promptimal) - A very fast, very minimal prompt optimizer (today)
-- [mfridman/cli](https://github.com/mfridman/cli) - Simple Go library for creating CLI apps with subcommands and flexible flags (1 day ago)
+- [shobrook/promptimal](https://github.com/shobrook/promptimal) - A very fast, very minimal prompt optimizer (1 day ago)
+- [mfridman/cli](https://github.com/mfridman/cli) - Simple Go library for creating CLI apps with subcommands and flexible flags (2 days ago)
 - [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code (1 week ago)
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework (1 week ago)
 - [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) - A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools. (2 weeks ago)
