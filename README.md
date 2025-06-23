@@ -23,10 +23,10 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
+- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.438](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.438), today) - The corresponding projen template for the AWS CDK Construct
 - [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.42](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.42), today) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
 - [mavogel/cli-template](https://github.com/mavogel/cli-template) ([v1.0.1](https://github.com/mavogel/cli-template/releases/tag/v1.0.1), 1 day ago) - Opionionated CLI template (built with cursor and claude max)
 - [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.312](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.312), 6 days ago) - An opinionated way to secure your AWS root email boxes
-- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.437](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.437), 1 week ago) - The corresponding projen template for the AWS CDK Construct
 - [awslabs/landing-zone-accelerator-on-aws](https://github.com/awslabs/landing-zone-accelerator-on-aws) ([v1.12.3](https://github.com/awslabs/landing-zone-accelerator-on-aws/releases/tag/v1.12.3), 1 week ago) - Deploy a multi-account cloud foundation to support highly-regulated workloads and complex compliance requirements.
 
 #### ⭐ Recent Stars
