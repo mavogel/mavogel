@@ -23,7 +23,7 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
-- [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.413](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.413), today) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
+- [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.414](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.414), today) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
 - [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.43](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.43), today) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
 - [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.313](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.313), 6 days ago) - An opinionated way to secure your AWS root email boxes
 - [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.438](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.438), 1 week ago) - The corresponding projen template for the AWS CDK Construct
@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [ran-isenberg/aws-lambda-mcp-cookbook](https://github.com/ran-isenberg/aws-lambda-mcp-cookbook) - This repository provides a working, deployable, open source-based, serverless MCP server blueprint with an AWS Lambda function and AWS CDK Python code with all the best practices and a complete CI/CD pipeline. (today)
 - [NomenAK/SuperClaude](https://github.com/NomenAK/SuperClaude) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies. (today)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (3 days ago)
 - [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit (3 days ago)
 - [Azure/azure-mcp](https://github.com/Azure/azure-mcp) - The Azure MCP Server, bringing the power of Azure to your agents. (6 days ago)
-- [perses/perses](https://github.com/perses/perses) - The CNCF sandbox for observability visualisation. Already supports Prometheus/Tempo - more data sources to come! (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
