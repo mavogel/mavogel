@@ -23,7 +23,7 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
-- [mavogel/cli-template](https://github.com/mavogel/cli-template) ([v1.0.2](https://github.com/mavogel/cli-template/releases/tag/v1.0.2), today) - Opionionated CLI template (built with cursor and claude max) See blog post https://manuel-vogel.de/posts/2025-06-22-ai-coding-setup-cursor-claude-max/
+- [mavogel/cli-template](https://github.com/mavogel/cli-template) ([v1.1.0](https://github.com/mavogel/cli-template/releases/tag/v1.1.0), today) - Opionionated CLI template (built with cursor and claude max) See blog post https://manuel-vogel.de/posts/2025-06-22-ai-coding-setup-cursor-claude-max/
 - [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.315](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.315), 5 days ago) - An opinionated way to secure your AWS root email boxes
 - [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.439](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.439), 6 days ago) - The corresponding projen template for the AWS CDK Construct
 - [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.414](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.414), 6 days ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
