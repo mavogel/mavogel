@@ -15,8 +15,8 @@ I 💕 a good onboarding readme with good example.
 
 #### 👷 Check out what I'm currently working on
 
+- [mavogel/cli-template](https://github.com/mavogel/cli-template) - Opionionated CLI template (built with cursor and claude max) See blog post https://manuel-vogel.de/posts/2025-06-22-ai-coding-setup-cursor-claude-max/ (today)
 - [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) - Projen templates for our projects (5 days ago)
-- [mavogel/cli-template](https://github.com/mavogel/cli-template) - Opionionated CLI template (built with cursor and claude max) See blog post https://manuel-vogel.de/posts/2025-06-22-ai-coding-setup-cursor-claude-max/ (2 weeks ago)
 - [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (1 month ago)
 - [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang). (3 months ago)
 - [mavogel/go-ssh-forward](https://github.com/mavogel/go-ssh-forward) - A simple library to establish a forward via a jump host in go (4 months ago)
@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. (today)
+- [ravikiranvm/aws-finops-mcp-server](https://github.com/ravikiranvm/aws-finops-mcp-server) - An MCP (Model Context Protocol) server that brings powerful AWS FinOps capabilities directly into your AI assistant. Analyze cloud costs, audit for waste, and get budget insights using natural language, all while keeping your credentials secure on your local machine. (today)
+- [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop to build n8n workflows for you  (today)
 - [mvisonneau/gitlab-ci-pipelines-exporter](https://github.com/mvisonneau/gitlab-ci-pipelines-exporter) - Prometheus / OpenMetrics exporter for GitLab CI pipelines insights (3 days ago)
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser (3 days ago)
-- [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal. (3 days ago)
-- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹 (5 days ago)
-- [inkdropapp/mcp-server](https://github.com/inkdropapp/mcp-server) - Inkdrop Model Context Protocol Server (5 days ago)
 
 #### 👯 Check out some of my recent followers
 
