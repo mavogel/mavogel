@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [superluminar-io/aws-luminarlz-cli](https://github.com/superluminar-io/aws-luminarlz-cli) - A lean, opinionated CLI to make deployment and development with the AWS Landing Zone Accelerator easier. (today)
 - [sudo-project/sudo](https://github.com/sudo-project/sudo) - Utility to execute a command as another user (1 day ago)
 - [bytedance/trae-agent](https://github.com/bytedance/trae-agent) - Trae Agent is an LLM-based agent for general purpose software engineering tasks. (1 day ago)
 - [andrepimenta/claude-code-chat](https://github.com/andrepimenta/claude-code-chat) - Beautiful Claude Code Chat Interface for VS Code (2 days ago)
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. (3 days ago)
-- [ravikiranvm/aws-finops-mcp-server](https://github.com/ravikiranvm/aws-finops-mcp-server) - An MCP (Model Context Protocol) server that brings powerful AWS FinOps capabilities directly into your AI assistant. Analyze cloud costs, audit for waste, and get budget insights using natural language, all while keeping your credentials secure on your local machine. (3 days ago)
 
 #### 👯 Check out some of my recent followers
 
