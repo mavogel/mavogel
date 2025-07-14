@@ -23,9 +23,9 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
+- [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.45](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.45), today) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
 - [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.316](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.316), 6 days ago) - An opinionated way to secure your AWS root email boxes
 - [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.440](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.440), 1 week ago) - The corresponding projen template for the AWS CDK Construct
-- [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.44](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.44), 1 week ago) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
 - [mavogel/cli-template](https://github.com/mavogel/cli-template) ([v1.1.0](https://github.com/mavogel/cli-template/releases/tag/v1.1.0), 1 week ago) - Opionionated CLI template (built with cursor and claude max) See blog post https://manuel-vogel.de/posts/2025-06-22-ai-coding-setup-cursor-claude-max/
 - [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.414](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.414), 2 weeks ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
 
