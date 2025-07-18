@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [arben-adm/mcp-sequential-thinking](https://github.com/arben-adm/mcp-sequential-thinking) -  (today)
 - [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) - The power of Claude Code &#43; [Gemini / OpenAI / Grok / OpenRouter / Ollama / Custom Model / All Of The Above] working as one. (2 days ago)
 - [superluminar-io/aws-luminarlz-cli](https://github.com/superluminar-io/aws-luminarlz-cli) - A lean, opinionated CLI to make deployment and development with the AWS Landing Zone Accelerator easier. (1 week ago)
 - [sudo-project/sudo](https://github.com/sudo-project/sudo) - Utility to execute a command as another user (1 week ago)
 - [bytedance/trae-agent](https://github.com/bytedance/trae-agent) - Trae Agent is an LLM-based agent for general purpose software engineering tasks. (1 week ago)
-- [andrepimenta/claude-code-chat](https://github.com/andrepimenta/claude-code-chat) - Beautiful Claude Code Chat Interface for VS Code (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
