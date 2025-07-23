@@ -23,7 +23,7 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
-- [awslabs/landing-zone-accelerator-on-aws](https://github.com/awslabs/landing-zone-accelerator-on-aws) ([v1.12.4](https://github.com/awslabs/landing-zone-accelerator-on-aws/releases/tag/v1.12.4), 1 day ago) - Deploy a multi-account cloud foundation to support highly-regulated workloads and complex compliance requirements.
+- [awslabs/landing-zone-accelerator-on-aws](https://github.com/awslabs/landing-zone-accelerator-on-aws) ([v1.12.4](https://github.com/awslabs/landing-zone-accelerator-on-aws/releases/tag/v1.12.4), 2 days ago) - Deploy a multi-account cloud foundation to support highly-regulated workloads and complex compliance requirements.
 - [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.317](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.317), 1 week ago) - An opinionated way to secure your AWS root email boxes
 - [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.441](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.441), 1 week ago) - The corresponding projen template for the AWS CDK Construct
 - [mavogel/go-ssh-forward](https://github.com/mavogel/go-ssh-forward) ([v0.1.11](https://github.com/mavogel/go-ssh-forward/releases/tag/v0.1.11), 1 week ago) - A simple library to establish a forward via a jump host in go
@@ -31,17 +31,17 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
-- [evsor/kubetoolkit](https://github.com/evsor/kubetoolkit) - A collection of tools to debug Kubernetes clusters (1 day ago)
-- [csantanapr/awesome-learn](https://github.com/csantanapr/awesome-learn) - Cloud Native Learning Path (1 day ago)
-- [arben-adm/mcp-sequential-thinking](https://github.com/arben-adm/mcp-sequential-thinking) -  (4 days ago)
-- [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) - The power of Claude Code &#43; [Gemini / OpenAI / Grok / OpenRouter / Ollama / Custom Model / All Of The Above] working as one. (6 days ago)
-- [superluminar-io/aws-luminarlz-cli](https://github.com/superluminar-io/aws-luminarlz-cli) - A lean, opinionated CLI to make deployment and development with the AWS Landing Zone Accelerator easier. (1 week ago)
+- [evsor/kubetoolkit](https://github.com/evsor/kubetoolkit) - A collection of tools to debug Kubernetes clusters (2 days ago)
+- [csantanapr/awesome-learn](https://github.com/csantanapr/awesome-learn) - Cloud Native Learning Path (2 days ago)
+- [arben-adm/mcp-sequential-thinking](https://github.com/arben-adm/mcp-sequential-thinking) -  (5 days ago)
+- [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) - The power of Claude Code &#43; [Gemini / OpenAI / Grok / OpenRouter / Ollama / Custom Model / All Of The Above] working as one. (1 week ago)
+- [superluminar-io/aws-luminarlz-cli](https://github.com/superluminar-io/aws-luminarlz-cli) - A lean, opinionated CLI to make deployment and development with the AWS Landing Zone Accelerator easier. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
-- [oluiscabral](https://github.com/oluiscabral)
 - [helallao](https://github.com/helallao)
 - [seckinyasar](https://github.com/seckinyasar)
+- [lalomorales22](https://github.com/lalomorales22)
 
 
 
