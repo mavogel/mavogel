@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (today)
+- [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) - Secure AI-powered meeting notetaker that runs on your device and keeps your data private. (today)
 - [evsor/kubetoolkit](https://github.com/evsor/kubetoolkit) - A collection of tools to debug Kubernetes clusters (4 days ago)
 - [csantanapr/awesome-learn](https://github.com/csantanapr/awesome-learn) - Cloud Native Learning Path (4 days ago)
 - [arben-adm/mcp-sequential-thinking](https://github.com/arben-adm/mcp-sequential-thinking) -  (1 week ago)
-- [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) - The power of Claude Code &#43; [Gemini / OpenAI / Grok / OpenRouter / Ollama / Custom Model / All Of The Above] working as one. (1 week ago)
-- [superluminar-io/aws-luminarlz-cli](https://github.com/superluminar-io/aws-luminarlz-cli) - A lean, opinionated CLI to make deployment and development with the AWS Landing Zone Accelerator easier. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
