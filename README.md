@@ -32,7 +32,7 @@ I 💕 a good onboarding readme with good example.
 #### ⭐ Recent Stars
 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (today)
-- [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) - Secure AI-powered meeting notetaker that runs on your device and keeps your data private. (today)
+- [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) - Local-first AI Notepad for Private Meetings (today)
 - [evsor/kubetoolkit](https://github.com/evsor/kubetoolkit) - A collection of tools to debug Kubernetes clusters (4 days ago)
 - [csantanapr/awesome-learn](https://github.com/csantanapr/awesome-learn) - Cloud Native Learning Path (4 days ago)
 - [arben-adm/mcp-sequential-thinking](https://github.com/arben-adm/mcp-sequential-thinking) -  (1 week ago)
