@@ -23,7 +23,7 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
-- [awslabs/landing-zone-accelerator-on-aws](https://github.com/awslabs/landing-zone-accelerator-on-aws) ([v1.13.0-experimental-a](https://github.com/awslabs/landing-zone-accelerator-on-aws/releases/tag/v1.13.0-experimental-a), today) - Deploy a multi-account cloud foundation to support highly-regulated workloads and complex compliance requirements.
+- [awslabs/landing-zone-accelerator-on-aws](https://github.com/awslabs/landing-zone-accelerator-on-aws) ([v1.13.0-experimental-a](https://github.com/awslabs/landing-zone-accelerator-on-aws/releases/tag/v1.13.0-experimental-a), 1 day ago) - Deploy a multi-account cloud foundation to support highly-regulated workloads and complex compliance requirements.
 - [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.317](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.317), 1 week ago) - An opinionated way to secure your AWS root email boxes
 - [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.441](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.441), 1 week ago) - The corresponding projen template for the AWS CDK Construct
 - [mavogel/go-ssh-forward](https://github.com/mavogel/go-ssh-forward) ([v0.1.11](https://github.com/mavogel/go-ssh-forward/releases/tag/v0.1.11), 1 week ago) - A simple library to establish a forward via a jump host in go
@@ -31,10 +31,10 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (today)
-- [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) - Local-first AI Notepad for Private Meetings (today)
-- [evsor/kubetoolkit](https://github.com/evsor/kubetoolkit) - A collection of tools to debug Kubernetes clusters (4 days ago)
-- [csantanapr/awesome-learn](https://github.com/csantanapr/awesome-learn) - Cloud Native Learning Path (4 days ago)
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (1 day ago)
+- [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) - Local-first AI Notepad for Private Meetings (1 day ago)
+- [evsor/kubetoolkit](https://github.com/evsor/kubetoolkit) - A collection of tools to debug Kubernetes clusters (5 days ago)
+- [csantanapr/awesome-learn](https://github.com/csantanapr/awesome-learn) - Cloud Native Learning Path (5 days ago)
 - [arben-adm/mcp-sequential-thinking](https://github.com/arben-adm/mcp-sequential-thinking) -  (1 week ago)
 
 #### 👯 Check out some of my recent followers
