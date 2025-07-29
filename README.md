@@ -15,7 +15,7 @@ I 💕 a good onboarding readme with good example.
 
 #### 👷 Check out what I'm currently working on
 
-- [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) - Projen templates for our projects (1 week ago)
+- [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) - Projen templates for our projects (2 weeks ago)
 - [mavogel/cli-template](https://github.com/mavogel/cli-template) - Opionionated CLI template (built with cursor and claude max) See blog post https://manuel-vogel.de/posts/2025-06-22-ai-coding-setup-cursor-claude-max/ (3 weeks ago)
 - [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (2 months ago)
 - [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang). (4 months ago)
@@ -23,16 +23,16 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
-- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.442](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.442), today) - The corresponding projen template for the AWS CDK Construct
-- [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.46](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.46), today) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
-- [awslabs/landing-zone-accelerator-on-aws](https://github.com/awslabs/landing-zone-accelerator-on-aws) ([v1.13.0-experimental-a](https://github.com/awslabs/landing-zone-accelerator-on-aws/releases/tag/v1.13.0-experimental-a), 3 days ago) - Deploy a multi-account cloud foundation to support highly-regulated workloads and complex compliance requirements.
-- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.317](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.317), 1 week ago) - An opinionated way to secure your AWS root email boxes
+- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.442](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.442), 1 day ago) - The corresponding projen template for the AWS CDK Construct
+- [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.46](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.46), 1 day ago) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
+- [awslabs/landing-zone-accelerator-on-aws](https://github.com/awslabs/landing-zone-accelerator-on-aws) ([v1.13.0-experimental-a](https://github.com/awslabs/landing-zone-accelerator-on-aws/releases/tag/v1.13.0-experimental-a), 4 days ago) - Deploy a multi-account cloud foundation to support highly-regulated workloads and complex compliance requirements.
+- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.317](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.317), 2 weeks ago) - An opinionated way to secure your AWS root email boxes
 - [mavogel/go-ssh-forward](https://github.com/mavogel/go-ssh-forward) ([v0.1.11](https://github.com/mavogel/go-ssh-forward/releases/tag/v0.1.11), 2 weeks ago) - A simple library to establish a forward via a jump host in go
 
 #### ⭐ Recent Stars
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (3 days ago)
-- [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) - Local-first AI Notepad for Private Meetings (3 days ago)
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (4 days ago)
+- [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) - Local-first AI Notepad for Private Meetings (4 days ago)
 - [evsor/kubetoolkit](https://github.com/evsor/kubetoolkit) - A collection of tools to debug Kubernetes clusters (1 week ago)
 - [csantanapr/awesome-learn](https://github.com/csantanapr/awesome-learn) - Cloud Native Learning Path (1 week ago)
 - [arben-adm/mcp-sequential-thinking](https://github.com/arben-adm/mcp-sequential-thinking) -  (1 week ago)
