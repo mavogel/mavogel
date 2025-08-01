@@ -23,17 +23,17 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
-- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.442](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.442), 3 days ago) - The corresponding projen template for the AWS CDK Construct
-- [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.46](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.46), 3 days ago) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
-- [awslabs/landing-zone-accelerator-on-aws](https://github.com/awslabs/landing-zone-accelerator-on-aws) ([v1.13.0-experimental-a](https://github.com/awslabs/landing-zone-accelerator-on-aws/releases/tag/v1.13.0-experimental-a), 6 days ago) - Deploy a multi-account cloud foundation to support highly-regulated workloads and complex compliance requirements.
+- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.442](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.442), 4 days ago) - The corresponding projen template for the AWS CDK Construct
+- [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.46](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.46), 4 days ago) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
+- [awslabs/landing-zone-accelerator-on-aws](https://github.com/awslabs/landing-zone-accelerator-on-aws) ([v1.13.0-experimental-a](https://github.com/awslabs/landing-zone-accelerator-on-aws/releases/tag/v1.13.0-experimental-a), 1 week ago) - Deploy a multi-account cloud foundation to support highly-regulated workloads and complex compliance requirements.
 - [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.317](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.317), 2 weeks ago) - An opinionated way to secure your AWS root email boxes
 - [mavogel/go-ssh-forward](https://github.com/mavogel/go-ssh-forward) ([v0.1.11](https://github.com/mavogel/go-ssh-forward/releases/tag/v0.1.11), 2 weeks ago) - A simple library to establish a forward via a jump host in go
 
 #### ⭐ Recent Stars
 
-- [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server &amp; Agno integration) (today)
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (6 days ago)
-- [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) - Local-first AI Notepad for Private Meetings (6 days ago)
+- [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server &amp; Agno integration) (1 day ago)
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (1 week ago)
+- [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) - Local-first AI Notepad for Private Meetings (1 week ago)
 - [evsor/kubetoolkit](https://github.com/evsor/kubetoolkit) - A collection of tools to debug Kubernetes clusters (1 week ago)
 - [csantanapr/awesome-learn](https://github.com/csantanapr/awesome-learn) - Cloud Native Learning Path (1 week ago)
 
