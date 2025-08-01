@@ -16,7 +16,7 @@ I 💕 a good onboarding readme with good example.
 #### 👷 Check out what I'm currently working on
 
 - [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) - Projen templates for our projects (2 weeks ago)
-- [mavogel/cli-template](https://github.com/mavogel/cli-template) - Opionionated CLI template (built with cursor and claude max) See blog post https://manuel-vogel.de/posts/2025-06-22-ai-coding-setup-cursor-claude-max/ (3 weeks ago)
+- [mavogel/cli-template](https://github.com/mavogel/cli-template) - Opinionated CLI template (built with cursor and claude max) See blog post https://manuel-vogel.de/posts/2025-06-22-ai-coding-setup-cursor-claude-max/ (3 weeks ago)
 - [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (2 months ago)
 - [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang). (4 months ago)
 - [mavogel/go-ssh-forward](https://github.com/mavogel/go-ssh-forward) - A simple library to establish a forward via a jump host in go (4 months ago)
@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (today)
 - [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server &amp; Agno integration) (1 day ago)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (1 week ago)
 - [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) - Local-first AI Notepad for Private Meetings (1 week ago)
 - [evsor/kubetoolkit](https://github.com/evsor/kubetoolkit) - A collection of tools to debug Kubernetes clusters (1 week ago)
-- [csantanapr/awesome-learn](https://github.com/csantanapr/awesome-learn) - Cloud Native Learning Path (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
