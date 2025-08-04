@@ -23,17 +23,17 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
-- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.442](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.442), 6 days ago) - The corresponding projen template for the AWS CDK Construct
-- [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.46](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.46), 6 days ago) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
+- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.442](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.442), 1 week ago) - The corresponding projen template for the AWS CDK Construct
+- [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.46](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.46), 1 week ago) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
 - [awslabs/landing-zone-accelerator-on-aws](https://github.com/awslabs/landing-zone-accelerator-on-aws) ([v1.13.0-experimental-a](https://github.com/awslabs/landing-zone-accelerator-on-aws/releases/tag/v1.13.0-experimental-a), 1 week ago) - Deploy a multi-account cloud foundation to support highly-regulated workloads and complex compliance requirements.
 - [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.317](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.317), 2 weeks ago) - An opinionated way to secure your AWS root email boxes
-- [mavogel/go-ssh-forward](https://github.com/mavogel/go-ssh-forward) ([v0.1.11](https://github.com/mavogel/go-ssh-forward/releases/tag/v0.1.11), 2 weeks ago) - A simple library to establish a forward via a jump host in go
+- [mavogel/go-ssh-forward](https://github.com/mavogel/go-ssh-forward) ([v0.1.11](https://github.com/mavogel/go-ssh-forward/releases/tag/v0.1.11), 3 weeks ago) - A simple library to establish a forward via a jump host in go
 
 #### ⭐ Recent Stars
 
-- [contains-studio/agents](https://github.com/contains-studio/agents) - sharing current agents in use (today)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (2 days ago)
-- [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server &amp; Agno integration) (3 days ago)
+- [contains-studio/agents](https://github.com/contains-studio/agents) - sharing current agents in use (1 day ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (3 days ago)
+- [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server &amp; Agno integration) (4 days ago)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (1 week ago)
 - [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) - Local-first AI Notepad for Private Meetings (1 week ago)
 
