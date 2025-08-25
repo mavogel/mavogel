@@ -35,7 +35,7 @@ I 💕 a good onboarding readme with good example.
 - [once-ui-system/magic-portfolio](https://github.com/once-ui-system/magic-portfolio) - ⚡ Build your timeless portfolio with Once UI&#39;s Magic Portfolio (1 day ago)
 - [aws-samples/generative-ai-cdk-constructs-samples](https://github.com/aws-samples/generative-ai-cdk-constructs-samples) - This repo provides sample generative AI stacks built atop the AWS Generative AI CDK Constructs. (5 days ago)
 - [FuzzyIdeas/Clop](https://github.com/FuzzyIdeas/Clop) - Clipboard optimizer for macOS (5 days ago)
-- [campfirein/cipher](https://github.com/campfirein/cipher) - Cipher is an opensource memory layer specifically designed for coding agents. Compatible with Cursor, Windsurf, Claude Desktop, Claude Code, Gemini CLI, AWS&#39;s Kiro, VS Code, and Roo Code through MCP, and coding agents, such as Kimi K2. Built by https://byterover.dev/ (1 week ago)
+- [campfirein/cipher](https://github.com/campfirein/cipher) - Cipher is an opensource memory layer specifically designed for coding agents. Compatible with Cursor, Windsurf, Claude Desktop, Claude Code, Gemini CLI, AWS&#39;s Kiro, VS Code, Roo Code, Trae, and Warp through MCP. Built by https://byterover.dev/ (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
