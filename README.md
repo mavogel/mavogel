@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) - A community driven registry service for Model Context Protocol (MCP) servers. (today)
 - [IBM/mcp](https://github.com/IBM/mcp) - A collection of Model Context Protocol (MCP) servers, clients and developer tools by IBM. (1 week ago)
 - [PaulDuvall/claude-code](https://github.com/PaulDuvall/claude-code) - Transform Claude Code into a complete development platform with AI-powered commands that automate your entire software development workflow. (2 weeks ago)
 - [once-ui-system/magic-portfolio](https://github.com/once-ui-system/magic-portfolio) - ⚡ Build your timeless portfolio with Once UI&#39;s Magic Portfolio (2 weeks ago)
 - [aws-samples/generative-ai-cdk-constructs-samples](https://github.com/aws-samples/generative-ai-cdk-constructs-samples) - This repo provides sample generative AI stacks built atop the AWS Generative AI CDK Constructs. (2 weeks ago)
-- [FuzzyIdeas/Clop](https://github.com/FuzzyIdeas/Clop) - Clipboard optimizer for macOS (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
