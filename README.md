@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [aws-samples/comfyui-personalized-generative-ai-avatars-app](https://github.com/aws-samples/comfyui-personalized-generative-ai-avatars-app) -  (today)
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - an ambient intelligence library (1 day ago)
 - [jlowin/fastmcp](https://github.com/jlowin/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients (1 day ago)
 - [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) - A community driven registry service for Model Context Protocol (MCP) servers. (5 days ago)
 - [IBM/mcp](https://github.com/IBM/mcp) - A collection of Model Context Protocol (MCP) servers, clients and developer tools by IBM. (2 weeks ago)
-- [PaulDuvall/claude-code](https://github.com/PaulDuvall/claude-code) - Transform Claude Code into a complete development platform with AI-powered commands that automate your entire software development workflow. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
