@@ -23,7 +23,7 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
-- [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.54](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.54), 5 days ago) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
+- [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.54](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.54), 6 days ago) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
 - [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.321](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.321), 2 weeks ago) - An opinionated way to secure your AWS root email boxes
 - [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.418](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.418), 2 weeks ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
 - [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.445](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.445), 2 weeks ago) - The corresponding projen template for the AWS CDK Construct
@@ -32,10 +32,10 @@ I 💕 a good onboarding readme with good example.
 #### ⭐ Recent Stars
 
 - [aws/bedrock-agentcore-starter-toolkit](https://github.com/aws/bedrock-agentcore-starter-toolkit) - CLI toolkit for deploying AI agents to Amazon Bedrock AgentCore. Zero infrastructure management with built-in gateway and memory integrations. (1 week ago)
-- [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel (1 week ago)
-- [otwld/ollama-helm](https://github.com/otwld/ollama-helm) - Helm chart for Ollama on Kubernetes (1 week ago)
-- [strands-agents/samples](https://github.com/strands-agents/samples) - Agent samples built using the Strands Agents SDK. (1 week ago)
-- [aws-samples/aws-genai-llm-chatbot](https://github.com/aws-samples/aws-genai-llm-chatbot) - A modular and comprehensive solution to deploy a Multi-LLM and Multi-RAG powered chatbot (Amazon Bedrock, Anthropic, HuggingFace, OpenAI, Meta, AI21, Cohere, Mistral) using AWS CDK on AWS (1 week ago)
+- [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel (2 weeks ago)
+- [otwld/ollama-helm](https://github.com/otwld/ollama-helm) - Helm chart for Ollama on Kubernetes (2 weeks ago)
+- [strands-agents/samples](https://github.com/strands-agents/samples) - Agent samples built using the Strands Agents SDK. (2 weeks ago)
+- [aws-samples/aws-genai-llm-chatbot](https://github.com/aws-samples/aws-genai-llm-chatbot) - A modular and comprehensive solution to deploy a Multi-LLM and Multi-RAG powered chatbot (Amazon Bedrock, Anthropic, HuggingFace, OpenAI, Meta, AI21, Cohere, Mistral) using AWS CDK on AWS (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
