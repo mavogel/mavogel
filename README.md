@@ -23,16 +23,16 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
-- [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.57](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.57), 2 days ago) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
-- [awslabs/landing-zone-accelerator-on-aws](https://github.com/awslabs/landing-zone-accelerator-on-aws) ([v1.13.1](https://github.com/awslabs/landing-zone-accelerator-on-aws/releases/tag/v1.13.1), 5 days ago) - Deploy a multi-account cloud foundation to support highly-regulated workloads and complex compliance requirements.
+- [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.57](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.57), 3 days ago) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
+- [awslabs/landing-zone-accelerator-on-aws](https://github.com/awslabs/landing-zone-accelerator-on-aws) ([v1.13.1](https://github.com/awslabs/landing-zone-accelerator-on-aws/releases/tag/v1.13.1), 6 days ago) - Deploy a multi-account cloud foundation to support highly-regulated workloads and complex compliance requirements.
 - [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) ([v0.0.8](https://github.com/MV-Consulting/mvc-projen/releases/tag/v0.0.8), 1 week ago) - Projen templates for our projects
 - [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.322](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.322), 1 week ago) - An opinionated way to secure your AWS root email boxes
 - [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.446](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.446), 1 week ago) - The corresponding projen template for the AWS CDK Construct
 
 #### ⭐ Recent Stars
 
-- [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server (6 days ago)
-- [once-ui-system/nextjs-starter](https://github.com/once-ui-system/nextjs-starter) - ⚡ Design like a pro and build like a madman with Once UI (6 days ago)
+- [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server (1 week ago)
+- [once-ui-system/nextjs-starter](https://github.com/once-ui-system/nextjs-starter) - ⚡ Design like a pro and build like a madman with Once UI (1 week ago)
 - [executeautomation/mcp-playwright](https://github.com/executeautomation/mcp-playwright) - Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌 (1 week ago)
 - [nizos/tdd-guard](https://github.com/nizos/tdd-guard) - Automated TDD enforcement for Claude Code (1 week ago)
 - [aws/bedrock-agentcore-starter-toolkit](https://github.com/aws/bedrock-agentcore-starter-toolkit) - CLI toolkit for deploying AI agents to Amazon Bedrock AgentCore. Zero infrastructure management with built-in gateway and memory integrations. (3 weeks ago)
