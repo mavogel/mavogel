@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [anthropics/courses](https://github.com/anthropics/courses) - Anthropic&#39;s educational courses (today)
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents (1 day ago)
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (1 day ago)
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server (1 week ago)
 - [once-ui-system/nextjs-starter](https://github.com/once-ui-system/nextjs-starter) - ⚡ Design like a pro and build like a madman with Once UI (1 week ago)
-- [executeautomation/mcp-playwright](https://github.com/executeautomation/mcp-playwright) - Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌 (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
