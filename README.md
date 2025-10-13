@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [mrsimpson/responsible-vibe-mcp](https://github.com/mrsimpson/responsible-vibe-mcp) - An MCP server who knows a development process and helps vibing the structured way (today)
 - [anthropics/courses](https://github.com/anthropics/courses) - Anthropic&#39;s educational courses (3 days ago)
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents (4 days ago)
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (4 days ago)
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server (1 week ago)
-- [once-ui-system/nextjs-starter](https://github.com/once-ui-system/nextjs-starter) - ⚡ Design like a pro and build like a madman with Once UI (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
