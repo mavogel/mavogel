@@ -41,7 +41,7 @@ I 💕 a good onboarding readme with good example.
 
 - [Syrinetimoumi](https://github.com/Syrinetimoumi)
 - [predrag-milanovic](https://github.com/predrag-milanovic)
-- [trinhminhtriet](https://github.com/trinhminhtriet)
+- [lalomorales22](https://github.com/lalomorales22)
 
 
 
