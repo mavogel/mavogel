@@ -18,7 +18,7 @@ I 💕 a good onboarding readme with good example.
 - [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (1 week ago)
 - [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) - The corresponding projen template for the AWS CDK Construct (1 week ago)
 - [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) - Projen templates for our projects (1 week ago)
-- [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️ (2 weeks ago)
+- [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️ (3 weeks ago)
 - [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -31,8 +31,8 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
-- [viveknair/ccoutputstyles](https://github.com/viveknair/ccoutputstyles) -  CLI tool and template gallery for customizing Claude Code output styles with pre-built templates (6 days ago)
-- [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) - Command-line tool to customize Claude Code UI (themes, thinking verbs, input box style, user message display, sign-in ASCII art), fix bugs (frozen spinner), and add features (CLAUDE_CODE_CONTEXT_LIMIT). (6 days ago)
+- [viveknair/ccoutputstyles](https://github.com/viveknair/ccoutputstyles) -  CLI tool and template gallery for customizing Claude Code output styles with pre-built templates (1 week ago)
+- [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) - Command-line tool to customize Claude Code UI (themes, thinking verbs, input box style, user message display, sign-in ASCII art), fix bugs (frozen spinner), and add features (CLAUDE_CODE_CONTEXT_LIMIT). (1 week ago)
 - [geelen/mcp-remote](https://github.com/geelen/mcp-remote) -  (1 week ago)
 - [mrsimpson/responsible-vibe-mcp](https://github.com/mrsimpson/responsible-vibe-mcp) - An MCP server who knows a development process and helps vibing the structured way (1 week ago)
 - [anthropics/courses](https://github.com/anthropics/courses) - Anthropic&#39;s educational courses (1 week ago)
