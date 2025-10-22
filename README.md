@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [aws-samples/sample-genai-on-eks-starter-kit](https://github.com/aws-samples/sample-genai-on-eks-starter-kit) - A comprehensive toolkit for deploying production-ready Generative AI infrastructure on Amazon EKS. Includes pre-configured components for:  🚀 AI Gateway (LiteLLM) 🤖 LLM Serving (vLLM, SGLang, Ollama) 📊 Vector Databases, 🔍 Embedding Models (TEI) 📈 Observability (Langfuse, Phoenix) etc. Fast-track your GenAI deployment with Kubernetes (today)
 - [viveknair/ccoutputstyles](https://github.com/viveknair/ccoutputstyles) -  CLI tool and template gallery for customizing Claude Code output styles with pre-built templates (1 week ago)
 - [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) - Command-line tool to customize Claude Code UI (themes, thinking verbs, input box style, user message display, sign-in ASCII art), fix bugs (frozen spinner), and add features (CLAUDE_CODE_CONTEXT_LIMIT). (1 week ago)
 - [geelen/mcp-remote](https://github.com/geelen/mcp-remote) -  (1 week ago)
 - [mrsimpson/responsible-vibe-mcp](https://github.com/mrsimpson/responsible-vibe-mcp) - An MCP server who knows a development process and helps vibing the structured way (1 week ago)
-- [anthropics/courses](https://github.com/anthropics/courses) - Anthropic&#39;s educational courses (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
