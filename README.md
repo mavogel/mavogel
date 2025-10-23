@@ -15,25 +15,25 @@ I 💕 a good onboarding readme with good example.
 
 #### 👷 Check out what I'm currently working on
 
-- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (today)
-- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) - The corresponding projen template for the AWS CDK Construct (today)
-- [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️ (today)
-- [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) - Projen templates for our projects (today)
+- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (1 day ago)
+- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) - The corresponding projen template for the AWS CDK Construct (1 day ago)
+- [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️ (1 day ago)
+- [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) - Projen templates for our projects (1 day ago)
 - [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.325](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.325), today) - An opinionated way to secure your AWS root email boxes
-- [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.59](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.59), today) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
-- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.449](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.449), today) - The corresponding projen template for the AWS CDK Construct
-- [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) ([v0.0.11](https://github.com/MV-Consulting/mvc-projen/releases/tag/v0.0.11), today) - Projen templates for our projects
+- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.325](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.325), 1 day ago) - An opinionated way to secure your AWS root email boxes
+- [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.59](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.59), 1 day ago) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
+- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.449](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.449), 1 day ago) - The corresponding projen template for the AWS CDK Construct
+- [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) ([v0.0.11](https://github.com/MV-Consulting/mvc-projen/releases/tag/v0.0.11), 1 day ago) - Projen templates for our projects
 - [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.420](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.420), 1 week ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
 
 #### ⭐ Recent Stars
 
-- [aws-samples/sample-genai-on-eks-starter-kit](https://github.com/aws-samples/sample-genai-on-eks-starter-kit) - A comprehensive toolkit for deploying production-ready Generative AI infrastructure on Amazon EKS. Includes pre-configured components for:  🚀 AI Gateway (LiteLLM) 🤖 LLM Serving (vLLM, SGLang, Ollama) 📊 Vector Databases, 🔍 Embedding Models (TEI) 📈 Observability (Langfuse, Phoenix) etc. Fast-track your GenAI deployment with Kubernetes (today)
+- [aws-samples/sample-genai-on-eks-starter-kit](https://github.com/aws-samples/sample-genai-on-eks-starter-kit) - A comprehensive toolkit for deploying production-ready Generative AI infrastructure on Amazon EKS. Includes pre-configured components for:  🚀 AI Gateway (LiteLLM) 🤖 LLM Serving (vLLM, SGLang, Ollama) 📊 Vector Databases, 🔍 Embedding Models (TEI) 📈 Observability (Langfuse, Phoenix) etc. Fast-track your GenAI deployment with Kubernetes (1 day ago)
 - [viveknair/ccoutputstyles](https://github.com/viveknair/ccoutputstyles) -  CLI tool and template gallery for customizing Claude Code output styles with pre-built templates (1 week ago)
-- [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) - Command-line tool to customize Claude Code (system prompts, themes, thinking verbs, input box style, user message display, sign-in ASCII art), fix bugs (frozen spinner), and add features (CLAUDE_CODE_CONTEXT_LIMIT). (1 week ago)
+- [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) - Command-line tool to customize Claude Code system prompts, add custom themes, thinking verbs &amp; spinner, input box style, user message display, sign-in ASCII art, fix bugs (frozen spinner), and add features (CLAUDE_CODE_CONTEXT_LIMIT). (1 week ago)
 - [geelen/mcp-remote](https://github.com/geelen/mcp-remote) -  (1 week ago)
 - [mrsimpson/responsible-vibe-mcp](https://github.com/mrsimpson/responsible-vibe-mcp) - An MCP server who knows a development process and helps vibing the structured way (1 week ago)
 
