@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [aws-samples/amazon-bedrock-samples](https://github.com/aws-samples/amazon-bedrock-samples) - This repository contains examples for customers to get started using the Amazon Bedrock Service. This contains examples for all available foundational models (today)
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. (today)
 - [aws-samples/sample-genai-on-eks-starter-kit](https://github.com/aws-samples/sample-genai-on-eks-starter-kit) - A comprehensive toolkit for deploying production-ready Generative AI infrastructure on Amazon EKS. Includes pre-configured components for:  🚀 AI Gateway (LiteLLM) 🤖 LLM Serving (vLLM, SGLang, Ollama) 📊 Vector Databases, 🔍 Embedding Models (TEI) 📈 Observability (Langfuse, Phoenix) etc. Fast-track your GenAI deployment with Kubernetes (1 day ago)
 - [viveknair/ccoutputstyles](https://github.com/viveknair/ccoutputstyles) -  CLI tool and template gallery for customizing Claude Code output styles with pre-built templates (1 week ago)
 - [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) - Command-line tool to customize Claude Code system prompts, add custom themes, thinking verbs &amp; spinner, input box style, user message display, sign-in ASCII art, fix bugs (frozen spinner), and add features (CLAUDE_CODE_CONTEXT_LIMIT). (1 week ago)
-- [geelen/mcp-remote](https://github.com/geelen/mcp-remote) -  (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
