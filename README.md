@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [aws/nova-act](https://github.com/aws/nova-act) - Amazon Nova Act is a research preview of a new AI model for developers to build agents that take actions in web browsers (today)
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable. (today)
 - [aws-samples/amazon-bedrock-samples](https://github.com/aws-samples/amazon-bedrock-samples) - This repository contains examples for customers to get started using the Amazon Bedrock Service. This contains examples for all available foundational models (1 day ago)
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. (1 day ago)
 - [aws-samples/sample-genai-on-eks-starter-kit](https://github.com/aws-samples/sample-genai-on-eks-starter-kit) - A comprehensive toolkit for deploying production-ready Generative AI infrastructure on Amazon EKS. Includes pre-configured components for:  🚀 AI Gateway (LiteLLM) 🤖 LLM Serving (vLLM, SGLang, Ollama) 📊 Vector Databases, 🔍 Embedding Models (TEI) 📈 Observability (Langfuse, Phoenix) etc. Fast-track your GenAI deployment with Kubernetes (2 days ago)
-- [viveknair/ccoutputstyles](https://github.com/viveknair/ccoutputstyles) -  CLI tool and template gallery for customizing Claude Code output styles with pre-built templates (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
