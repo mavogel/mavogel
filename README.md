@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [antiwork/gumroad](https://github.com/antiwork/gumroad) - Sell stuff and see what sticks (today)
 - [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to cloud storages in schedully. (2 days ago)
 - [aws/nova-act](https://github.com/aws/nova-act) - Amazon Nova Act is a research preview of a new AI model for developers to build agents that take actions in web browsers (3 days ago)
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable. (3 days ago)
 - [aws-samples/amazon-bedrock-samples](https://github.com/aws-samples/amazon-bedrock-samples) - This repository contains examples for customers to get started using the Amazon Bedrock Service. This contains examples for all available foundational models (4 days ago)
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. (4 days ago)
 
 #### 👯 Check out some of my recent followers
 
