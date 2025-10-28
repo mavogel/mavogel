@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library (today)
 - [once-ui-system/core](https://github.com/once-ui-system/core) - The indie design system for Next.js apps (1 day ago)
 - [antiwork/gumroad](https://github.com/antiwork/gumroad) - Sell stuff and see what sticks (1 day ago)
 - [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to cloud storages in schedully. (3 days ago)
 - [aws/nova-act](https://github.com/aws/nova-act) - Amazon Nova Act is a research preview of a new AI model for developers to build agents that take actions in web browsers (4 days ago)
-- [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable. (4 days ago)
 
 #### 👯 Check out some of my recent followers
 
