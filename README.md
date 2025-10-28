@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [wshobson/commands](https://github.com/wshobson/commands) - A collection of production-ready slash commands for Claude Code (today)
 - [brightdata/brightdata-mcp](https://github.com/brightdata/brightdata-mcp) - A powerful Model Context Protocol (MCP) server that provides an all-in-one solution for public web access. (today)
 - [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library (today)
 - [once-ui-system/core](https://github.com/once-ui-system/core) - The indie design system for Next.js apps (1 day ago)
 - [antiwork/gumroad](https://github.com/antiwork/gumroad) - Sell stuff and see what sticks (1 day ago)
-- [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to cloud storages in schedully. (3 days ago)
 
 #### 👯 Check out some of my recent followers
 
