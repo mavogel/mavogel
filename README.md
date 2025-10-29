@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [maxritter/claude-code-pro](https://github.com/maxritter/claude-code-pro) - Automated Dev Container, Spec-Driven Development, TDD, Semantic Search, Persistent Memory, and much more 🚀  (today)
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code (1 day ago)
 - [wshobson/commands](https://github.com/wshobson/commands) - A collection of production-ready slash commands for Claude Code (1 day ago)
 - [brightdata/brightdata-mcp](https://github.com/brightdata/brightdata-mcp) - A powerful Model Context Protocol (MCP) server that provides an all-in-one solution for public web access. (1 day ago)
 - [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library (1 day ago)
-- [once-ui-system/core](https://github.com/once-ui-system/core) - The indie design system for Next.js apps (2 days ago)
 
 #### 👯 Check out some of my recent followers
 
