@@ -32,7 +32,7 @@ I 💕 a good onboarding readme with good example.
 #### ⭐ Recent Stars
 
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics (today)
-- [pr-pm/prpm](https://github.com/pr-pm/prpm) - Manager your favorite prompts, rules, and sub-agents (today)
+- [pr-pm/prpm](https://github.com/pr-pm/prpm) - The universal registry for AI coding tools (today)
 - [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) - &#34;AI-Trader: Can AI Beat the Market?&#34; Live Trading: https://hkuds.github.io/AI-Trader/ (today)
 - [maxritter/claude-code-pro](https://github.com/maxritter/claude-code-pro) - Claude Code Pro is a Professional System for Building Quality Software. It features Spec-Driven Development with Skills, TDD, Automated Dev Container, Semantic Search, Persistent Memory, and much more 🚀  (1 day ago)
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code (2 days ago)
