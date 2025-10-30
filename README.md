@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [pr-pm/prpm](https://github.com/pr-pm/prpm) - Manager your favorite prompts, rules, and sub-agents (today)
+- [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) - &#34;AI-Trader: Can AI Beat the Market?&#34; Live Trading: https://hkuds.github.io/AI-Trader/ (today)
 - [maxritter/claude-code-pro](https://github.com/maxritter/claude-code-pro) - Claude Code Pro is a Professional System for Building Quality Software. It features Spec-Driven Development with Skills, TDD, Automated Dev Container, Semantic Search, Persistent Memory, and much more 🚀  (1 day ago)
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code (2 days ago)
 - [wshobson/commands](https://github.com/wshobson/commands) - A collection of production-ready slash commands for Claude Code (2 days ago)
-- [brightdata/brightdata-mcp](https://github.com/brightdata/brightdata-mcp) - A powerful Model Context Protocol (MCP) server that provides an all-in-one solution for public web access. (2 days ago)
-- [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library (2 days ago)
 
 #### 👯 Check out some of my recent followers
 
