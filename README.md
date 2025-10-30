@@ -31,7 +31,7 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
-- [maxritter/claude-code-pro](https://github.com/maxritter/claude-code-pro) - Claude Code Pro is a Professional System for Production-Grade Software Development. It features Spec-Driven Development with Skills, TDD, Automated Dev Container, Semantic Search, Persistent Memory, and more 🚀  (1 day ago)
+- [maxritter/claude-code-pro](https://github.com/maxritter/claude-code-pro) - Claude Code Pro is a Professional System for Building Quality Software. It features Spec-Driven Development with Skills, TDD, Automated Dev Container, Semantic Search, Persistent Memory, and much more 🚀  (1 day ago)
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code (2 days ago)
 - [wshobson/commands](https://github.com/wshobson/commands) - A collection of production-ready slash commands for Claude Code (2 days ago)
 - [brightdata/brightdata-mcp](https://github.com/brightdata/brightdata-mcp) - A powerful Model Context Protocol (MCP) server that provides an all-in-one solution for public web access. (2 days ago)
