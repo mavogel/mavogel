@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [aws-solutions/innovation-sandbox-on-aws](https://github.com/aws-solutions/innovation-sandbox-on-aws) - Innovation Sandbox on AWS enables cloud administrators to automate the management of temporary sandbox environments by implementing service control policies, spend controls, and account recycling mechanisms. (today)
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics (3 days ago)
 - [pr-pm/prpm](https://github.com/pr-pm/prpm) - The universal registry for AI coding tools (3 days ago)
 - [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) - &#34;AI-Trader: Can AI Beat the Market?&#34; Live Trading: https://hkuds.github.io/AI-Trader/ (3 days ago)
 - [maxritter/claude-code-pro](https://github.com/maxritter/claude-code-pro) - Claude Code Pro is a Professional System for Building Quality Software. It features Spec-Driven Development with Skills, TDD, Automated Dev Container, Semantic Search, Persistent Memory, and much more 🚀  (4 days ago)
-- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code (5 days ago)
 
 #### 👯 Check out some of my recent followers
 
