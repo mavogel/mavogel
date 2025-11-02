@@ -19,11 +19,11 @@ I 💕 a good onboarding readme with good example.
 - [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) - The corresponding projen template for the AWS CDK Construct (1 week ago)
 - [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️ (1 week ago)
 - [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) - Projen templates for our projects (1 week ago)
-- [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS (1 month ago)
+- [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.60](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.60), 5 days ago) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
+- [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.60](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.60), 6 days ago) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
 - [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.325](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.325), 1 week ago) - An opinionated way to secure your AWS root email boxes
 - [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.449](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.449), 1 week ago) - The corresponding projen template for the AWS CDK Construct
 - [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) ([v0.0.11](https://github.com/MV-Consulting/mvc-projen/releases/tag/v0.0.11), 1 week ago) - Projen templates for our projects
@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
-- [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics (2 days ago)
-- [pr-pm/prpm](https://github.com/pr-pm/prpm) - The universal registry for AI coding tools (2 days ago)
-- [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) - &#34;AI-Trader: Can AI Beat the Market?&#34; Live Trading: https://hkuds.github.io/AI-Trader/ (2 days ago)
-- [maxritter/claude-code-pro](https://github.com/maxritter/claude-code-pro) - Claude Code Pro is a Professional System for Building Quality Software. It features Spec-Driven Development with Skills, TDD, Automated Dev Container, Semantic Search, Persistent Memory, and much more 🚀  (3 days ago)
-- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code (4 days ago)
+- [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics (3 days ago)
+- [pr-pm/prpm](https://github.com/pr-pm/prpm) - The universal registry for AI coding tools (3 days ago)
+- [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) - &#34;AI-Trader: Can AI Beat the Market?&#34; Live Trading: https://hkuds.github.io/AI-Trader/ (3 days ago)
+- [maxritter/claude-code-pro](https://github.com/maxritter/claude-code-pro) - Claude Code Pro is a Professional System for Building Quality Software. It features Spec-Driven Development with Skills, TDD, Automated Dev Container, Semantic Search, Persistent Memory, and much more 🚀  (4 days ago)
+- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code (5 days ago)
 
 #### 👯 Check out some of my recent followers
 
