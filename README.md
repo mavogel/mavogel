@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) - Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents (today)
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions (1 day ago)
 - [aws-solutions/innovation-sandbox-on-aws](https://github.com/aws-solutions/innovation-sandbox-on-aws) - Innovation Sandbox on AWS enables cloud administrators to automate the management of temporary sandbox environments by implementing service control policies, spend controls, and account recycling mechanisms. (1 day ago)
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics (4 days ago)
 - [pr-pm/prpm](https://github.com/pr-pm/prpm) - The universal registry for AI coding tools (4 days ago)
-- [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) - &#34;AI-Trader: Can AI Beat the Market?&#34; Live Trading: https://ai4trade.ai (4 days ago)
 
 #### 👯 Check out some of my recent followers
 
