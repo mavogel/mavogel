@@ -35,7 +35,7 @@ I 💕 a good onboarding readme with good example.
 - [aws-solutions/innovation-sandbox-on-aws](https://github.com/aws-solutions/innovation-sandbox-on-aws) - Innovation Sandbox on AWS enables cloud administrators to automate the management of temporary sandbox environments by implementing service control policies, spend controls, and account recycling mechanisms. (1 day ago)
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics (4 days ago)
 - [pr-pm/prpm](https://github.com/pr-pm/prpm) - The universal registry for AI coding tools (4 days ago)
-- [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) - &#34;AI-Trader: Can AI Beat the Market?&#34; Live Trading: https://hkuds.github.io/AI-Trader/ (4 days ago)
+- [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) - &#34;AI-Trader: Can AI Beat the Market?&#34; Live Trading: https://ai4trade.ai (4 days ago)
 
 #### 👯 Check out some of my recent followers
 
