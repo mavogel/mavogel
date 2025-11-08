@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data (today)
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code (4 days ago)
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design (4 days ago)
 - [diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) - Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents (5 days ago)
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions (6 days ago)
-- [aws-solutions/innovation-sandbox-on-aws](https://github.com/aws-solutions/innovation-sandbox-on-aws) - Innovation Sandbox on AWS enables cloud administrators to automate the management of temporary sandbox environments by implementing service control policies, spend controls, and account recycling mechanisms. (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
