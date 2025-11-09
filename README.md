@@ -15,17 +15,17 @@ I 💕 a good onboarding readme with good example.
 
 #### 👷 Check out what I'm currently working on
 
+- [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) - Projen templates for our projects (today)
 - [maxritter/claude-codepro](https://github.com/maxritter/claude-codepro) - Claude CodePro is a Professional System for Building Quality Code. It features Spec-Driven Development with Skills, TDD, Automated Dev Container, Semantic Search, Persistent Memory, AI Code Review, and much more 🚀  (1 day ago)
 - [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️ (5 days ago)
-- [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) - Projen templates for our projects (6 days ago)
 - [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (2 weeks ago)
 - [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) - The corresponding projen template for the AWS CDK Construct (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) ([v0.0.13](https://github.com/MV-Consulting/mvc-projen/releases/tag/v0.0.13), today) - Projen templates for our projects
 - [maxritter/claude-codepro](https://github.com/maxritter/claude-codepro) ([v2.0.1](https://github.com/maxritter/claude-codepro/releases/tag/v2.0.1), 2 days ago) - Claude CodePro is a Professional System for Building Quality Code. It features Spec-Driven Development with Skills, TDD, Automated Dev Container, Semantic Search, Persistent Memory, AI Code Review, and much more 🚀 
 - [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.65](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.65), 5 days ago) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
-- [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) ([v0.0.12](https://github.com/MV-Consulting/mvc-projen/releases/tag/v0.0.12), 6 days ago) - Projen templates for our projects
 - [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.325](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.325), 2 weeks ago) - An opinionated way to secure your AWS root email boxes
 - [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.449](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.449), 2 weeks ago) - The corresponding projen template for the AWS CDK Construct
 
