@@ -23,7 +23,7 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
-- [maxritter/claude-codepro](https://github.com/maxritter/claude-codepro) ([v2.0.2](https://github.com/maxritter/claude-codepro/releases/tag/v2.0.2), today) - Claude CodePro is a Professional System for Building Quality Code. It features Spec-Driven Development with Skills, TDD, Automated Dev Container, Semantic Search, Persistent Memory, AI Code Review, and much more 🚀 
+- [maxritter/claude-codepro](https://github.com/maxritter/claude-codepro) ([v2.0.3](https://github.com/maxritter/claude-codepro/releases/tag/v2.0.3), today) - Claude CodePro is a Professional System for Building Quality Code. It features Spec-Driven Development with Skills, TDD, Automated Dev Container, Semantic Search, Persistent Memory, AI Code Review, and much more 🚀 
 - [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.421](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.421), today) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
 - [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) ([v0.0.13](https://github.com/MV-Consulting/mvc-projen/releases/tag/v0.0.13), 1 day ago) - Projen templates for our projects
 - [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.65](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.65), 6 days ago) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
