@@ -15,24 +15,24 @@ I 💕 a good onboarding readme with good example.
 
 #### 👷 Check out what I'm currently working on
 
-- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (1 day ago)
-- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) - The corresponding projen template for the AWS CDK Construct (1 day ago)
-- [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) - Projen templates for our projects (3 days ago)
-- [maxritter/claude-codepro](https://github.com/maxritter/claude-codepro) - Claude CodePro is a Professional System for Building Quality Code. It features Spec-Driven Development with Skills, TDD, Automated Dev Container, Semantic Search, Persistent Memory, AI Code Review, and much more 🚀  (4 days ago)
+- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (2 days ago)
+- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) - The corresponding projen template for the AWS CDK Construct (2 days ago)
+- [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) - Projen templates for our projects (4 days ago)
+- [maxritter/claude-codepro](https://github.com/maxritter/claude-codepro) - Claude CodePro is a Professional System for Building Quality Code. It features Spec-Driven Development with Skills, TDD, Automated Dev Container, Semantic Search, Persistent Memory, AI Code Review, and much more 🚀  (5 days ago)
 - [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️ (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [maxritter/claude-codepro](https://github.com/maxritter/claude-codepro) ([v2.1.1](https://github.com/maxritter/claude-codepro/releases/tag/v2.1.1), today) - Claude CodePro is a Professional System for Building Quality Code. It features Spec-Driven Development with Skills, TDD, Automated Dev Container, Semantic Search, Persistent Memory, AI Code Review, and much more 🚀 
-- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.450](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.450), 1 day ago) - The corresponding projen template for the AWS CDK Construct
-- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.326](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.326), 1 day ago) - An opinionated way to secure your AWS root email boxes
-- [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.421](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.421), 2 days ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
-- [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) ([v0.0.13](https://github.com/MV-Consulting/mvc-projen/releases/tag/v0.0.13), 3 days ago) - Projen templates for our projects
+- [maxritter/claude-codepro](https://github.com/maxritter/claude-codepro) ([v2.1.1](https://github.com/maxritter/claude-codepro/releases/tag/v2.1.1), 1 day ago) - Claude CodePro is a Professional System for Building Quality Code. It features Spec-Driven Development with Skills, TDD, Automated Dev Container, Semantic Search, Persistent Memory, AI Code Review, and much more 🚀 
+- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.450](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.450), 2 days ago) - The corresponding projen template for the AWS CDK Construct
+- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.326](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.326), 2 days ago) - An opinionated way to secure your AWS root email boxes
+- [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.421](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.421), 3 days ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
+- [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) ([v0.0.13](https://github.com/MV-Consulting/mvc-projen/releases/tag/v0.0.13), 4 days ago) - Projen templates for our projects
 
 #### ⭐ Recent Stars
 
-- [cremich/promptz](https://github.com/cremich/promptz) - Prompt Library for Amazon Q Developer (4 days ago)
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data (4 days ago)
+- [cremich/promptz](https://github.com/cremich/promptz) - Prompt Library for Amazon Q Developer (5 days ago)
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data (5 days ago)
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code (1 week ago)
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design (1 week ago)
 - [diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) - Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents (1 week ago)
