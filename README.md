@@ -15,7 +15,7 @@ I 💕 a good onboarding readme with good example.
 
 #### 👷 Check out what I'm currently working on
 
-- [maxritter/claude-codepro](https://github.com/maxritter/claude-codepro) - Claude CodePro is a Professional System for Building Quality Code. It features Spec-Driven Development with Skills, TDD, Automated Dev Container, Semantic Search, Persistent Memory, AI Code Review, and much more 🚀  (1 day ago)
+- [maxritter/claude-codepro](https://github.com/maxritter/claude-codepro) - Claude CodePro is a Professional System for Building Quality Code. It features Spec-Driven Development with Skills, TDD, Automated Dev Container, Semantic Search, Persistent Memory, AI Code Review, and much more 🚀  (today)
 - [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (2 days ago)
 - [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) - The corresponding projen template for the AWS CDK Construct (2 days ago)
 - [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) - Projen templates for our projects (4 days ago)
