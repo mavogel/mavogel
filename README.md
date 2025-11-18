@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [wirelessr/kiro-workflow-prompts](https://github.com/wirelessr/kiro-workflow-prompts) - Comprehensive prompt collection for AI agents implementing Kiro IDE&#39;s spec-driven development workflow - from requirements to implementation. (today)
+- [andreskull/spec-driven-ai-coding](https://github.com/andreskull/spec-driven-ai-coding) -  (today)
+- [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Full guide on claude tips and tricks and how you can optimise your claude code the best &amp; strive to find every command possible even hidden ones! (today)
 - [cremich/promptz](https://github.com/cremich/promptz) - Prompt Library for Amazon Q Developer (1 week ago)
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data (1 week ago)
-- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code (2 weeks ago)
-- [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design (2 weeks ago)
-- [diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) - Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
