@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems (today)
 - [wirelessr/kiro-workflow-prompts](https://github.com/wirelessr/kiro-workflow-prompts) - Comprehensive prompt collection for AI agents implementing Kiro IDE&#39;s spec-driven development workflow - from requirements to implementation. (2 days ago)
 - [andreskull/spec-driven-ai-coding](https://github.com/andreskull/spec-driven-ai-coding) -  (2 days ago)
 - [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Full guide on claude tips and tricks and how you can optimise your claude code the best &amp; strive to find every command possible even hidden ones! (2 days ago)
 - [cremich/promptz](https://github.com/cremich/promptz) - Prompt Library for Amazon Q Developer (1 week ago)
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
