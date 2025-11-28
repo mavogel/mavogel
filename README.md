@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [lgazo/drawio-mcp-server](https://github.com/lgazo/drawio-mcp-server) - Draw.io Model Context Protocol (MCP) Server (today)
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems (1 week ago)
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems (1 week ago)
 - [wirelessr/kiro-workflow-prompts](https://github.com/wirelessr/kiro-workflow-prompts) - Comprehensive prompt collection for AI agents implementing Kiro IDE&#39;s spec-driven development workflow - from requirements to implementation. (1 week ago)
 - [andreskull/spec-driven-ai-coding](https://github.com/andreskull/spec-driven-ai-coding) -  (1 week ago)
-- [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Full guide on claude tips and tricks and how you can optimise your claude code the best &amp; strive to find every command possible even hidden ones! (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
