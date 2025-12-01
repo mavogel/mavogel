@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads. (today)
 - [theupdateframework/go-tuf](https://github.com/theupdateframework/go-tuf) - Go implementation of The Update Framework (TUF) (2 days ago)
 - [lgazo/drawio-mcp-server](https://github.com/lgazo/drawio-mcp-server) - Draw.io Model Context Protocol (MCP) Server (3 days ago)
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems (1 week ago)
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems (1 week ago)
-- [wirelessr/kiro-workflow-prompts](https://github.com/wirelessr/kiro-workflow-prompts) - Comprehensive prompt collection for AI agents implementing Kiro IDE&#39;s spec-driven development workflow - from requirements to implementation. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
