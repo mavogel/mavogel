@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [daniele-salvagni/aws-newsroom](https://github.com/daniele-salvagni/aws-newsroom) - 📣 A serverless, AWS-native platform for collecting AWS news in one place, where team members can read, rate, comment on, and organize articles using user-defined tags. (today)
+- [aws-actions/amazon-ecs-deploy-express-service](https://github.com/aws-actions/amazon-ecs-deploy-express-service) - Deploys an ECS Express Mode Service (today)
 - [aws-containers/reinvent](https://github.com/aws-containers/reinvent) -  (1 day ago)
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads. (2 days ago)
 - [theupdateframework/go-tuf](https://github.com/theupdateframework/go-tuf) - Go implementation of The Update Framework (TUF) (4 days ago)
-- [lgazo/drawio-mcp-server](https://github.com/lgazo/drawio-mcp-server) - Draw.io Model Context Protocol (MCP) Server (5 days ago)
-- [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
