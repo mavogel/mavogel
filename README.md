@@ -23,7 +23,7 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
-- [maxritter/claude-codepro](https://github.com/maxritter/claude-codepro) ([v3.0.14](https://github.com/maxritter/claude-codepro/releases/tag/v3.0.14), 3 days ago) - Claude CodePro is a Professional Development Environment for Claude Code (CC). Start shipping systematically with Spec-Driven Development, Skills, TDD, Semantic Search, Persistent Memory, Context Management, Quality Hooks, Modular Rules System, and much more 🚀
+- [maxritter/claude-codepro](https://github.com/maxritter/claude-codepro) ([v3.0.15](https://github.com/maxritter/claude-codepro/releases/tag/v3.0.15), today) - Claude CodePro is a Professional Development Environment for Claude Code (CC). Start shipping systematically with Spec-Driven Development, Skills, TDD, Semantic Search, Persistent Memory, Context Management, Quality Hooks, Modular Rules System, and much more 🚀
 - [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.327](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.327), 2 weeks ago) - An opinionated way to secure your AWS root email boxes
 - [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.451](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.451), 2 weeks ago) - The corresponding projen template for the AWS CDK Construct
 - [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.421](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.421), 3 weeks ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [opensearch-project/opensearch-mcp-server-py](https://github.com/opensearch-project/opensearch-mcp-server-py) -  (today)
 - [daniele-salvagni/aws-newsroom](https://github.com/daniele-salvagni/aws-newsroom) - 📣 A serverless, AWS-native platform for collecting AWS news in one place, where team members can read, rate, comment on, and organize articles using user-defined tags. (2 days ago)
 - [aws-actions/amazon-ecs-deploy-express-service](https://github.com/aws-actions/amazon-ecs-deploy-express-service) - Deploys an ECS Express Mode Service (2 days ago)
 - [aws-containers/reinvent](https://github.com/aws-containers/reinvent) -  (3 days ago)
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads. (4 days ago)
-- [theupdateframework/go-tuf](https://github.com/theupdateframework/go-tuf) - Go implementation of The Update Framework (TUF) (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
