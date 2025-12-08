@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [zippoxer/recall](https://github.com/zippoxer/recall) - Full-text search and resume for Claude/Codex conversations (today)
+- [google/magika](https://github.com/google/magika) - Fast and accurate AI powered file content types detection  (today)
+- [gadievron/raptor](https://github.com/gadievron/raptor) - Raptor turns Claude Code into a general-purpose AI offensive/defensive security agent. By using Claude.md and creating rules, sub-agents, and skills, and orchestrating security tool usage, we configure the agent for adversarial thinking, and perform research or attack/defense operations. (today)
 - [opensearch-project/opensearch-mcp-server-py](https://github.com/opensearch-project/opensearch-mcp-server-py) -  (3 days ago)
 - [daniele-salvagni/aws-newsroom](https://github.com/daniele-salvagni/aws-newsroom) - 📣 A serverless, AWS-native platform for collecting AWS news in one place, where team members can read, rate, comment on, and organize articles using user-defined tags. (5 days ago)
-- [aws-actions/amazon-ecs-deploy-express-service](https://github.com/aws-actions/amazon-ecs-deploy-express-service) - Deploys an ECS Express Mode Service (5 days ago)
-- [aws-containers/reinvent](https://github.com/aws-containers/reinvent) -  (6 days ago)
-- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
