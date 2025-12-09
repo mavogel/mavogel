@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [chris-schra/mcp-funnel](https://github.com/chris-schra/mcp-funnel) - Finally, a proxy that does what grep does for logs - filters out the noise. Stop carrying 70k tokens of tools you&#39;ll never use. It&#39;s like tree-shaking, but for MCP. 🚀 (today)
 - [zippoxer/recall](https://github.com/zippoxer/recall) - Full-text search and resume for Claude/Codex conversations (1 day ago)
 - [google/magika](https://github.com/google/magika) - Fast and accurate AI powered file content types detection  (1 day ago)
 - [gadievron/raptor](https://github.com/gadievron/raptor) - Raptor turns Claude Code into a general-purpose AI offensive/defensive security agent. By using Claude.md and creating rules, sub-agents, and skills, and orchestrating security tool usage, we configure the agent for adversarial thinking, and perform research or attack/defense operations. (1 day ago)
 - [opensearch-project/opensearch-mcp-server-py](https://github.com/opensearch-project/opensearch-mcp-server-py) -  (4 days ago)
-- [daniele-salvagni/aws-newsroom](https://github.com/daniele-salvagni/aws-newsroom) - 📣 A serverless, AWS-native platform for collecting AWS news in one place, where team members can read, rate, comment on, and organize articles using user-defined tags. (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
