@@ -31,7 +31,7 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
-- [m0n0x41d/crucible-code](https://github.com/m0n0x41d/crucible-code) - Structured reasoning commands for Claude Code — hypothesis-driven decision making with auditable evidence trails (today)
+- [m0n0x41d/quint-code](https://github.com/m0n0x41d/quint-code) - Structured reasoning commands for Claude Code — hypothesis-driven decision making with auditable evidence trails (today)
 - [chris-schra/mcp-funnel](https://github.com/chris-schra/mcp-funnel) - Finally, a proxy that does what grep does for logs - filters out the noise. Stop carrying 70k tokens of tools you&#39;ll never use. It&#39;s like tree-shaking, but for MCP. 🚀 (5 days ago)
 - [zippoxer/recall](https://github.com/zippoxer/recall) - Full-text search and resume for Claude/Codex conversations (6 days ago)
 - [google/magika](https://github.com/google/magika) - Fast and accurate AI powered file content types detection  (6 days ago)
