@@ -23,7 +23,7 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
-- [maxritter/claude-codepro](https://github.com/maxritter/claude-codepro) ([v3.1.2](https://github.com/maxritter/claude-codepro/releases/tag/v3.1.2), 6 days ago) - 🛠️ Professional development environment for Claude Code with spec-driven workflow, TDD enforcement, cross-session memory, semantic search, quality hooks, and modular rules integration.
+- [maxritter/claude-codepro](https://github.com/maxritter/claude-codepro) ([v3.1.2](https://github.com/maxritter/claude-codepro/releases/tag/v3.1.2), 1 week ago) - 🛠️ Professional development environment for Claude Code with spec-driven workflow, TDD enforcement, cross-session memory, semantic search, quality hooks, and modular rules integration.
 - [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.327](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.327), 4 weeks ago) - An opinionated way to secure your AWS root email boxes
 - [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.451](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.451), 4 weeks ago) - The corresponding projen template for the AWS CDK Construct
 - [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.421](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.421), 1 month ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
@@ -31,8 +31,8 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
-- [tavily-ai/tavily-mcp](https://github.com/tavily-ai/tavily-mcp) - Production ready MCP server with real-time search, extract, map &amp; crawl. (1 day ago)
-- [m0n0x41d/quint-code](https://github.com/m0n0x41d/quint-code) - Structured reasoning commands for Claude Code, Gemini, Cursor and Codex — hypothesis-driven decision making with auditable evidence trails (2 days ago)
+- [tavily-ai/tavily-mcp](https://github.com/tavily-ai/tavily-mcp) - Production ready MCP server with real-time search, extract, map &amp; crawl. (2 days ago)
+- [m0n0x41d/quint-code](https://github.com/m0n0x41d/quint-code) - Structured reasoning commands for Claude Code, Gemini, Cursor and Codex — hypothesis-driven decision making with auditable evidence trails (3 days ago)
 - [chris-schra/mcp-funnel](https://github.com/chris-schra/mcp-funnel) - Finally, a proxy that does what grep does for logs - filters out the noise. Stop carrying 70k tokens of tools you&#39;ll never use. It&#39;s like tree-shaking, but for MCP. 🚀 (1 week ago)
 - [zippoxer/recall](https://github.com/zippoxer/recall) - Full-text search and resume for Claude/Codex conversations (1 week ago)
 - [google/magika](https://github.com/google/magika) - Fast and accurate AI powered file content types detection  (1 week ago)
