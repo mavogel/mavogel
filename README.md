@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [st3v3nmw/sourcerer-mcp](https://github.com/st3v3nmw/sourcerer-mcp) - MCP for semantic code search &amp; navigation that reduces token waste (today)
 - [MikeO-AI/claude-context-local](https://github.com/MikeO-AI/claude-context-local) - 🔒 Privacy-first MCP server for Claude using PostgreSQL &#43; Ollama. Local alternative to cloud-based code context with full data sovereignty. No API keys, no external calls, 100% local. (1 day ago)
 - [tavily-ai/tavily-mcp](https://github.com/tavily-ai/tavily-mcp) - Production ready MCP server with real-time search, extract, map &amp; crawl. (3 days ago)
 - [m0n0x41d/quint-code](https://github.com/m0n0x41d/quint-code) - Structured reasoning commands for Claude Code, Gemini, Cursor and Codex — hypothesis-driven decision making with auditable evidence trails (4 days ago)
 - [chris-schra/mcp-funnel](https://github.com/chris-schra/mcp-funnel) - Finally, a proxy that does what grep does for logs - filters out the noise. Stop carrying 70k tokens of tools you&#39;ll never use. It&#39;s like tree-shaking, but for MCP. 🚀 (1 week ago)
-- [zippoxer/recall](https://github.com/zippoxer/recall) - Full-text search and resume for Claude/Codex conversations (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
