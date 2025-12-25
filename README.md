@@ -17,13 +17,13 @@ I 💕 a good onboarding readme with good example.
 
 - [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (2 weeks ago)
 - [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) - The corresponding projen template for the AWS CDK Construct (3 weeks ago)
-- [maxritter/claude-codepro](https://github.com/maxritter/claude-codepro) - Professional development environment for Claude Code with spec-driven workflow, TDD enforcement, cross-session memory, semantic search, quality hooks, and modular rules 🛠️ (4 weeks ago)
+- [maxritter/claude-codepro](https://github.com/maxritter/claude-codepro) - Professional development environment for Claude Code with spec-driven workflow, TDD enforcement, cross-session memory, semantic search, quality hooks, and modular rules 🛠️ (1 month ago)
 - [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️ (1 month ago)
 - [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) - Projen templates for our projects (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [maxritter/claude-codepro](https://github.com/maxritter/claude-codepro) ([v3.2.11](https://github.com/maxritter/claude-codepro/releases/tag/v3.2.11), 4 days ago) - Professional development environment for Claude Code with spec-driven workflow, TDD enforcement, cross-session memory, semantic search, quality hooks, and modular rules 🛠️
+- [maxritter/claude-codepro](https://github.com/maxritter/claude-codepro) ([v3.2.11](https://github.com/maxritter/claude-codepro/releases/tag/v3.2.11), 5 days ago) - Professional development environment for Claude Code with spec-driven workflow, TDD enforcement, cross-session memory, semantic search, quality hooks, and modular rules 🛠️
 - [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.327](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.327), 1 month ago) - An opinionated way to secure your AWS root email boxes
 - [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.451](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.451), 1 month ago) - The corresponding projen template for the AWS CDK Construct
 - [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.421](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.421), 1 month ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
@@ -31,7 +31,7 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
-- [st3v3nmw/sourcerer-mcp](https://github.com/st3v3nmw/sourcerer-mcp) - MCP for semantic code search &amp; navigation that reduces token waste (6 days ago)
+- [st3v3nmw/sourcerer-mcp](https://github.com/st3v3nmw/sourcerer-mcp) - MCP for semantic code search &amp; navigation that reduces token waste (1 week ago)
 - [MikeO-AI/claude-context-local](https://github.com/MikeO-AI/claude-context-local) - 🔒 Privacy-first MCP server for Claude using PostgreSQL &#43; Ollama. Local alternative to cloud-based code context with full data sovereignty. No API keys, no external calls, 100% local. (1 week ago)
 - [tavily-ai/tavily-mcp](https://github.com/tavily-ai/tavily-mcp) - Production ready MCP server with real-time search, extract, map &amp; crawl. (1 week ago)
 - [m0n0x41d/quint-code](https://github.com/m0n0x41d/quint-code) - Structured reasoning framework for Claude Code, Gemini, Cursor, and Codex — hypothesis-driven decision making with auditable evidence trails (1 week ago)
