@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [score-spec/spec](https://github.com/score-spec/spec) - The Score Specification provides a developer-centric and platform-agnostic Workload specification to improve developer productivity and experience. It eliminates configuration inconsistencies between environments. (today)
+- [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows (today)
 - [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Claude Code compound engineering plugin (today)
 - [st3v3nmw/sourcerer-mcp](https://github.com/st3v3nmw/sourcerer-mcp) - MCP for semantic code search &amp; navigation that reduces token waste (2 weeks ago)
 - [MikeO-AI/claude-context-local](https://github.com/MikeO-AI/claude-context-local) - 🔒 Privacy-first MCP server for Claude using PostgreSQL &#43; Ollama. Local alternative to cloud-based code context with full data sovereignty. No API keys, no external calls, 100% local. (2 weeks ago)
-- [tavily-ai/tavily-mcp](https://github.com/tavily-ai/tavily-mcp) - Production ready MCP server with real-time search, extract, map &amp; crawl. (2 weeks ago)
-- [m0n0x41d/quint-code](https://github.com/m0n0x41d/quint-code) - Structured reasoning framework for Claude Code, Gemini, Cursor, and Codex — hypothesis-driven decision making with auditable evidence trails (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
