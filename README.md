@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [agentsmd/agents.md](https://github.com/agentsmd/agents.md) - AGENTS.md — a simple, open format for guiding coding agents (today)
 - [partly-notes/waffle](https://github.com/partly-notes/waffle) - CLI utility to perform AWS Well Architected Framework reviews with the help of Amazon Bedrock infrastructure and WAF questions analysis (today)
 - [cablate/mcp-google-map](https://github.com/cablate/mcp-google-map) - A powerful Model Context Protocol (MCP) server providing comprehensive Google Maps API integration with LLM processing capabilities. (today)
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins. (2 days ago)
 - [DataDog/pathfinding.cloud](https://github.com/DataDog/pathfinding.cloud) - An AWS IAM Privilege Escalation Path Library (4 days ago)
-- [score-spec/spec](https://github.com/score-spec/spec) - The Score Specification provides a developer-centric and platform-agnostic Workload specification to improve developer productivity and experience. It eliminates configuration inconsistencies between environments. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
