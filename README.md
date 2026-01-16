@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [caarlos0/telegram-summarizer](https://github.com/caarlos0/telegram-summarizer) - Telegram bot to transcribe and summarize audio messages (today)
 - [agentsmd/agents.md](https://github.com/agentsmd/agents.md) - AGENTS.md — a simple, open format for guiding coding agents (3 days ago)
 - [partly-notes/waffle](https://github.com/partly-notes/waffle) - CLI utility to perform AWS Well Architected Framework reviews with the help of Amazon Bedrock infrastructure and WAF questions analysis (3 days ago)
 - [cablate/mcp-google-map](https://github.com/cablate/mcp-google-map) - A powerful Model Context Protocol (MCP) server providing comprehensive Google Maps API integration with LLM processing capabilities. (3 days ago)
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins. (5 days ago)
-- [DataDog/pathfinding.cloud](https://github.com/DataDog/pathfinding.cloud) - An AWS IAM Privilege Escalation Path Library (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
