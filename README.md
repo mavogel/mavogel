@@ -15,27 +15,27 @@ I 💕 a good onboarding readme with good example.
 
 #### 👷 Check out what I'm currently working on
 
-- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (3 days ago)
-- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) - The corresponding projen template for the AWS CDK Construct (3 days ago)
+- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (4 days ago)
+- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) - The corresponding projen template for the AWS CDK Construct (4 days ago)
 - [maxritter/claude-codepro](https://github.com/maxritter/claude-codepro) - Professional Development Environment for Claude Code with Endless Mode, Spec-Driven Development, TDD, LSP, Persistent Memory, Semantic Search, Quality Hooks and Modular Rules 🛠️ (1 month ago)
 - [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️ (1 month ago)
 - [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) - Projen templates for our projects (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [maxritter/claude-codepro](https://github.com/maxritter/claude-codepro) ([v4.5.8](https://github.com/maxritter/claude-codepro/releases/tag/v4.5.8), today) - Professional Development Environment for Claude Code with Endless Mode, Spec-Driven Development, TDD, LSP, Persistent Memory, Semantic Search, Quality Hooks and Modular Rules 🛠️
-- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.327](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.327), 1 month ago) - An opinionated way to secure your AWS root email boxes
-- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.451](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.451), 1 month ago) - The corresponding projen template for the AWS CDK Construct
+- [maxritter/claude-codepro](https://github.com/maxritter/claude-codepro) ([v4.5.8](https://github.com/maxritter/claude-codepro/releases/tag/v4.5.8), 1 day ago) - Professional Development Environment for Claude Code with Endless Mode, Spec-Driven Development, TDD, LSP, Persistent Memory, Semantic Search, Quality Hooks and Modular Rules 🛠️
+- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.327](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.327), 2 months ago) - An opinionated way to secure your AWS root email boxes
+- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.451](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.451), 2 months ago) - The corresponding projen template for the AWS CDK Construct
 - [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.421](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.421), 2 months ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
 - [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) ([v0.0.13](https://github.com/MV-Consulting/mvc-projen/releases/tag/v0.0.13), 2 months ago) - Projen templates for our projects
 
 #### ⭐ Recent Stars
 
-- [caarlos0/telegram-summarizer](https://github.com/caarlos0/telegram-summarizer) - Telegram bot to transcribe and summarize audio messages (today)
-- [agentsmd/agents.md](https://github.com/agentsmd/agents.md) - AGENTS.md — a simple, open format for guiding coding agents (3 days ago)
-- [partly-notes/waffle](https://github.com/partly-notes/waffle) - CLI utility to perform AWS Well Architected Framework reviews with the help of Amazon Bedrock infrastructure and WAF questions analysis (3 days ago)
-- [cablate/mcp-google-map](https://github.com/cablate/mcp-google-map) - A powerful Model Context Protocol (MCP) server providing comprehensive Google Maps API integration with LLM processing capabilities. (3 days ago)
-- [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins. (5 days ago)
+- [caarlos0/telegram-summarizer](https://github.com/caarlos0/telegram-summarizer) - Telegram bot to transcribe and summarize audio messages (1 day ago)
+- [agentsmd/agents.md](https://github.com/agentsmd/agents.md) - AGENTS.md — a simple, open format for guiding coding agents (4 days ago)
+- [partly-notes/waffle](https://github.com/partly-notes/waffle) - CLI utility to perform AWS Well Architected Framework reviews with the help of Amazon Bedrock infrastructure and WAF questions analysis (4 days ago)
+- [cablate/mcp-google-map](https://github.com/cablate/mcp-google-map) - A powerful Model Context Protocol (MCP) server providing comprehensive Google Maps API integration with LLM processing capabilities. (4 days ago)
+- [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins. (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
