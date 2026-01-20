@@ -15,15 +15,15 @@ I 💕 a good onboarding readme with good example.
 
 #### 👷 Check out what I'm currently working on
 
-- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (6 days ago)
-- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) - The corresponding projen template for the AWS CDK Construct (6 days ago)
+- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (1 week ago)
+- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) - The corresponding projen template for the AWS CDK Construct (1 week ago)
 - [maxritter/claude-codepro](https://github.com/maxritter/claude-codepro) - Production-grade AI development for Claude Code. TDD enforced. Quality automated. Ship with confidence. (1 month ago)
-- [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️ (1 month ago)
+- [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️ (2 months ago)
 - [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) - Projen templates for our projects (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [maxritter/claude-codepro](https://github.com/maxritter/claude-codepro) ([v4.5.29](https://github.com/maxritter/claude-codepro/releases/tag/v4.5.29), today) - Production-grade AI development for Claude Code. TDD enforced. Quality automated. Ship with confidence.
+- [maxritter/claude-codepro](https://github.com/maxritter/claude-codepro) ([v4.5.29](https://github.com/maxritter/claude-codepro/releases/tag/v4.5.29), 1 day ago) - Production-grade AI development for Claude Code. TDD enforced. Quality automated. Ship with confidence.
 - [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.327](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.327), 2 months ago) - An opinionated way to secure your AWS root email boxes
 - [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.451](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.451), 2 months ago) - The corresponding projen template for the AWS CDK Construct
 - [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.421](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.421), 2 months ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
-- [Clemens865/Console-Buddy](https://github.com/Clemens865/Console-Buddy) -  (today)
-- [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows (today)
-- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans visually, share with your team, send feedback with one click. (today)
-- [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) - Autonomous AI development loop for Claude Code with intelligent exit detection (2 days ago)
-- [erning/gorun](https://github.com/erning/gorun) - gorun is a tool enabling one to put a &#34;bang line&#34; in the source code of a Go program to run it, or to run such a source code file explicitly. It was created in an attempt to make experimenting with Go more appealing to people used to Python and similar languages which operate most visibly with source code. (2 days ago)
+- [Clemens865/Console-Buddy](https://github.com/Clemens865/Console-Buddy) -  (1 day ago)
+- [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows (1 day ago)
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans visually, share with your team, send feedback with one click. (1 day ago)
+- [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) - Autonomous AI development loop for Claude Code with intelligent exit detection (3 days ago)
+- [erning/gorun](https://github.com/erning/gorun) - gorun is a tool enabling one to put a &#34;bang line&#34; in the source code of a Go program to run it, or to run such a source code file explicitly. It was created in an attempt to make experimenting with Go more appealing to people used to Python and similar languages which operate most visibly with source code. (3 days ago)
 
 #### 👯 Check out some of my recent followers
 
