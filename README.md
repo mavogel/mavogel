@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [davidbeesley/claude-chill](https://github.com/davidbeesley/claude-chill) -  (today)
+- [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. (today)
 - [Clemens865/Console-Buddy](https://github.com/Clemens865/Console-Buddy) -  (1 day ago)
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows (1 day ago)
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans visually, share with your team, send feedback with one click. (1 day ago)
-- [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) - Autonomous AI development loop for Claude Code with intelligent exit detection (3 days ago)
-- [erning/gorun](https://github.com/erning/gorun) - gorun is a tool enabling one to put a &#34;bang line&#34; in the source code of a Go program to run it, or to run such a source code file explicitly. It was created in an attempt to make experimenting with Go more appealing to people used to Python and similar languages which operate most visibly with source code. (3 days ago)
 
 #### 👯 Check out some of my recent followers
 
