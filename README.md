@@ -23,7 +23,7 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
-- [maxritter/claude-codepro](https://github.com/maxritter/claude-codepro) ([dev-72578d2-20260125](https://github.com/maxritter/claude-codepro/releases/tag/dev-72578d2-20260125), 1 day ago) - Production-Grade Development Environment for Claude Code. Quality automated. Context optimized. Testing enforced. Ship with confidence. 💪
+- [maxritter/claude-codepro](https://github.com/maxritter/claude-codepro) ([dev-cd25a7c-20260126](https://github.com/maxritter/claude-codepro/releases/tag/dev-cd25a7c-20260126), today) - Production-Grade Development Environment for Claude Code. Quality automated. Context optimized. Testing enforced. Ship with confidence. 💪
 - [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.327](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.327), 2 months ago) - An opinionated way to secure your AWS root email boxes
 - [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.451](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.451), 2 months ago) - The corresponding projen template for the AWS CDK Construct
 - [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.421](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.421), 2 months ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude&#39;s agent-sdk), and injects relevant context back into future sessions. (today)
+- [aws-controllers-k8s/code-generator](https://github.com/aws-controllers-k8s/code-generator) - Code generator for AWS Controllers for Kubernetes (today)
+- [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (today)
 - [anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review) - An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities. (1 day ago)
 - [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured (1 day ago)
-- [sindresorhus/Gifski](https://github.com/sindresorhus/Gifski) - 🌈 Convert videos to high-quality GIFs on your Mac (3 days ago)
-- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner. (5 days ago)
-- [davidbeesley/claude-chill](https://github.com/davidbeesley/claude-chill) -  (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
