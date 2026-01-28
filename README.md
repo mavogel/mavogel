@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - Claude Code skill that researches any topic across Reddit &#43; X from the last 30 days, then writes copy-paste-ready prompts (today)
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local (1 day ago)
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude&#39;s agent-sdk), and injects relevant context back into future sessions. (2 days ago)
 - [aws-controllers-k8s/code-generator](https://github.com/aws-controllers-k8s/code-generator) - Code generator for AWS Controllers for Kubernetes (2 days ago)
 - [moltbot/moltbot](https://github.com/moltbot/moltbot) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (2 days ago)
-- [anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review) - An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities. (3 days ago)
 
 #### 👯 Check out some of my recent followers
 
