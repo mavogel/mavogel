@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [loft-sh/vcluster](https://github.com/loft-sh/vcluster) - vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It&#39;s cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces. (today)
+- [loft-sh/vind](https://github.com/loft-sh/vind) -  (today)
 - [FuzzingLabs/mcp-security-hub](https://github.com/FuzzingLabs/mcp-security-hub) - A growing collection of MCP servers bringing offensive security tools to AI assistants. Nmap, Ghidra, Nuclei, SQLMap, Hashcat and more. (1 day ago)
 - [AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude) - Autonomous multi-session AI coding (1 day ago)
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - Claude Code skill that researches any topic across Reddit &#43; X from the last 30 days, then writes copy-paste-ready prompts (3 days ago)
-- [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local (4 days ago)
-- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude&#39;s agent-sdk), and injects relevant context back into future sessions. (5 days ago)
 
 #### 👯 Check out some of my recent followers
 
