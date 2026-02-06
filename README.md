@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [antonpk1/excalidraw-mcp-app](https://github.com/antonpk1/excalidraw-mcp-app) - Excalidraw MCP App Server — hand-drawn diagrams for Claude (today)
+- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React (today)
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes (2 days ago)
 - [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment. (2 days ago)
 - [strands-agents/agent-sop](https://github.com/strands-agents/agent-sop) - Natural language workflows that enable AI agents to perform complex, multi-step tasks with consistency and reliability. (3 days ago)
-- [awslabs/generative-ai-cdk-constructs](https://github.com/awslabs/generative-ai-cdk-constructs) - AWS Generative AI CDK Constructs are sample implementations of AWS CDK for common generative AI patterns. (3 days ago)
-- [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) - Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork (4 days ago)
 
 #### 👯 Check out some of my recent followers
 
