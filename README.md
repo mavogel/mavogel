@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [mitchellh/vouch](https://github.com/mitchellh/vouch) - A contributor trust management system based on explicit vouches to participate. (today)
 - [antonpk1/excalidraw-mcp-app](https://github.com/antonpk1/excalidraw-mcp-app) - Excalidraw MCP App Server — hand-drawn diagrams for Claude (2 days ago)
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React (2 days ago)
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes (4 days ago)
 - [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment. (4 days ago)
-- [strands-agents/agent-sop](https://github.com/strands-agents/agent-sop) - Natural language workflows that enable AI agents to perform complex, multi-step tasks with consistency and reliability. (5 days ago)
 
 #### 👯 Check out some of my recent followers
 
