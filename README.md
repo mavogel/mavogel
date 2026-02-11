@@ -31,7 +31,7 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
-- [jlia0/tinyclaw](https://github.com/jlia0/tinyclaw) - TinyClaw is a tiny wrapper of Claude Code that acts as your 24/7 personal assistant (1 day ago)
+- [jlia0/tinyclaw](https://github.com/jlia0/tinyclaw) - TinyClaw is a tiny agent that acts as your 24/7 personal assistant (1 day ago)
 - [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files. (1 day ago)
 - [mitchellh/vouch](https://github.com/mitchellh/vouch) - A community trust management system based on explicit vouches to participate. (3 days ago)
 - [excalidraw/excalidraw-mcp](https://github.com/excalidraw/excalidraw-mcp) - Fast and streamable Excalidraw MCP App (5 days ago)
