@@ -34,7 +34,7 @@ I 💕 a good onboarding readme with good example.
 - [aws-samples/hardeneks](https://github.com/aws-samples/hardeneks) - Runs checks to see if an EKS cluster follows EKS Best Practices. (2 days ago)
 - [aws-samples/appmod-blueprints](https://github.com/aws-samples/appmod-blueprints) -  (2 days ago)
 - [anthropics/claude-code-monitoring-guide](https://github.com/anthropics/claude-code-monitoring-guide) -  (2 days ago)
-- [jlia0/tinyclaw](https://github.com/jlia0/tinyclaw) - TinyClaw is a team of AI agents that acts as your 24/7 personal assistant (3 days ago)
+- [jlia0/tinyclaw](https://github.com/jlia0/tinyclaw) - TinyClaw is a team of personal agents that collaborate with each other (3 days ago)
 - [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files. (3 days ago)
 
 #### 👯 Check out some of my recent followers
