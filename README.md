@@ -39,9 +39,9 @@ I 💕 a good onboarding readme with good example.
 
 #### 👯 Check out some of my recent followers
 
+- [vinayaka398](https://github.com/vinayaka398)
 - [Xaypanya](https://github.com/Xaypanya)
 - [eatsky1006](https://github.com/eatsky1006)
-- [cfaja](https://github.com/cfaja)
 
 
 
