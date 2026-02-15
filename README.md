@@ -39,9 +39,9 @@ I 💕 a good onboarding readme with good example.
 
 #### 👯 Check out some of my recent followers
 
+- [ajrmooreuk](https://github.com/ajrmooreuk)
 - [PhysShell](https://github.com/PhysShell)
 - [manchbox](https://github.com/manchbox)
-- [vinayaka398](https://github.com/vinayaka398)
 
 
 
