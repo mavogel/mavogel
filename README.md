@@ -23,19 +23,19 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
-- [maxritter/claude-pilot](https://github.com/maxritter/claude-pilot) ([v6.5.9](https://github.com/maxritter/claude-pilot/releases/tag/v6.5.9), today) - Claude Code is powerful. Pilot makes it reliable. Start a task, grab a coffee, come back to production-grade code. Tests enforced. Context preserved. Quality automated.
-- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.327](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.327), 2 months ago) - An opinionated way to secure your AWS root email boxes
-- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.451](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.451), 2 months ago) - The corresponding projen template for the AWS CDK Construct
+- [maxritter/claude-pilot](https://github.com/maxritter/claude-pilot) ([v6.5.9](https://github.com/maxritter/claude-pilot/releases/tag/v6.5.9), 1 day ago) - Claude Code is powerful. Pilot makes it reliable. Start a task, grab a coffee, come back to production-grade code. Tests enforced. Context preserved. Quality automated.
+- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.327](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.327), 3 months ago) - An opinionated way to secure your AWS root email boxes
+- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.451](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.451), 3 months ago) - The corresponding projen template for the AWS CDK Construct
 - [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.421](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.421), 3 months ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
 - [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) ([v0.0.13](https://github.com/MV-Consulting/mvc-projen/releases/tag/v0.0.13), 3 months ago) - Projen templates for our projects
 
 #### ⭐ Recent Stars
 
-- [aws-samples/hardeneks](https://github.com/aws-samples/hardeneks) - Runs checks to see if an EKS cluster follows EKS Best Practices. (4 days ago)
-- [aws-samples/appmod-blueprints](https://github.com/aws-samples/appmod-blueprints) -  (4 days ago)
-- [anthropics/claude-code-monitoring-guide](https://github.com/anthropics/claude-code-monitoring-guide) -  (4 days ago)
-- [jlia0/tinyclaw](https://github.com/jlia0/tinyclaw) - TinyClaw is a team of personal agents that collaborate with each other (5 days ago)
-- [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files. (5 days ago)
+- [aws-samples/hardeneks](https://github.com/aws-samples/hardeneks) - Runs checks to see if an EKS cluster follows EKS Best Practices. (5 days ago)
+- [aws-samples/appmod-blueprints](https://github.com/aws-samples/appmod-blueprints) -  (5 days ago)
+- [anthropics/claude-code-monitoring-guide](https://github.com/anthropics/claude-code-monitoring-guide) -  (5 days ago)
+- [jlia0/tinyclaw](https://github.com/jlia0/tinyclaw) - TinyClaw is a team of personal agents that collaborate with each other (6 days ago)
+- [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files. (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
