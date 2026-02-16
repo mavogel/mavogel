@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns (today)
 - [aws-samples/hardeneks](https://github.com/aws-samples/hardeneks) - Runs checks to see if an EKS cluster follows EKS Best Practices. (5 days ago)
 - [aws-samples/appmod-blueprints](https://github.com/aws-samples/appmod-blueprints) -  (5 days ago)
 - [anthropics/claude-code-monitoring-guide](https://github.com/anthropics/claude-code-monitoring-guide) -  (5 days ago)
 - [jlia0/tinyclaw](https://github.com/jlia0/tinyclaw) - TinyClaw is a team of personal agents that collaborate with each other (6 days ago)
-- [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files. (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
