@@ -31,7 +31,7 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
-- [maxritter/claude-pilot-demo](https://github.com/maxritter/claude-pilot-demo) - Demo: Full-featured Kanban task board built entirely by AI using Claude Pilot — zero manual code edits (today)
+- [maxritter/claude-pilot-demo](https://github.com/maxritter/claude-pilot-demo) - Demo: Full-Stack project built entirely by AI using Claude Pilot — zero manual code edits (today)
 - [jacob-bd/notebooklm-mcp-cli](https://github.com/jacob-bd/notebooklm-mcp-cli) -  (today)
 - [steipete/summarize](https://github.com/steipete/summarize) - Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension. (4 days ago)
 - [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns (4 days ago)
