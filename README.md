@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the Material for MkDocs team (today)
 - [sttts/slagent](https://github.com/sttts/slagent) - Claude talking to Slack (1 day ago)
 - [nearai/ironclaw](https://github.com/nearai/ironclaw) - IronClaw is OpenClaw inspired implementation in Rust focused on privacy and security (3 days ago)
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills. (6 days ago)
 - [jarodr47/Portager](https://github.com/jarodr47/Portager) - Portage is a Kubernetes operator that declaratively syncs container images between registries. The name comes from the act of carrying cargo between two bodies of water, which is exactly what this does: carrying container images between two registries. (1 week ago)
-- [livekit/agents](https://github.com/livekit/agents) - A framework for building realtime voice AI agents 🤖🎙️📹  (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
