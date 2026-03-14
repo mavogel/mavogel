@@ -23,19 +23,19 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
+- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.329](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.329), today) - An opinionated way to secure your AWS root email boxes
 - [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) ([v0.0.16](https://github.com/MV-Consulting/mvc-projen/releases/tag/v0.0.16), today) - Projen templates for our projects
-- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.328](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.328), today) - An opinionated way to secure your AWS root email boxes
 - [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.452](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.452), today) - The corresponding projen template for the AWS CDK Construct
 - [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.422](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.422), today) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
 - [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v7.5.6](https://github.com/maxritter/pilot-shell/releases/tag/v7.5.6), 1 day ago) - The professional development environment for Claude Code. Tests enforced, context preserved, quality automated.
 
 #### ⭐ Recent Stars
 
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python (today)
+- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - The Ultimate Collection of 1000&#43; Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel. (today)
 - [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the Material for MkDocs team (2 days ago)
 - [sttts/slagent](https://github.com/sttts/slagent) - Claude talking to Slack (3 days ago)
 - [nearai/ironclaw](https://github.com/nearai/ironclaw) - IronClaw is OpenClaw inspired implementation in Rust focused on privacy and security (5 days ago)
-- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills. (1 week ago)
-- [jarodr47/Portager](https://github.com/jarodr47/Portager) - Portage is a Kubernetes operator that declaratively syncs container images between registries. The name comes from the act of carrying cargo between two bodies of water, which is exactly what this does: carrying container images between two registries. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
