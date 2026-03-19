@@ -15,27 +15,27 @@ I 💕 a good onboarding readme with good example.
 
 #### 👷 Check out what I'm currently working on
 
-- [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) - Projen templates for our projects (today)
-- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) - The corresponding projen template for the AWS CDK Construct (today)
-- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (4 days ago)
-- [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS (4 days ago)
+- [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) - Projen templates for our projects (1 day ago)
+- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) - The corresponding projen template for the AWS CDK Construct (1 day ago)
+- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (5 days ago)
+- [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS (5 days ago)
 - [InternalDeveloperPlatform/pe-architect-course](https://github.com/InternalDeveloperPlatform/pe-architect-course) -  (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v7.6.5](https://github.com/maxritter/pilot-shell/releases/tag/v7.6.5), today) - The professional development environment for Claude Code. Tests enforced, context preserved, quality automated.
-- [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) ([v0.0.17](https://github.com/MV-Consulting/mvc-projen/releases/tag/v0.0.17), today) - Projen templates for our projects
-- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.453](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.453), today) - The corresponding projen template for the AWS CDK Construct
-- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.330](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.330), 2 days ago) - An opinionated way to secure your AWS root email boxes
-- [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.66](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.66), 2 days ago) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
+- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v7.6.5](https://github.com/maxritter/pilot-shell/releases/tag/v7.6.5), 1 day ago) - The professional development environment for Claude Code. Tests enforced, context preserved, quality automated.
+- [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) ([v0.0.17](https://github.com/MV-Consulting/mvc-projen/releases/tag/v0.0.17), 1 day ago) - Projen templates for our projects
+- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.453](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.453), 1 day ago) - The corresponding projen template for the AWS CDK Construct
+- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.330](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.330), 3 days ago) - An opinionated way to secure your AWS root email boxes
+- [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.66](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.66), 3 days ago) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
 
 #### ⭐ Recent Stars
 
-- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies (2 days ago)
-- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents (3 days ago)
-- [mattmc3/antidote](https://github.com/mattmc3/antidote) - https://antidote.sh - the cure to slow zsh plugin management (4 days ago)
-- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python (4 days ago)
-- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - The Ultimate Collection of 1000&#43; Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel. (4 days ago)
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies (3 days ago)
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents (4 days ago)
+- [mattmc3/antidote](https://github.com/mattmc3/antidote) - https://antidote.sh - the cure to slow zsh plugin management (5 days ago)
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python (5 days ago)
+- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - The Ultimate Collection of 1000&#43; Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel. (5 days ago)
 
 #### 👯 Check out some of my recent followers
 
