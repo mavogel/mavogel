@@ -15,23 +15,23 @@ I 💕 a good onboarding readme with good example.
 
 #### 👷 Check out what I'm currently working on
 
-- [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) - Projen templates for our projects (1 day ago)
-- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) - The corresponding projen template for the AWS CDK Construct (1 day ago)
+- [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) - Projen templates for our projects (2 days ago)
+- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) - The corresponding projen template for the AWS CDK Construct (2 days ago)
 - [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (1 week ago)
 - [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS (1 week ago)
 - [InternalDeveloperPlatform/pe-architect-course](https://github.com/InternalDeveloperPlatform/pe-architect-course) -  (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v7.7.6](https://github.com/maxritter/pilot-shell/releases/tag/v7.7.6), today) - The professional development environment for Claude Code: From requirement to production-grade code. Planned, tested, verified.
-- [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) ([v0.0.18](https://github.com/MV-Consulting/mvc-projen/releases/tag/v0.0.18), 1 day ago) - Projen templates for our projects
-- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.454](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.454), 1 day ago) - The corresponding projen template for the AWS CDK Construct
-- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.331](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.331), 2 days ago) - An opinionated way to secure your AWS root email boxes
-- [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.423](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.423), 2 days ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
+- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v7.7.6](https://github.com/maxritter/pilot-shell/releases/tag/v7.7.6), 1 day ago) - The professional development environment for Claude Code: From requirement to production-grade code. Planned, tested, verified.
+- [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) ([v0.0.18](https://github.com/MV-Consulting/mvc-projen/releases/tag/v0.0.18), 2 days ago) - Projen templates for our projects
+- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.454](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.454), 2 days ago) - The corresponding projen template for the AWS CDK Construct
+- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.331](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.331), 3 days ago) - An opinionated way to secure your AWS root email boxes
+- [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.423](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.423), 3 days ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
 
 #### ⭐ Recent Stars
 
-- [slavingia/skills](https://github.com/slavingia/skills) - Claude Code skills based on The Minimalist Entrepreneur by Sahil Lavingia (today)
+- [slavingia/skills](https://github.com/slavingia/skills) - Claude Code skills based on The Minimalist Entrepreneur by Sahil Lavingia (1 day ago)
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies (1 week ago)
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents (1 week ago)
 - [mattmc3/antidote](https://github.com/mattmc3/antidote) - https://antidote.sh - the cure to slow zsh plugin management (1 week ago)
