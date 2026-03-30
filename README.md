@@ -23,7 +23,7 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
-- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v7.8.5](https://github.com/maxritter/pilot-shell/releases/tag/v7.8.5), today) - The professional development environment for Claude Code: From requirement to production-grade code. Planned, tested, verified.
+- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v7.9.0](https://github.com/maxritter/pilot-shell/releases/tag/v7.9.0), today) - The professional development environment for Claude Code: From requirement to production-grade code. Planned, tested, verified.
 - [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.68](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.68), today) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
 - [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) ([v0.0.18](https://github.com/MV-Consulting/mvc-projen/releases/tag/v0.0.18), 6 days ago) - Projen templates for our projects
 - [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.454](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.454), 6 days ago) - The corresponding projen template for the AWS CDK Construct
