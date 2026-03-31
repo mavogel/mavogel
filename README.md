@@ -15,26 +15,26 @@ I 💕 a good onboarding readme with good example.
 
 #### 👷 Check out what I'm currently working on
 
-- [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) - Projen templates for our projects (6 days ago)
-- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) - The corresponding projen template for the AWS CDK Construct (6 days ago)
+- [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) - Projen templates for our projects (1 week ago)
+- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) - The corresponding projen template for the AWS CDK Construct (1 week ago)
 - [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (2 weeks ago)
 - [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS (2 weeks ago)
 - [InternalDeveloperPlatform/pe-architect-course](https://github.com/InternalDeveloperPlatform/pe-architect-course) -  (4 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v7.9.0](https://github.com/maxritter/pilot-shell/releases/tag/v7.9.0), today) - The professional development environment for Claude Code: From requirement to production-grade code. Planned, tested, verified.
-- [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.68](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.68), today) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
-- [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) ([v0.0.18](https://github.com/MV-Consulting/mvc-projen/releases/tag/v0.0.18), 6 days ago) - Projen templates for our projects
-- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.454](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.454), 6 days ago) - The corresponding projen template for the AWS CDK Construct
-- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.331](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.331), 1 week ago) - An opinionated way to secure your AWS root email boxes
+- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.332](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.332), 1 day ago) - An opinionated way to secure your AWS root email boxes
+- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v7.9.0](https://github.com/maxritter/pilot-shell/releases/tag/v7.9.0), 1 day ago) - The professional development environment for Claude Code: From requirement to production-grade code. Planned, tested, verified.
+- [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.68](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.68), 1 day ago) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
+- [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) ([v0.0.18](https://github.com/MV-Consulting/mvc-projen/releases/tag/v0.0.18), 1 week ago) - Projen templates for our projects
+- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.454](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.454), 1 week ago) - The corresponding projen template for the AWS CDK Construct
 
 #### ⭐ Recent Stars
 
-- [davide-desio-eleva/kirograph](https://github.com/davide-desio-eleva/kirograph) - Semantic code knowledge graph for Kiro: fewer tool calls, instant symbol lookups, 100% local. (1 day ago)
-- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities. (2 days ago)
-- [microsoft/RustTraining](https://github.com/microsoft/RustTraining) - Beginner, advanced, expert level Rust training material (4 days ago)
-- [slavingia/skills](https://github.com/slavingia/skills) - Claude Code skills based on The Minimalist Entrepreneur by Sahil Lavingia (5 days ago)
+- [davide-desio-eleva/kirograph](https://github.com/davide-desio-eleva/kirograph) - Semantic code knowledge graph for Kiro: fewer tool calls, instant symbol lookups, 100% local. (2 days ago)
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities. (3 days ago)
+- [microsoft/RustTraining](https://github.com/microsoft/RustTraining) - Beginner, advanced, expert level Rust training material (5 days ago)
+- [slavingia/skills](https://github.com/slavingia/skills) - Claude Code skills based on The Minimalist Entrepreneur by Sahil Lavingia (6 days ago)
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
