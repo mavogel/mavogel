@@ -23,7 +23,7 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
-- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v7.10.0](https://github.com/maxritter/pilot-shell/releases/tag/v7.10.0), today) - The professional development environment for Claude Code: From requirement to production-grade code. Planned, tested, verified.
+- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v7.10.1](https://github.com/maxritter/pilot-shell/releases/tag/v7.10.1), today) - The professional development environment for Claude Code: From requirement to production-grade code. Planned, tested, verified.
 - [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.332](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.332), 1 day ago) - An opinionated way to secure your AWS root email boxes
 - [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.68](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.68), 1 day ago) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
 - [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) ([v0.0.18](https://github.com/MV-Consulting/mvc-projen/releases/tag/v0.0.18), 1 week ago) - Projen templates for our projects
