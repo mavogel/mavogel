@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [gunnargrosch/durable-viz](https://github.com/gunnargrosch/durable-viz) -  (today)
 - [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks. (5 days ago)
 - [davide-desio-eleva/kirograph](https://github.com/davide-desio-eleva/kirograph) - Semantic code knowledge graph for Kiro: fewer tool calls, instant symbol lookups, 100% local. (1 week ago)
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities. (1 week ago)
 - [microsoft/RustTraining](https://github.com/microsoft/RustTraining) - Beginner, advanced, expert level Rust training material (1 week ago)
-- [slavingia/skills](https://github.com/slavingia/skills) - Claude Code skills based on The Minimalist Entrepreneur by Sahil Lavingia (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
