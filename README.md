@@ -23,7 +23,7 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
-- [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.426](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.426), today) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
+- [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.427](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.427), today) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
 - [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) ([v0.0.23](https://github.com/MV-Consulting/mvc-projen/releases/tag/v0.0.23), today) - Projen templates for our projects
 - [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v7.11.3](https://github.com/maxritter/pilot-shell/releases/tag/v7.11.3), today) - The professional development environment for Claude Code
 - [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.69](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.69), today) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing. (today)
 - [yonahd/kor](https://github.com/yonahd/kor) - A Golang Tool to discover unused Kubernetes Resources  (today)
 - [gunnargrosch/durable-viz](https://github.com/gunnargrosch/durable-viz) -  (1 day ago)
 - [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks. (6 days ago)
 - [davide-desio-eleva/kirograph](https://github.com/davide-desio-eleva/kirograph) - Semantic code knowledge graph for Kiro: fewer tool calls, instant symbol lookups, 100% local. (1 week ago)
-- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
