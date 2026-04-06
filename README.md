@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [yonahd/kor](https://github.com/yonahd/kor) - A Golang Tool to discover unused Kubernetes Resources  (today)
 - [gunnargrosch/durable-viz](https://github.com/gunnargrosch/durable-viz) -  (1 day ago)
 - [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks. (6 days ago)
 - [davide-desio-eleva/kirograph](https://github.com/davide-desio-eleva/kirograph) - Semantic code knowledge graph for Kiro: fewer tool calls, instant symbol lookups, 100% local. (1 week ago)
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities. (1 week ago)
-- [microsoft/RustTraining](https://github.com/microsoft/RustTraining) - Beginner, advanced, expert level Rust training material (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
