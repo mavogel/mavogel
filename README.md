@@ -23,7 +23,7 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
-- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([dev-1e9d5c9-20260408](https://github.com/maxritter/pilot-shell/releases/tag/dev-1e9d5c9-20260408), today) - Make Claude Code production-ready — spec-driven plans, enforced tests, persistent knowledge
+- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v8.0.0](https://github.com/maxritter/pilot-shell/releases/tag/v8.0.0), today) - Make Claude Code production-ready — spec-driven plans, enforced tests, persistent knowledge
 - [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.333](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.333), 2 days ago) - An opinionated way to secure your AWS root email boxes
 - [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.427](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.427), 2 days ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
 - [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) ([v0.0.23](https://github.com/MV-Consulting/mvc-projen/releases/tag/v0.0.23), 2 days ago) - Projen templates for our projects
@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [basalt3/spojt](https://github.com/basalt3/spojt) - The Atomic UI Registry for NextJS. 🪼 (today)
 - [fluxcd/agent-skills](https://github.com/fluxcd/agent-skills) - Skills to transform AI Agents into GitOps Engineers (today)
 - [frizynn/linkedin-cli](https://github.com/frizynn/linkedin-cli) - Linkedin CLI for automation (1 day ago)
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI. (1 day ago)
 - [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing. (2 days ago)
-- [yonahd/kor](https://github.com/yonahd/kor) - A Golang Tool to discover unused Kubernetes Resources  (2 days ago)
 
 #### 👯 Check out some of my recent followers
 
