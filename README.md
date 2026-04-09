@@ -23,7 +23,7 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
-- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v8.0.1](https://github.com/maxritter/pilot-shell/releases/tag/v8.0.1), 1 day ago) - Make Claude Code production-ready — spec-driven plans, enforced tests, persistent knowledge
+- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v8.0.1](https://github.com/maxritter/pilot-shell/releases/tag/v8.0.1), 1 day ago) - Make Claude Code production-ready — spec-driven plans, enforced quality gates, persistent knowledge
 - [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.333](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.333), 3 days ago) - An opinionated way to secure your AWS root email boxes
 - [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.427](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.427), 3 days ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
 - [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) ([v0.0.23](https://github.com/MV-Consulting/mvc-projen/releases/tag/v0.0.23), 3 days ago) - Projen templates for our projects
