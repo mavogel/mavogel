@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (today)
 - [basalt3/spojt](https://github.com/basalt3/spojt) - The Atomic UI Registry for NextJS. 🪼 (2 days ago)
 - [fluxcd/agent-skills](https://github.com/fluxcd/agent-skills) - Skills to transform AI Agents into GitOps Engineers (2 days ago)
 - [frizynn/linkedin-cli](https://github.com/frizynn/linkedin-cli) - Linkedin CLI for automation (3 days ago)
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI. (3 days ago)
-- [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing. (4 days ago)
 
 #### 👯 Check out some of my recent followers
 
