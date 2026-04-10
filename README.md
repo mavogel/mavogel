@@ -15,27 +15,27 @@ I 💕 a good onboarding readme with good example.
 
 #### 👷 Check out what I'm currently working on
 
-- [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) - Projen templates for our projects (3 days ago)
-- [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS (3 days ago)
+- [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) - Projen templates for our projects (4 days ago)
+- [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS (4 days ago)
 - [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) - The corresponding projen template for the AWS CDK Construct (2 weeks ago)
 - [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (3 weeks ago)
 - [InternalDeveloperPlatform/pe-architect-course](https://github.com/InternalDeveloperPlatform/pe-architect-course) -  (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v8.0.6](https://github.com/maxritter/pilot-shell/releases/tag/v8.0.6), today) - Make Claude Code production-ready — spec-driven plans, enforced quality gates, persistent knowledge
-- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.333](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.333), 3 days ago) - An opinionated way to secure your AWS root email boxes
-- [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.427](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.427), 3 days ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
-- [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) ([v0.0.23](https://github.com/MV-Consulting/mvc-projen/releases/tag/v0.0.23), 3 days ago) - Projen templates for our projects
-- [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.69](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.69), 3 days ago) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
+- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v8.0.6](https://github.com/maxritter/pilot-shell/releases/tag/v8.0.6), 1 day ago) - Make Claude Code production-ready — spec-driven plans, enforced quality gates, persistent knowledge
+- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.333](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.333), 4 days ago) - An opinionated way to secure your AWS root email boxes
+- [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.427](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.427), 4 days ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
+- [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) ([v0.0.23](https://github.com/MV-Consulting/mvc-projen/releases/tag/v0.0.23), 4 days ago) - Projen templates for our projects
+- [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.69](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.69), 4 days ago) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
 
 #### ⭐ Recent Stars
 
-- [basalt3/spojt](https://github.com/basalt3/spojt) - The Atomic UI Registry for NextJS. 🪼 (1 day ago)
-- [fluxcd/agent-skills](https://github.com/fluxcd/agent-skills) - Skills to transform AI Agents into GitOps Engineers (1 day ago)
-- [frizynn/linkedin-cli](https://github.com/frizynn/linkedin-cli) - Linkedin CLI for automation (2 days ago)
-- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI. (2 days ago)
-- [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing. (3 days ago)
+- [basalt3/spojt](https://github.com/basalt3/spojt) - The Atomic UI Registry for NextJS. 🪼 (2 days ago)
+- [fluxcd/agent-skills](https://github.com/fluxcd/agent-skills) - Skills to transform AI Agents into GitOps Engineers (2 days ago)
+- [frizynn/linkedin-cli](https://github.com/frizynn/linkedin-cli) - Linkedin CLI for automation (3 days ago)
+- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI. (3 days ago)
+- [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing. (4 days ago)
 
 #### 👯 Check out some of my recent followers
 
