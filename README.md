@@ -35,7 +35,7 @@ I 💕 a good onboarding readme with good example.
 - [basalt3/spojt](https://github.com/basalt3/spojt) - The Atomic UI Registry for NextJS. 🪼 (2 days ago)
 - [fluxcd/agent-skills](https://github.com/fluxcd/agent-skills) - Skills to transform AI Agents into GitOps Engineers (2 days ago)
 - [frizynn/linkedin-cli](https://github.com/frizynn/linkedin-cli) - Linkedin CLI for automation (3 days ago)
-- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI. (3 days ago)
+- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI. (3 days ago)
 
 #### 👯 Check out some of my recent followers
 
