@@ -23,8 +23,8 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
+- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v8.0.7](https://github.com/maxritter/pilot-shell/releases/tag/v8.0.7), today) - Make Claude Code production-ready — spec-driven plans, enforced quality gates, persistent knowledge
 - [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.455](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.455), today) - The corresponding projen template for the AWS CDK Construct
-- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v8.0.6](https://github.com/maxritter/pilot-shell/releases/tag/v8.0.6), 1 day ago) - Make Claude Code production-ready — spec-driven plans, enforced quality gates, persistent knowledge
 - [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.333](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.333), 4 days ago) - An opinionated way to secure your AWS root email boxes
 - [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.427](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.427), 4 days ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
 - [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) ([v0.0.23](https://github.com/MV-Consulting/mvc-projen/releases/tag/v0.0.23), 4 days ago) - Projen templates for our projects
