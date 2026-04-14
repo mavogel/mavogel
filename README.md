@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [caarlos0/qrcode](https://github.com/caarlos0/qrcode) - simple single-page qr code generator (today)
 - [antonbabenko/awesome-terraform-compliance](https://github.com/antonbabenko/awesome-terraform-compliance) - Awesome Terraform Compliance - tools, frameworks, and resources for implementing compliance, security, and governance controls in Terraform and OpenTofu infrastructure. (1 day ago)
 - [filipi86/drogonsec](https://github.com/filipi86/drogonsec) - High-performance open-source security scanner combining SAST, SCA, Secret Detection, and IaC analysis, built for developers and CI/CD pipelines. (1 day ago)
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (2 days ago)
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (4 days ago)
-- [basalt3/spojt](https://github.com/basalt3/spojt) - The Atomic UI Registry for NextJS. 🪼 (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
