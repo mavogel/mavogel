@@ -15,27 +15,27 @@ I 💕 a good onboarding readme with good example.
 
 #### 👷 Check out what I'm currently working on
 
-- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (3 days ago)
-- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) - The corresponding projen template for the AWS CDK Construct (3 days ago)
+- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (4 days ago)
+- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) - The corresponding projen template for the AWS CDK Construct (4 days ago)
 - [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) - Projen templates for our projects (1 week ago)
 - [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS (1 week ago)
 - [InternalDeveloperPlatform/pe-architect-course](https://github.com/InternalDeveloperPlatform/pe-architect-course) -  (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v8.0.9](https://github.com/maxritter/pilot-shell/releases/tag/v8.0.9), today) - Make Claude Code production-ready — spec-driven plans, enforced quality gates, persistent knowledge
-- [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.70](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.70), today) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
-- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.335](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.335), 3 days ago) - An opinionated way to secure your AWS root email boxes
-- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.455](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.455), 3 days ago) - The corresponding projen template for the AWS CDK Construct
+- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v8.0.9](https://github.com/maxritter/pilot-shell/releases/tag/v8.0.9), 1 day ago) - Make Claude Code production-ready — spec-driven plans, enforced quality gates, persistent knowledge
+- [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.70](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.70), 1 day ago) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
+- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.335](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.335), 4 days ago) - An opinionated way to secure your AWS root email boxes
+- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.455](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.455), 4 days ago) - The corresponding projen template for the AWS CDK Construct
 - [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.427](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.427), 1 week ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
 
 #### ⭐ Recent Stars
 
-- [antonbabenko/awesome-terraform-compliance](https://github.com/antonbabenko/awesome-terraform-compliance) - Awesome Terraform Compliance - tools, frameworks, and resources for implementing compliance, security, and governance controls in Terraform and OpenTofu infrastructure. (today)
-- [filipi86/drogonsec](https://github.com/filipi86/drogonsec) - High-performance open-source security scanner combining SAST, SCA, Secret Detection, and IaC analysis, built for developers and CI/CD pipelines. (today)
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (1 day ago)
-- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (3 days ago)
-- [basalt3/spojt](https://github.com/basalt3/spojt) - The Atomic UI Registry for NextJS. 🪼 (5 days ago)
+- [antonbabenko/awesome-terraform-compliance](https://github.com/antonbabenko/awesome-terraform-compliance) - Awesome Terraform Compliance - tools, frameworks, and resources for implementing compliance, security, and governance controls in Terraform and OpenTofu infrastructure. (1 day ago)
+- [filipi86/drogonsec](https://github.com/filipi86/drogonsec) - High-performance open-source security scanner combining SAST, SCA, Secret Detection, and IaC analysis, built for developers and CI/CD pipelines. (1 day ago)
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (2 days ago)
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (4 days ago)
+- [basalt3/spojt](https://github.com/basalt3/spojt) - The Atomic UI Registry for NextJS. 🪼 (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
