@@ -23,8 +23,8 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
+- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v8.1.0](https://github.com/maxritter/pilot-shell/releases/tag/v8.1.0), today) - Make Claude Code production-ready — spec-driven plans, enforced quality gates, persistent knowledge
 - [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.456](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.456), today) - The corresponding projen template for the AWS CDK Construct
-- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v8.0.10](https://github.com/maxritter/pilot-shell/releases/tag/v8.0.10), 1 day ago) - Make Claude Code production-ready — spec-driven plans, enforced quality gates, persistent knowledge
 - [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.70](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.70), 2 days ago) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
 - [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.335](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.335), 5 days ago) - An opinionated way to secure your AWS root email boxes
 - [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.427](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.427), 1 week ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
