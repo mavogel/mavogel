@@ -34,7 +34,7 @@ I 💕 a good onboarding readme with good example.
 - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local (5 days ago)
 - [caarlos0/qrcode](https://github.com/caarlos0/qrcode) - simple single-page qr code generator (6 days ago)
 - [antonbabenko/awesome-terraform-compliance](https://github.com/antonbabenko/awesome-terraform-compliance) - Awesome Terraform Compliance - tools, frameworks, and resources for implementing compliance, security, and governance controls in Terraform and OpenTofu infrastructure. (1 week ago)
-- [filipi86/drogonsec](https://github.com/filipi86/drogonsec) - High-performance open-source security scanner combining SAST, SCA, Secret Detection, and IaC analysis, built for developers and CI/CD pipelines. (1 week ago)
+- [filipi86/drogonsec](https://github.com/filipi86/drogonsec) - High-performance open-source security scanner combining SAST, SCA, Secret Detection, and IaC analysis, built for developers and CI/CD pipelines, using AI for recommendation! (1 week ago)
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (1 week ago)
 
 #### 👯 Check out some of my recent followers
