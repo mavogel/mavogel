@@ -39,9 +39,9 @@ I 💕 a good onboarding readme with good example.
 
 #### 👯 Check out some of my recent followers
 
+- [ephmo](https://github.com/ephmo)
 - [javi0guerrero4-cloud](https://github.com/javi0guerrero4-cloud)
 - [phoenix-dev08](https://github.com/phoenix-dev08)
-- [joobn72](https://github.com/joobn72)
 
 
 
