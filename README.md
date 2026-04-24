@@ -16,22 +16,22 @@ I 💕 a good onboarding readme with good example.
 #### 👷 Check out what I'm currently working on
 
 - [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) - The corresponding projen template for the AWS CDK Construct (1 week ago)
-- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (1 week ago)
+- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (2 weeks ago)
 - [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS (2 weeks ago)
 - [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) - Projen templates for our projects (2 weeks ago)
 - [InternalDeveloperPlatform/pe-architect-course](https://github.com/InternalDeveloperPlatform/pe-architect-course) -  (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v8.3.0](https://github.com/maxritter/pilot-shell/releases/tag/v8.3.0), today) - Make Claude Code production-ready — spec-driven plans, enforced quality gates, persistent knowledge
-- [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.71](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.71), 3 days ago) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
+- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v8.3.0](https://github.com/maxritter/pilot-shell/releases/tag/v8.3.0), 1 day ago) - Make Claude Code production-ready — spec-driven plans, enforced quality gates, persistent knowledge
+- [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.71](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.71), 4 days ago) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
 - [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.456](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.456), 1 week ago) - The corresponding projen template for the AWS CDK Construct
-- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.335](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.335), 1 week ago) - An opinionated way to secure your AWS root email boxes
+- [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.335](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.335), 2 weeks ago) - An opinionated way to secure your AWS root email boxes
 - [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.427](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.427), 2 weeks ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
 
 #### ⭐ Recent Stars
 
-- [cschnidr/KiroLink](https://github.com/cschnidr/KiroLink) - A self-hosted Telegram bridge for Kiro CLI. Message your bot, your Linux home server runs Kiro, the answer comes back to your phone. (today)
+- [cschnidr/KiroLink](https://github.com/cschnidr/KiroLink) - A self-hosted Telegram bridge for Kiro CLI. Message your bot, your Linux home server runs Kiro, the answer comes back to your phone. (1 day ago)
 - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local (1 week ago)
 - [caarlos0/qrcode](https://github.com/caarlos0/qrcode) - simple single-page qr code generator (1 week ago)
 - [antonbabenko/awesome-terraform-compliance](https://github.com/antonbabenko/awesome-terraform-compliance) - Awesome Terraform Compliance - tools, frameworks, and resources for implementing compliance, security, and governance controls in Terraform and OpenTofu infrastructure. (1 week ago)
