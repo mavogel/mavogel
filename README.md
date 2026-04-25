@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability. (today)
+- [achankra/peh-course](https://github.com/achankra/peh-course) - Course to launch Platform Engineering Handbook (today)
 - [cschnidr/KiroLink](https://github.com/cschnidr/KiroLink) - A self-hosted Telegram bridge for Kiro CLI. Message your bot, your Linux home server runs Kiro, the answer comes back to your phone. (2 days ago)
 - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local (1 week ago)
 - [caarlos0/qrcode](https://github.com/caarlos0/qrcode) - simple single-page qr code generator (1 week ago)
-- [antonbabenko/awesome-terraform-compliance](https://github.com/antonbabenko/awesome-terraform-compliance) - Awesome Terraform Compliance - tools, frameworks, and resources for implementing compliance, security, and governance controls in Terraform and OpenTofu infrastructure. (1 week ago)
-- [filipi86/drogonsec](https://github.com/filipi86/drogonsec) - High-performance open-source security scanner combining SAST, SCA, Secret Detection, and IaC analysis, built for developers and CI/CD pipelines, using AI for recommendation! (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
