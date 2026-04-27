@@ -27,7 +27,7 @@ I 💕 a good onboarding readme with good example.
 - [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.458](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.458), 1 day ago) - The corresponding projen template for the AWS CDK Construct
 - [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.428](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.428), 1 day ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
 - [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) ([v0.0.25](https://github.com/MV-Consulting/mvc-projen/releases/tag/v0.0.25), 1 day ago) - Projen templates for our projects
-- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v8.4.0](https://github.com/maxritter/pilot-shell/releases/tag/v8.4.0), 3 days ago) - Make Claude Code production-ready — spec-driven plans, enforced quality gates, persistent knowledge
+- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v8.4.0](https://github.com/maxritter/pilot-shell/releases/tag/v8.4.0), 3 days ago) - The Claude Code engineering platform: spec-driven planning, enforced TDD, persistent memory, and quality hooks. Make Claude Code production-ready.
 
 #### ⭐ Recent Stars
 
