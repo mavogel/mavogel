@@ -23,7 +23,7 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
-- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v8.10.5](https://github.com/maxritter/pilot-shell/releases/tag/v8.10.5), 1 day ago) - How real engineers run Claude Code: spec-driven planning, enforced TDD, persistent memory, and quality enforcement on all levels. Make Claude Code production-ready.
+- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([dev-5afbf31-20260522](https://github.com/maxritter/pilot-shell/releases/tag/dev-5afbf31-20260522), today) - How real engineers run Claude Code: spec-driven planning, enforced TDD, persistent memory, and quality enforcement on all levels. Make Claude Code production-ready.
 - [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.87](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.87), 4 days ago) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
 - [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.461](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.461), 1 week ago) - The corresponding projen template for the AWS CDK Construct
 - [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.428](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.428), 3 weeks ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚. (today)
+- [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust (today)
 - [nateherkai/token-dashboard](https://github.com/nateherkai/token-dashboard) - See where Claude Code is burning tokens - turn raw JSONL transcripts into local cost analytics, hotspot views, and session-level usage insight. (4 days ago)
 - [floci-io/floci](https://github.com/floci-io/floci) - Light, fluffy, and always free - The AWS Local Emulator alternative (1 week ago)
 - [johnalanwoods/maintained-modern-unix](https://github.com/johnalanwoods/maintained-modern-unix) - A collection of modern/faster/greater alternatives to common UNIX commands, which is maintained. (1 week ago)
-- [aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws) - Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS (2 weeks ago)
-- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
