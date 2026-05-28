@@ -23,7 +23,7 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
-- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([dev-ead8426-20260528](https://github.com/maxritter/pilot-shell/releases/tag/dev-ead8426-20260528), today) - How real engineers run Claude Code and Codex: spec-driven planning, enforced TDD, persistent memory, and quality enforcement on all levels. Make your agents production-ready.
+- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([dev-6566ab9-20260528](https://github.com/maxritter/pilot-shell/releases/tag/dev-6566ab9-20260528), today) - How real engineers run Claude Code and Codex: spec-driven planning, enforced TDD, persistent memory, and quality enforcement on all levels. Make your agents production-ready.
 - [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.87](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.87), 1 week ago) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
 - [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.461](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.461), 2 weeks ago) - The corresponding projen template for the AWS CDK Construct
 - [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.428](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.428), 1 month ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
