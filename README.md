@@ -23,7 +23,7 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
-- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v9.1.3](https://github.com/maxritter/pilot-shell/releases/tag/v9.1.3), today) - How real engineers run Claude Code and Codex: spec-driven planning, enforced TDD, persistent memory, and quality enforcement on all levels. Make your agents production-ready.
+- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v9.1.3](https://github.com/maxritter/pilot-shell/releases/tag/v9.1.3), 1 day ago) - How real engineers run Claude Code and Codex: spec-driven planning, enforced TDD, persistent memory, and quality enforcement on all levels. Make your agents production-ready.
 - [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.87](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.87), 1 week ago) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
 - [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.461](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.461), 2 weeks ago) - The corresponding projen template for the AWS CDK Construct
 - [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.428](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.428), 1 month ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
@@ -31,8 +31,8 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
-- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚. (6 days ago)
-- [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust (6 days ago)
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚. (1 week ago)
+- [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust (1 week ago)
 - [nateherkai/token-dashboard](https://github.com/nateherkai/token-dashboard) - See where Claude Code is burning tokens - turn raw JSONL transcripts into local cost analytics, hotspot views, and session-level usage insight. (1 week ago)
 - [floci-io/floci](https://github.com/floci-io/floci) - Light, fluffy, and always free - The AWS Local Emulator alternative (2 weeks ago)
 - [johnalanwoods/maintained-modern-unix](https://github.com/johnalanwoods/maintained-modern-unix) - A collection of modern/faster/greater alternatives to common UNIX commands, which is maintained. (2 weeks ago)
