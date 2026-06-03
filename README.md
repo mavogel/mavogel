@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents (today)
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖 (1 day ago)
 - [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang (1 day ago)
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚. (1 week ago)
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust (1 week ago)
-- [nateherkai/token-dashboard](https://github.com/nateherkai/token-dashboard) - See where Claude Code is burning tokens - turn raw JSONL transcripts into local cost analytics, hotspot views, and session-level usage insight. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
