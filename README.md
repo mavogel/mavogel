@@ -39,9 +39,9 @@ I 💕 a good onboarding readme with good example.
 
 #### 👯 Check out some of my recent followers
 
+- [AtlantisDe](https://github.com/AtlantisDe)
 - [ashish-sumboo](https://github.com/ashish-sumboo)
 - [javi0guerrero4-cloud](https://github.com/javi0guerrero4-cloud)
-- [phoenix-dev08](https://github.com/phoenix-dev08)
 
 
 
