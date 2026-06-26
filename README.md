@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [vireshsolanki/aws-calculator-mcp](https://github.com/vireshsolanki/aws-calculator-mcp) -  (today)
 - [caarlos0/prowl](https://github.com/caarlos0/prowl) - A tiny terminal radar for your GitHub pull requests. (1 day ago)
 - [j178/prek](https://github.com/j178/prek) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined. (1 day ago)
 - [jkroepke/helm-release-size-analyzer](https://github.com/jkroepke/helm-release-size-analyzer) - A cluster-free CLI that measures the exact decoded Helm release Secret size and breaks it down by top-level property. (3 days ago)
 - [udondan/avanti](https://github.com/udondan/avanti) - A stateful package manager for arbitrary text files. (1 week ago)
-- [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
