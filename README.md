@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [stefanprodan/cctop](https://github.com/stefanprodan/cctop) - Live top-style monitor for Claude Code sessions (today)
 - [vireshsolanki/aws-calculator-mcp](https://github.com/vireshsolanki/aws-calculator-mcp) -  (1 day ago)
 - [caarlos0/prowl](https://github.com/caarlos0/prowl) - A tiny terminal radar for your GitHub pull requests. (2 days ago)
 - [j178/prek](https://github.com/j178/prek) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined. (2 days ago)
 - [jkroepke/helm-release-size-analyzer](https://github.com/jkroepke/helm-release-size-analyzer) - A cluster-free CLI that measures the exact decoded Helm release Secret size and breaks it down by top-level property. (4 days ago)
-- [udondan/avanti](https://github.com/udondan/avanti) - A stateful package manager for arbitrary text files. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
