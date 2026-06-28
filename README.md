@@ -15,7 +15,7 @@ I 💕 a good onboarding readme with good example.
 
 #### 👷 Check out what I'm currently working on
 
-- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) - The corresponding projen template for the AWS CDK Construct (2 days ago)
+- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) - The corresponding projen template for the AWS CDK Construct (3 days ago)
 - [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️ (2 months ago)
 - [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) - Projen templates for our projects (2 months ago)
 - [MV-Consulting/s3-cdk-assets-bootstrap](https://github.com/MV-Consulting/s3-cdk-assets-bootstrap) - Bootstraps your AWS accounts with S3 asset buckets per region and a release bucket. Additionally creates IAM roles for GitHub Actions OICD roles. (2 months ago)
@@ -23,19 +23,19 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
-- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v9.7.2](https://github.com/maxritter/pilot-shell/releases/tag/v9.7.2), 1 day ago) - How real engineers run Claude Code and Codex: spec-driven planning, enforced TDD, persistent memory, and quality enforcement on all levels. Make your agents production-ready.
-- [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.96](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.96), 2 days ago) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
-- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.464](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.464), 2 days ago) - The corresponding projen template for the AWS CDK Construct
+- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v9.7.2](https://github.com/maxritter/pilot-shell/releases/tag/v9.7.2), 2 days ago) - How real engineers run Claude Code and Codex: spec-driven planning, enforced TDD, persistent memory, and quality enforcement on all levels. Make your agents production-ready.
+- [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.96](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.96), 3 days ago) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
+- [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.464](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.464), 3 days ago) - The corresponding projen template for the AWS CDK Construct
 - [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.428](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.428), 2 months ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
 - [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) ([v0.0.25](https://github.com/MV-Consulting/mvc-projen/releases/tag/v0.0.25), 2 months ago) - Projen templates for our projects
 
 #### ⭐ Recent Stars
 
-- [stefanprodan/cctop](https://github.com/stefanprodan/cctop) - Live top-style monitor for Claude Code sessions (today)
-- [vireshsolanki/aws-calculator-mcp](https://github.com/vireshsolanki/aws-calculator-mcp) -  (1 day ago)
-- [caarlos0/prowl](https://github.com/caarlos0/prowl) - A tiny terminal radar for your GitHub pull requests. (2 days ago)
-- [j178/prek](https://github.com/j178/prek) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined. (2 days ago)
-- [jkroepke/helm-release-size-analyzer](https://github.com/jkroepke/helm-release-size-analyzer) - A cluster-free CLI that measures the exact decoded Helm release Secret size and breaks it down by top-level property. (4 days ago)
+- [stefanprodan/cctop](https://github.com/stefanprodan/cctop) - Live top-style monitor for Claude Code sessions (1 day ago)
+- [vireshsolanki/aws-calculator-mcp](https://github.com/vireshsolanki/aws-calculator-mcp) -  (2 days ago)
+- [caarlos0/prowl](https://github.com/caarlos0/prowl) - A tiny terminal radar for your GitHub pull requests. (3 days ago)
+- [j178/prek](https://github.com/j178/prek) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined. (3 days ago)
+- [jkroepke/helm-release-size-analyzer](https://github.com/jkroepke/helm-release-size-analyzer) - A cluster-free CLI that measures the exact decoded Helm release Secret size and breaks it down by top-level property. (5 days ago)
 
 #### 👯 Check out some of my recent followers
 
