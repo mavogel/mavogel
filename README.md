@@ -23,7 +23,7 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
-- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v9.9.0](https://github.com/maxritter/pilot-shell/releases/tag/v9.9.0), 1 day ago) - How real engineers run Claude Code and Codex: spec-driven planning, enforced TDD, persistent memory, and quality enforcement on all levels. Make your agents production-ready.
+- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v9.9.0](https://github.com/maxritter/pilot-shell/releases/tag/v9.9.0), 2 days ago) - How real engineers run Claude Code and Codex: spec-driven planning, enforced TDD, persistent memory, and quality enforcement on all levels. Make your agents production-ready.
 - [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.96](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.96), 1 week ago) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
 - [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.464](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.464), 1 week ago) - The corresponding projen template for the AWS CDK Construct
 - [MV-Consulting/cdk-hugo-pipeline](https://github.com/MV-Consulting/cdk-hugo-pipeline) ([v0.0.428](https://github.com/MV-Consulting/cdk-hugo-pipeline/releases/tag/v0.0.428), 2 months ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
@@ -31,8 +31,8 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
-- [aws-devtools-labs/aws-blocks](https://github.com/aws-devtools-labs/aws-blocks) - Composable building blocks for full-stack AWS apps — define infrastructure and runtime code together with end-to-end type safety using TypeScript, local mocking, and native client codegen for Kotlin, Swift, and Dart. (5 days ago)
-- [cert-manager/cmctl](https://github.com/cert-manager/cmctl) - `cmctl` is the command line utility that makes cert-manager&#39;ing easier. (5 days ago)
+- [aws-devtools-labs/aws-blocks](https://github.com/aws-devtools-labs/aws-blocks) - Composable building blocks for full-stack AWS apps — define infrastructure and runtime code together with end-to-end type safety using TypeScript, local mocking, and native client codegen for Kotlin, Swift, and Dart. (6 days ago)
+- [cert-manager/cmctl](https://github.com/cert-manager/cmctl) - `cmctl` is the command line utility that makes cert-manager&#39;ing easier. (6 days ago)
 - [stefanprodan/cctop](https://github.com/stefanprodan/cctop) - Live top-style monitor for Claude Code sessions (1 week ago)
 - [vireshsolanki/aws-calculator-mcp](https://github.com/vireshsolanki/aws-calculator-mcp) -  (1 week ago)
 - [caarlos0/prowl](https://github.com/caarlos0/prowl) - A tiny terminal radar for your GitHub pull requests. (1 week ago)
