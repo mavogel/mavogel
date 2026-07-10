@@ -31,7 +31,7 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
-- [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) - AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews. (3 days ago)
+- [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) - The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. (3 days ago)
 - [aws-devtools-labs/aws-blocks](https://github.com/aws-devtools-labs/aws-blocks) - Composable building blocks for full-stack AWS apps — define infrastructure and runtime code together with end-to-end type safety using TypeScript, local mocking, and native client codegen for Kotlin, Swift, and Dart. (1 week ago)
 - [cert-manager/cmctl](https://github.com/cert-manager/cmctl) - `cmctl` is the command line utility that makes cert-manager&#39;ing easier. (1 week ago)
 - [stefanprodan/cctop](https://github.com/stefanprodan/cctop) - Live top-style monitor for Claude Code sessions (1 week ago)
