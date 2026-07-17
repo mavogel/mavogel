@@ -23,7 +23,7 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
-- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v9.13.0](https://github.com/maxritter/pilot-shell/releases/tag/v9.13.0), today) - How real engineers run Claude Code and Codex: spec-driven planning, enforced TDD, persistent memory, and quality enforcement on all levels. Make your agents production-ready.
+- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v9.13.0](https://github.com/maxritter/pilot-shell/releases/tag/v9.13.0), 1 day ago) - How real engineers run Claude Code and Codex: spec-driven planning, enforced TDD, persistent memory, and quality enforcement on all levels. Make your agents production-ready.
 - [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.336](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.336), 1 week ago) - An opinionated way to secure your AWS root email boxes
 - [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.465](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.465), 1 week ago) - The corresponding projen template for the AWS CDK Construct
 - [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) ([v0.0.96](https://github.com/MV-Consulting/cdk-vscode-server/releases/tag/v0.0.96), 3 weeks ago) - Set up your own VSCode Server on AWS in under 10 minutes ⌛️
@@ -35,7 +35,7 @@ I 💕 a good onboarding readme with good example.
 - [aws-devtools-labs/aws-blocks](https://github.com/aws-devtools-labs/aws-blocks) - Composable building blocks for full-stack AWS apps — define infrastructure and runtime code together with end-to-end type safety using TypeScript, local mocking, and native client codegen for Kotlin, Swift, and Dart. (2 weeks ago)
 - [cert-manager/cmctl](https://github.com/cert-manager/cmctl) - `cmctl` is the command line utility that makes cert-manager&#39;ing easier. (2 weeks ago)
 - [stefanprodan/cctop](https://github.com/stefanprodan/cctop) - Live top-style monitor for Claude Code sessions (2 weeks ago)
-- [vireshsolanki/aws-calculator-mcp](https://github.com/vireshsolanki/aws-calculator-mcp) -  (2 weeks ago)
+- [vireshsolanki/aws-calculator-mcp](https://github.com/vireshsolanki/aws-calculator-mcp) -  (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
