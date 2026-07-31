@@ -23,7 +23,7 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
-- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v9.14.0](https://github.com/maxritter/pilot-shell/releases/tag/v9.14.0), 5 days ago) - How real engineers run Claude Code and Codex: spec-driven planning, enforced TDD, persistent memory, and quality enforcement on all levels. Make your agents production-ready.
+- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v9.14.0](https://github.com/maxritter/pilot-shell/releases/tag/v9.14.0), 6 days ago) - How real engineers run Claude Code and Codex: spec-driven planning, enforced TDD, persistent memory, and quality enforcement on all levels. Make your agents production-ready.
 - [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) ([v0.0.26](https://github.com/MV-Consulting/mvc-projen/releases/tag/v0.0.26), 1 week ago) - Projen templates for our projects
 - [MV-Consulting/projen-cdk-hugo-pipeline](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline) ([v0.0.466](https://github.com/MV-Consulting/projen-cdk-hugo-pipeline/releases/tag/v0.0.466), 1 week ago) - The corresponding projen template for the AWS CDK Construct
 - [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.336](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.336), 3 weeks ago) - An opinionated way to secure your AWS root email boxes
@@ -31,7 +31,7 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
-- [0hardik1/awsmux](https://github.com/0hardik1/awsmux) - Run one AWS CLI command across hundreds of AWS accounts in parallel. MCP built in for AI agents. (4 days ago)
+- [0hardik1/awsmux](https://github.com/0hardik1/awsmux) - Run one AWS CLI command across hundreds of AWS accounts in parallel. MCP built in for AI agents. (5 days ago)
 - [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, and Hermes. (1 week ago)
 - [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI&#39;s Whisper model in C/C&#43;&#43; (1 week ago)
 - [MinishLab/semble](https://github.com/MinishLab/semble) - Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep&#43;read (1 week ago)
