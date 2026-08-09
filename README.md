@@ -15,7 +15,7 @@ I 💕 a good onboarding readme with good example.
 
 #### 👷 Check out what I'm currently working on
 
-- [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) - Projen templates for our projects (today)
+- [mavogel/mvc-projen](https://github.com/mavogel/mvc-projen) - Projen templates for our projects (today)
 - [mavogel/projen-cdk-hugo-pipeline](https://github.com/mavogel/projen-cdk-hugo-pipeline) - The corresponding projen template for the AWS CDK Construct (today)
 - [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (1 month ago)
 - [MV-Consulting/cdk-vscode-server](https://github.com/MV-Consulting/cdk-vscode-server) - Set up your own VSCode Server on AWS in under 10 minutes (3 months ago)
@@ -23,7 +23,7 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
-- [MV-Consulting/mvc-projen](https://github.com/MV-Consulting/mvc-projen) ([v0.0.29](https://github.com/MV-Consulting/mvc-projen/releases/tag/v0.0.29), today) - Projen templates for our projects
+- [mavogel/mvc-projen](https://github.com/mavogel/mvc-projen) ([v0.0.29](https://github.com/mavogel/mvc-projen/releases/tag/v0.0.29), today) - Projen templates for our projects
 - [mavogel/projen-cdk-hugo-pipeline](https://github.com/mavogel/projen-cdk-hugo-pipeline) ([v0.0.467](https://github.com/mavogel/projen-cdk-hugo-pipeline/releases/tag/v0.0.467), today) - The corresponding projen template for the AWS CDK Construct
 - [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v10.0.1](https://github.com/maxritter/pilot-shell/releases/tag/v10.0.1), 2 days ago) - How real engineers run Claude Code and Codex: spec-driven planning, enforced TDD, persistent memory, and quality enforcement on all levels. Make your agents production-ready.
 - [MV-Consulting/awscdk-rootmail](https://github.com/MV-Consulting/awscdk-rootmail) ([v0.0.336](https://github.com/MV-Consulting/awscdk-rootmail/releases/tag/v0.0.336), 1 month ago) - An opinionated way to secure your AWS root email boxes
