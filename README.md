@@ -23,7 +23,7 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
-- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v10.2.0](https://github.com/maxritter/pilot-shell/releases/tag/v10.2.0), 1 day ago) - How real engineers run Claude Code and Codex: spec-driven planning, enforced TDD, persistent memory, and quality enforcement on all levels. Make your agents production-ready.
+- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v10.2.1](https://github.com/maxritter/pilot-shell/releases/tag/v10.2.1), today) - How real engineers run Claude Code and Codex: spec-driven planning, enforced TDD, persistent memory, and quality enforcement on all levels. Make your agents production-ready.
 - [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) ([v0.1.1](https://github.com/mavogel/awscdk-rootmail/releases/tag/v0.1.1), 2 days ago) - An opinionated way to secure your AWS root email boxes
 - [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) ([v0.0.98](https://github.com/mavogel/cdk-vscode-server/releases/tag/v0.0.98), 2 days ago) - Set up your own VSCode Server on AWS in under 10 minutes
 - [mavogel/cdk-hugo-pipeline](https://github.com/mavogel/cdk-hugo-pipeline) ([v0.0.429](https://github.com/mavogel/cdk-hugo-pipeline/releases/tag/v0.0.429), 2 days ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
