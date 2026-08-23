@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [openai/plugins](https://github.com/openai/plugins) - OpenAI Plugins (today)
+- [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex (today)
 - [dedene/zentty](https://github.com/dedene/zentty) - A native macOS terminal for agent-driven development, built on Ghostty. (6 days ago)
 - [0hardik1/awsmux](https://github.com/0hardik1/awsmux) - Run one AWS CLI command across hundreds of AWS accounts in parallel. MCP built in for AI agents. (4 weeks ago)
 - [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, Codex, and Hermes. (1 month ago)
-- [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI&#39;s Whisper model in C/C&#43;&#43; (1 month ago)
-- [MinishLab/semble](https://github.com/MinishLab/semble) - Fast and Accurate Code Search for Agents. Uses 99% fewer tokens than grep&#43;read (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
