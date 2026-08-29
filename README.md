@@ -23,7 +23,7 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
-- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v10.7.3](https://github.com/maxritter/pilot-shell/releases/tag/v10.7.3), today) - How real engineers run Claude Code and Codex: spec-driven planning, enforced TDD, persistent memory, and quality enforcement on all levels. Make your agents production-ready.
+- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v10.7.3](https://github.com/maxritter/pilot-shell/releases/tag/v10.7.3), 1 day ago) - How real engineers run Claude Code and Codex: spec-driven planning, enforced TDD, persistent memory, and quality enforcement on all levels. Make your agents production-ready.
 - [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) ([v0.1.1](https://github.com/mavogel/awscdk-rootmail/releases/tag/v0.1.1), 2 weeks ago) - An opinionated way to secure your AWS root email boxes
 - [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) ([v0.0.98](https://github.com/mavogel/cdk-vscode-server/releases/tag/v0.0.98), 2 weeks ago) - Set up your own VSCode Server on AWS in under 10 minutes
 - [mavogel/cdk-hugo-pipeline](https://github.com/mavogel/cdk-hugo-pipeline) ([v0.0.429](https://github.com/mavogel/cdk-hugo-pipeline/releases/tag/v0.0.429), 2 weeks ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
@@ -31,8 +31,8 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
-- [openai/plugins](https://github.com/openai/plugins) - OpenAI Plugins (5 days ago)
-- [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex (5 days ago)
+- [openai/plugins](https://github.com/openai/plugins) - OpenAI Plugins (6 days ago)
+- [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex (6 days ago)
 - [dedene/zentty](https://github.com/dedene/zentty) - A native macOS terminal for agent-driven development, built on Ghostty. (1 week ago)
 - [0hardik1/awsmux](https://github.com/0hardik1/awsmux) - Run one AWS CLI command across hundreds of AWS accounts in parallel. MCP built in for AI agents. (1 month ago)
 - [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, Codex, and Hermes. (1 month ago)
