@@ -23,7 +23,7 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
-- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v10.8.0](https://github.com/maxritter/pilot-shell/releases/tag/v10.8.0), 1 day ago) - How real engineers run Claude Code and Codex: spec-driven planning, enforced TDD, persistent memory, and quality enforcement on all levels. Make your agents production-ready.
+- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v10.9.0](https://github.com/maxritter/pilot-shell/releases/tag/v10.9.0), today) - Professional context and harness engineering for Claude Code and OpenAI Codex. Build production-grade software with spec-driven development, TDD, persistent memory, quality gates, code intelligence, human oversight, and end-to-end verification.
 - [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) ([v0.1.1](https://github.com/mavogel/awscdk-rootmail/releases/tag/v0.1.1), 3 weeks ago) - An opinionated way to secure your AWS root email boxes
 - [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) ([v0.0.98](https://github.com/mavogel/cdk-vscode-server/releases/tag/v0.0.98), 3 weeks ago) - Set up your own VSCode Server on AWS in under 10 minutes
 - [mavogel/cdk-hugo-pipeline](https://github.com/mavogel/cdk-hugo-pipeline) ([v0.0.429](https://github.com/mavogel/cdk-hugo-pipeline/releases/tag/v0.0.429), 3 weeks ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [maxritter/open-claude-design](https://github.com/maxritter/open-claude-design) - Bring Claude Design to Claude Code, Codex, OpenCode, and 20&#43; coding agents. Cross-platform CLI with automatic Agent Skills, codebase-grounded UI design, design-system sync, visual review, Impeccable integration, and conflict-safe MCP workflows. (today)
 - [openai/plugins](https://github.com/openai/plugins) - OpenAI Plugins (1 week ago)
 - [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex (1 week ago)
 - [dedene/zentty](https://github.com/dedene/zentty) - A native macOS terminal for agent-driven development, built on Ghostty. (2 weeks ago)
 - [0hardik1/awsmux](https://github.com/0hardik1/awsmux) - Run one AWS CLI command across hundreds of AWS accounts in parallel. MCP built in for AI agents. (1 month ago)
-- [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, Codex, and Hermes. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
