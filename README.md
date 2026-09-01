@@ -31,7 +31,7 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
-- [maxritter/open-claude-design](https://github.com/maxritter/open-claude-design) - Bring Claude Design to Claude Code, Codex, OpenCode, and 20&#43; coding agents. Cross-platform CLI with automatic Agent Skills, codebase-grounded UI design, design-system sync, visual review, Impeccable integration, and conflict-safe MCP workflows. (1 day ago)
+- [maxritter/open-claude-design](https://github.com/maxritter/open-claude-design) - Claude Design in Claude Code, Codex, Cursor, and 20&#43; agents. Designs come from your real components, tokens, and states; approved revisions sync back. (1 day ago)
 - [openai/plugins](https://github.com/openai/plugins) - OpenAI Plugins (1 week ago)
 - [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex (1 week ago)
 - [dedene/zentty](https://github.com/dedene/zentty) - A native macOS terminal for agent-driven development, built on Ghostty. (2 weeks ago)
