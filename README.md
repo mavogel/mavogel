@@ -23,7 +23,7 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
-- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v10.11.0](https://github.com/maxritter/pilot-shell/releases/tag/v10.11.0), today) - Professional context and harness engineering for Claude Code and OpenAI Codex. Build production-grade software with spec-driven development, TDD, persistent memory, quality gates, code intelligence, human oversight, and end-to-end verification.
+- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v10.11.1](https://github.com/maxritter/pilot-shell/releases/tag/v10.11.1), today) - Professional context and harness engineering for Claude Code and OpenAI Codex. Build production-grade software with spec-driven development, TDD, persistent memory, quality gates, code intelligence, human oversight, and end-to-end verification.
 - [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) ([v0.0.99](https://github.com/mavogel/cdk-vscode-server/releases/tag/v0.0.99), 2 days ago) - Set up your own VSCode Server on AWS in under 10 minutes
 - [mavogel/mvc-projen](https://github.com/mavogel/mvc-projen) ([v0.0.31](https://github.com/mavogel/mvc-projen/releases/tag/v0.0.31), 2 days ago) - Projen templates for our projects
 - [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) ([v0.1.1](https://github.com/mavogel/awscdk-rootmail/releases/tag/v0.1.1), 3 weeks ago) - An opinionated way to secure your AWS root email boxes
