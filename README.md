@@ -31,17 +31,17 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [nklmilojevic/sofka](https://github.com/nklmilojevic/sofka) - A Kubernetes TUI, reimagined in Rust - built on kube-rs and ratatui, async-first from the ground up. (today)
 - [maxritter/open-claude-design](https://github.com/maxritter/open-claude-design) - Claude Design in Claude Code, Codex, Cursor, and 20&#43; agents. Designs come from your real components, tokens, and states; approved revisions sync back. (6 days ago)
 - [openai/plugins](https://github.com/openai/plugins) - OpenAI Plugins (2 weeks ago)
 - [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex (2 weeks ago)
 - [dedene/zentty](https://github.com/dedene/zentty) - A native macOS terminal for agent-driven development, built on Ghostty. (2 weeks ago)
-- [0hardik1/awsmux](https://github.com/0hardik1/awsmux) - Run one AWS CLI command across hundreds of AWS accounts in parallel. MCP built in for AI agents. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
+- [poormikey80-create](https://github.com/poormikey80-create)
 - [AtlantisDe](https://github.com/AtlantisDe)
 - [ashish-sumboo](https://github.com/ashish-sumboo)
-- [javi0guerrero4-cloud](https://github.com/javi0guerrero4-cloud)
 
 
 
