@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes. (today)
 - [nklmilojevic/sofka](https://github.com/nklmilojevic/sofka) - A Kubernetes TUI, reimagined in Rust - built on kube-rs and ratatui, async-first from the ground up. (5 days ago)
 - [maxritter/open-claude-design](https://github.com/maxritter/open-claude-design) - Claude Design in Claude Code, Codex, Cursor, and 20&#43; agents. Designs come from your real components, tokens, and states; approved revisions sync back. (1 week ago)
 - [openai/plugins](https://github.com/openai/plugins) - OpenAI Plugins (2 weeks ago)
 - [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex (2 weeks ago)
-- [dedene/zentty](https://github.com/dedene/zentty) - A native macOS terminal for agent-driven development, built on Ghostty. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
