@@ -23,7 +23,7 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
-- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v11.0.2](https://github.com/maxritter/pilot-shell/releases/tag/v11.0.2), 1 day ago) - Professional context and harness engineering for Claude Code and OpenAI Codex. Build production-grade software with spec-driven development, TDD, persistent memory, quality gates, code intelligence, human oversight, and end-to-end verification.
+- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v11.0.2](https://github.com/maxritter/pilot-shell/releases/tag/v11.0.2), 2 days ago) - Professional context and harness engineering for Claude Code and OpenAI Codex. Build production-grade software with spec-driven development, TDD, persistent memory, quality gates, code intelligence, human oversight, and end-to-end verification.
 - [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) ([v0.0.99](https://github.com/mavogel/cdk-vscode-server/releases/tag/v0.0.99), 1 week ago) - Set up your own VSCode Server on AWS in under 10 minutes
 - [mavogel/mvc-projen](https://github.com/mavogel/mvc-projen) ([v0.0.31](https://github.com/mavogel/mvc-projen/releases/tag/v0.0.31), 1 week ago) - Projen templates for our projects
 - [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) ([v0.1.1](https://github.com/mavogel/awscdk-rootmail/releases/tag/v0.1.1), 1 month ago) - An opinionated way to secure your AWS root email boxes
@@ -31,7 +31,7 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
-- [nklmilojevic/sofka](https://github.com/nklmilojevic/sofka) - A Kubernetes TUI, reimagined in Rust - built on kube-rs and ratatui, async-first from the ground up. (4 days ago)
+- [nklmilojevic/sofka](https://github.com/nklmilojevic/sofka) - A Kubernetes TUI, reimagined in Rust - built on kube-rs and ratatui, async-first from the ground up. (5 days ago)
 - [maxritter/open-claude-design](https://github.com/maxritter/open-claude-design) - Claude Design in Claude Code, Codex, Cursor, and 20&#43; agents. Designs come from your real components, tokens, and states; approved revisions sync back. (1 week ago)
 - [openai/plugins](https://github.com/openai/plugins) - OpenAI Plugins (2 weeks ago)
 - [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex (2 weeks ago)
