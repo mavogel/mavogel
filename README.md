@@ -15,7 +15,7 @@ I 💕 a good onboarding readme with good example.
 
 #### 👷 Check out what I'm currently working on
 
-- [mavogel/mvc-projen](https://github.com/mavogel/mvc-projen) - Projen templates for our projects (1 week ago)
+- [mavogel/mvc-projen](https://github.com/mavogel/mvc-projen) - Projen templates for our projects (today)
 - [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) - Set up your own VSCode Server on AWS in under 10 minutes (1 month ago)
 - [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (1 month ago)
 - [mavogel/projen-cdk-hugo-pipeline](https://github.com/mavogel/projen-cdk-hugo-pipeline) - The corresponding projen template for the AWS CDK Construct (1 month ago)
@@ -23,9 +23,9 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
+- [mavogel/mvc-projen](https://github.com/mavogel/mvc-projen) ([v0.0.34](https://github.com/mavogel/mvc-projen/releases/tag/v0.0.34), today) - Projen templates for our projects
 - [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v11.0.2](https://github.com/maxritter/pilot-shell/releases/tag/v11.0.2), 3 days ago) - Professional context and harness engineering for Claude Code and OpenAI Codex. Build production-grade software with spec-driven development, TDD, persistent memory, quality gates, code intelligence, human oversight, and end-to-end verification.
 - [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) ([v0.0.99](https://github.com/mavogel/cdk-vscode-server/releases/tag/v0.0.99), 1 week ago) - Set up your own VSCode Server on AWS in under 10 minutes
-- [mavogel/mvc-projen](https://github.com/mavogel/mvc-projen) ([v0.0.31](https://github.com/mavogel/mvc-projen/releases/tag/v0.0.31), 1 week ago) - Projen templates for our projects
 - [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) ([v0.1.1](https://github.com/mavogel/awscdk-rootmail/releases/tag/v0.1.1), 1 month ago) - An opinionated way to secure your AWS root email boxes
 - [mavogel/cdk-hugo-pipeline](https://github.com/mavogel/cdk-hugo-pipeline) ([v0.0.429](https://github.com/mavogel/cdk-hugo-pipeline/releases/tag/v0.0.429), 1 month ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
 
