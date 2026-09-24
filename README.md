@@ -23,10 +23,10 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
-- [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) ([v0.0.110](https://github.com/mavogel/cdk-vscode-server/releases/tag/v0.0.110), today) - Set up your own VSCode Server on AWS in under 10 minutes
-- [mavogel/mvc-projen](https://github.com/mavogel/mvc-projen) ([v0.0.45](https://github.com/mavogel/mvc-projen/releases/tag/v0.0.45), 2 days ago) - Projen templates for our projects
-- [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) ([v0.1.5](https://github.com/mavogel/awscdk-rootmail/releases/tag/v0.1.5), 4 days ago) - An opinionated way to secure your AWS root email boxes
-- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v11.0.5](https://github.com/maxritter/pilot-shell/releases/tag/v11.0.5), 5 days ago) - Professional context and harness engineering for Claude Code and OpenAI Codex. Build production-grade software with spec-driven development, TDD, persistent memory, quality gates, code intelligence, human oversight, and end-to-end verification.
+- [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) ([v0.0.110](https://github.com/mavogel/cdk-vscode-server/releases/tag/v0.0.110), 1 day ago) - Set up your own VSCode Server on AWS in under 10 minutes
+- [mavogel/mvc-projen](https://github.com/mavogel/mvc-projen) ([v0.0.45](https://github.com/mavogel/mvc-projen/releases/tag/v0.0.45), 3 days ago) - Projen templates for our projects
+- [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) ([v0.1.5](https://github.com/mavogel/awscdk-rootmail/releases/tag/v0.1.5), 5 days ago) - An opinionated way to secure your AWS root email boxes
+- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v11.0.5](https://github.com/maxritter/pilot-shell/releases/tag/v11.0.5), 6 days ago) - Professional context and harness engineering for Claude Code and OpenAI Codex. Build production-grade software with spec-driven development, TDD, persistent memory, quality gates, code intelligence, human oversight, and end-to-end verification.
 - [mavogel/cdk-hugo-pipeline](https://github.com/mavogel/cdk-hugo-pipeline) ([v0.0.429](https://github.com/mavogel/cdk-hugo-pipeline/releases/tag/v0.0.429), 1 month ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
 
 #### ⭐ Recent Stars
