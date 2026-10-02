@@ -23,16 +23,16 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
-- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v12.0.0-beta.2](https://github.com/maxritter/pilot-shell/releases/tag/v12.0.0-beta.2), today) - Professional context and harness engineering for Claude Code and OpenAI Codex. Build production-grade software with spec-driven development, TDD, persistent memory, quality gates, code intelligence, human oversight, and end-to-end verification.
-- [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) ([v0.0.117](https://github.com/mavogel/cdk-vscode-server/releases/tag/v0.0.117), today) - Set up your own VSCode Server on AWS in under 10 minutes
-- [mavogel/mvc-projen](https://github.com/mavogel/mvc-projen) ([v0.0.49](https://github.com/mavogel/mvc-projen/releases/tag/v0.0.49), 3 days ago) - Projen templates for our projects
-- [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) ([v0.1.6](https://github.com/mavogel/awscdk-rootmail/releases/tag/v0.1.6), 5 days ago) - An opinionated way to secure your AWS root email boxes
+- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v12.0.0-beta.4](https://github.com/maxritter/pilot-shell/releases/tag/v12.0.0-beta.4), 1 day ago) - Professional context and harness engineering for Claude Code and OpenAI Codex. Build production-grade software with spec-driven development, TDD, persistent memory, quality gates, code intelligence, human oversight, and end-to-end verification.
+- [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) ([v0.0.117](https://github.com/mavogel/cdk-vscode-server/releases/tag/v0.0.117), 1 day ago) - Set up your own VSCode Server on AWS in under 10 minutes
+- [mavogel/mvc-projen](https://github.com/mavogel/mvc-projen) ([v0.0.49](https://github.com/mavogel/mvc-projen/releases/tag/v0.0.49), 4 days ago) - Projen templates for our projects
+- [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) ([v0.1.6](https://github.com/mavogel/awscdk-rootmail/releases/tag/v0.1.6), 6 days ago) - An opinionated way to secure your AWS root email boxes
 - [mavogel/cdk-hugo-pipeline](https://github.com/mavogel/cdk-hugo-pipeline) ([v0.0.429](https://github.com/mavogel/cdk-hugo-pipeline/releases/tag/v0.0.429), 1 month ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
 
 #### ⭐ Recent Stars
 
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions (2 weeks ago)
-- [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes. (2 weeks ago)
+- [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes. (3 weeks ago)
 - [nklmilojevic/sofka](https://github.com/nklmilojevic/sofka) - A Kubernetes TUI, reimagined in Rust - built on kube-rs and ratatui, async-first from the ground up. (3 weeks ago)
 - [maxritter/open-claude-design](https://github.com/maxritter/open-claude-design) - Claude Design in Claude Code, Codex, Cursor, and 20&#43; agents. Designs come from your real components, tokens, and states; approved revisions sync back. (1 month ago)
 - [openai/plugins](https://github.com/openai/plugins) - OpenAI Plugins (1 month ago)
