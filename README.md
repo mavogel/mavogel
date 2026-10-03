@@ -32,7 +32,7 @@ I 💕 a good onboarding readme with good example.
 #### ⭐ Recent Stars
 
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️  (1 day ago)
-- [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions (2 weeks ago)
+- [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions (and more) (2 weeks ago)
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes. (3 weeks ago)
 - [nklmilojevic/sofka](https://github.com/nklmilojevic/sofka) - A Kubernetes TUI, reimagined in Rust - built on kube-rs and ratatui, async-first from the ground up. (3 weeks ago)
 - [maxritter/open-claude-design](https://github.com/maxritter/open-claude-design) - Claude Design in Claude Code, Codex, Cursor, and 20&#43; agents. Designs come from your real components, tokens, and states; approved revisions sync back. (1 month ago)
