@@ -15,17 +15,17 @@ I 💕 a good onboarding readme with good example.
 
 #### 👷 Check out what I'm currently working on
 
+- [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) - Set up your own VSCode Server on AWS in under 10 minutes (today)
 - [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (1 day ago)
-- [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) - Set up your own VSCode Server on AWS in under 10 minutes (1 day ago)
 - [mavogel/mvc-projen](https://github.com/mavogel/mvc-projen) - Projen templates for our projects (2 weeks ago)
 - [mavogel/s3-cdk-assets-bootstrap](https://github.com/mavogel/s3-cdk-assets-bootstrap) - Bootstraps your AWS accounts with S3 asset buckets per region and a release bucket. Additionally creates IAM roles for GitHub Actions OICD roles. (3 weeks ago)
 - [mavogel/projen-cdk-hugo-pipeline](https://github.com/mavogel/projen-cdk-hugo-pipeline) - The corresponding projen template for the AWS CDK Construct (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) ([v0.0.124](https://github.com/mavogel/cdk-vscode-server/releases/tag/v0.0.124), today) - Set up your own VSCode Server on AWS in under 10 minutes
-- [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) ([v0.1.10](https://github.com/mavogel/awscdk-rootmail/releases/tag/v0.1.10), 1 day ago) - An opinionated way to secure your AWS root email boxes
-- [mavogel/mvc-projen](https://github.com/mavogel/mvc-projen) ([v0.0.50](https://github.com/mavogel/mvc-projen/releases/tag/v0.0.50), 2 days ago) - Projen templates for our projects
+- [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) ([v0.1.11](https://github.com/mavogel/awscdk-rootmail/releases/tag/v0.1.11), today) - An opinionated way to secure your AWS root email boxes
+- [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) ([v0.0.128](https://github.com/mavogel/cdk-vscode-server/releases/tag/v0.0.128), today) - Set up your own VSCode Server on AWS in under 10 minutes
+- [mavogel/mvc-projen](https://github.com/mavogel/mvc-projen) ([v0.0.53](https://github.com/mavogel/mvc-projen/releases/tag/v0.0.53), today) - Projen templates for our projects
 - [mavogel/cdk-hugo-pipeline](https://github.com/mavogel/cdk-hugo-pipeline) ([v0.0.429](https://github.com/mavogel/cdk-hugo-pipeline/releases/tag/v0.0.429), 1 month ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
 - [mavogel/projen-cdk-hugo-pipeline](https://github.com/mavogel/projen-cdk-hugo-pipeline) ([v0.0.467](https://github.com/mavogel/projen-cdk-hugo-pipeline/releases/tag/v0.0.467), 1 month ago) - The corresponding projen template for the AWS CDK Construct
 
@@ -35,7 +35,7 @@ I 💕 a good onboarding readme with good example.
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions (and more) (3 weeks ago)
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes. (3 weeks ago)
 - [nklmilojevic/sofka](https://github.com/nklmilojevic/sofka) - A Kubernetes TUI, reimagined in Rust - built on kube-rs and ratatui, async-first from the ground up. (4 weeks ago)
-- [maxritter/open-claude-design](https://github.com/maxritter/open-claude-design) - Claude Design in Claude Code, Codex, Cursor, and 20&#43; agents. Designs come from your real components, tokens, and states; approved revisions sync back. (1 month ago)
+- [maxritter/open-claude-design](https://github.com/maxritter/open-claude-design) - Use Claude Design from Claude Code, Codex, Cursor, Gemini CLI, and 70&#43; coding agents. Create designs from your real codebase, refine them on the canvas, and sync every change back. One installer, no MCP setup. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
