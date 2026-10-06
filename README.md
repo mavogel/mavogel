@@ -23,7 +23,7 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
-- [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) ([v0.0.129](https://github.com/mavogel/cdk-vscode-server/releases/tag/v0.0.129), today) - Set up your own VSCode Server on AWS in under 10 minutes
+- [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) ([v0.0.130](https://github.com/mavogel/cdk-vscode-server/releases/tag/v0.0.130), today) - Set up your own VSCode Server on AWS in under 10 minutes
 - [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) ([v0.1.12](https://github.com/mavogel/awscdk-rootmail/releases/tag/v0.1.12), today) - An opinionated way to secure your AWS root email boxes
 - [mavogel/mvc-projen](https://github.com/mavogel/mvc-projen) ([v0.0.53](https://github.com/mavogel/mvc-projen/releases/tag/v0.0.53), 1 day ago) - Projen templates for our projects
 - [mavogel/cdk-hugo-pipeline](https://github.com/mavogel/cdk-hugo-pipeline) ([v0.0.429](https://github.com/mavogel/cdk-hugo-pipeline/releases/tag/v0.0.429), 1 month ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) - Find leaked secrets everywhere. (today)
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️  (4 days ago)
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions (and more) (3 weeks ago)
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes. (3 weeks ago)
 - [nklmilojevic/sofka](https://github.com/nklmilojevic/sofka) - A Kubernetes TUI, reimagined in Rust - built on kube-rs and ratatui, async-first from the ground up. (1 month ago)
-- [maxritter/open-claude-design](https://github.com/maxritter/open-claude-design) - Use Claude Design from Claude Code, Codex, Cursor, Gemini CLI, and 70&#43; coding agents. Create designs from your real codebase, refine them on the canvas, and sync every change back. One installer, no MCP setup. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
