@@ -23,19 +23,19 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
+- [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) ([v0.0.131](https://github.com/mavogel/cdk-vscode-server/releases/tag/v0.0.131), today) - Set up your own VSCode Server on AWS in under 10 minutes
+- [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) ([v0.1.13](https://github.com/mavogel/awscdk-rootmail/releases/tag/v0.1.13), today) - An opinionated way to secure your AWS root email boxes
 - [mavogel/toolbox](https://github.com/mavogel/toolbox) ([v1.1.0](https://github.com/mavogel/toolbox/releases/tag/v1.1.0), 1 day ago) - My toolbox container for debugging
-- [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) ([v0.0.130](https://github.com/mavogel/cdk-vscode-server/releases/tag/v0.0.130), 1 day ago) - Set up your own VSCode Server on AWS in under 10 minutes
-- [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) ([v0.1.12](https://github.com/mavogel/awscdk-rootmail/releases/tag/v0.1.12), 1 day ago) - An opinionated way to secure your AWS root email boxes
 - [mavogel/mvc-projen](https://github.com/mavogel/mvc-projen) ([v0.0.53](https://github.com/mavogel/mvc-projen/releases/tag/v0.0.53), 2 days ago) - Projen templates for our projects
 - [mavogel/cdk-hugo-pipeline](https://github.com/mavogel/cdk-hugo-pipeline) ([v0.0.429](https://github.com/mavogel/cdk-hugo-pipeline/releases/tag/v0.0.429), 1 month ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
 
 #### ⭐ Recent Stars
 
+- [towardsthecloud/aws-toolbox](https://github.com/towardsthecloud/aws-toolbox) - Blazing fast aws cli tool that helps you automate routine tasks on AWS Cloud. (today)
 - [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) - Find leaked secrets everywhere. (1 day ago)
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️  (5 days ago)
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions (and more) (3 weeks ago)
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes. (3 weeks ago)
-- [nklmilojevic/sofka](https://github.com/nklmilojevic/sofka) - A Kubernetes TUI, reimagined in Rust - built on kube-rs and ratatui, async-first from the ground up. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
