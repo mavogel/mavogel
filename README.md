@@ -15,25 +15,25 @@ I 💕 a good onboarding readme with good example.
 
 #### 👷 Check out what I'm currently working on
 
-- [mavogel/toolbox](https://github.com/mavogel/toolbox) - My toolbox container for debugging (1 day ago)
-- [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) - Set up your own VSCode Server on AWS in under 10 minutes (2 days ago)
-- [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (3 days ago)
+- [mavogel/toolbox](https://github.com/mavogel/toolbox) - My toolbox container for debugging (2 days ago)
+- [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) - Set up your own VSCode Server on AWS in under 10 minutes (3 days ago)
+- [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (4 days ago)
 - [mavogel/mvc-projen](https://github.com/mavogel/mvc-projen) - Projen templates for our projects (3 weeks ago)
 - [mavogel/s3-cdk-assets-bootstrap](https://github.com/mavogel/s3-cdk-assets-bootstrap) - Bootstraps your AWS accounts with S3 asset buckets per region and a release bucket. Additionally creates IAM roles for GitHub Actions OICD roles. (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) ([v0.0.131](https://github.com/mavogel/cdk-vscode-server/releases/tag/v0.0.131), today) - Set up your own VSCode Server on AWS in under 10 minutes
-- [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) ([v0.1.13](https://github.com/mavogel/awscdk-rootmail/releases/tag/v0.1.13), today) - An opinionated way to secure your AWS root email boxes
-- [mavogel/toolbox](https://github.com/mavogel/toolbox) ([v1.1.0](https://github.com/mavogel/toolbox/releases/tag/v1.1.0), 1 day ago) - My toolbox container for debugging
-- [mavogel/mvc-projen](https://github.com/mavogel/mvc-projen) ([v0.0.53](https://github.com/mavogel/mvc-projen/releases/tag/v0.0.53), 2 days ago) - Projen templates for our projects
-- [mavogel/cdk-hugo-pipeline](https://github.com/mavogel/cdk-hugo-pipeline) ([v0.0.429](https://github.com/mavogel/cdk-hugo-pipeline/releases/tag/v0.0.429), 1 month ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
+- [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) ([v0.0.131](https://github.com/mavogel/cdk-vscode-server/releases/tag/v0.0.131), 1 day ago) - Set up your own VSCode Server on AWS in under 10 minutes
+- [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) ([v0.1.13](https://github.com/mavogel/awscdk-rootmail/releases/tag/v0.1.13), 1 day ago) - An opinionated way to secure your AWS root email boxes
+- [mavogel/toolbox](https://github.com/mavogel/toolbox) ([v1.1.0](https://github.com/mavogel/toolbox/releases/tag/v1.1.0), 2 days ago) - My toolbox container for debugging
+- [mavogel/mvc-projen](https://github.com/mavogel/mvc-projen) ([v0.0.53](https://github.com/mavogel/mvc-projen/releases/tag/v0.0.53), 3 days ago) - Projen templates for our projects
+- [mavogel/cdk-hugo-pipeline](https://github.com/mavogel/cdk-hugo-pipeline) ([v0.0.429](https://github.com/mavogel/cdk-hugo-pipeline/releases/tag/v0.0.429), 2 months ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
 
 #### ⭐ Recent Stars
 
-- [towardsthecloud/aws-toolbox](https://github.com/towardsthecloud/aws-toolbox) - Blazing fast aws cli tool that helps you automate routine tasks on AWS Cloud. (today)
-- [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) - Find leaked secrets everywhere. (1 day ago)
-- [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️  (5 days ago)
+- [towardsthecloud/aws-toolbox](https://github.com/towardsthecloud/aws-toolbox) - Blazing fast aws cli tool that helps you automate routine tasks on AWS Cloud. (1 day ago)
+- [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) - Find leaked secrets everywhere. (2 days ago)
+- [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️  (6 days ago)
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions (and more) (3 weeks ago)
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes. (3 weeks ago)
 
