@@ -23,10 +23,10 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
+- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v12.0.0-beta.28](https://github.com/maxritter/pilot-shell/releases/tag/v12.0.0-beta.28), today) - Professional context and harness engineering for Claude Code and OpenAI Codex. Build production-grade software with spec-driven development, TDD, persistent memory, quality gates, code intelligence, human oversight, and end-to-end verification.
 - [mavogel/toolbox](https://github.com/mavogel/toolbox) ([v1.1.1](https://github.com/mavogel/toolbox/releases/tag/v1.1.1), today) - My toolbox container for debugging
 - [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) ([v0.0.134](https://github.com/mavogel/cdk-vscode-server/releases/tag/v0.0.134), today) - Set up your own VSCode Server on AWS in under 10 minutes
 - [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) ([v0.1.14](https://github.com/mavogel/awscdk-rootmail/releases/tag/v0.1.14), today) - An opinionated way to secure your AWS root email boxes
-- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v11.0.7](https://github.com/maxritter/pilot-shell/releases/tag/v11.0.7), 1 day ago) - Professional context and harness engineering for Claude Code and OpenAI Codex. Build production-grade software with spec-driven development, TDD, persistent memory, quality gates, code intelligence, human oversight, and end-to-end verification.
 - [mavogel/mvc-projen](https://github.com/mavogel/mvc-projen) ([v0.0.53](https://github.com/mavogel/mvc-projen/releases/tag/v0.0.53), 4 days ago) - Projen templates for our projects
 
 #### ⭐ Recent Stars
