@@ -15,7 +15,7 @@ I 💕 a good onboarding readme with good example.
 
 #### 👷 Check out what I'm currently working on
 
-- [mavogel/toolbox](https://github.com/mavogel/toolbox) - My toolbox container for debugging (3 days ago)
+- [mavogel/toolbox](https://github.com/mavogel/toolbox) - My toolbox container for debugging (today)
 - [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) - Set up your own VSCode Server on AWS in under 10 minutes (4 days ago)
 - [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (5 days ago)
 - [mavogel/mvc-projen](https://github.com/mavogel/mvc-projen) - Projen templates for our projects (3 weeks ago)
@@ -23,19 +23,19 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
-- [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) ([v0.0.133](https://github.com/mavogel/cdk-vscode-server/releases/tag/v0.0.133), 1 day ago) - Set up your own VSCode Server on AWS in under 10 minutes
+- [mavogel/toolbox](https://github.com/mavogel/toolbox) ([v1.1.1](https://github.com/mavogel/toolbox/releases/tag/v1.1.1), today) - My toolbox container for debugging
+- [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) ([v0.0.134](https://github.com/mavogel/cdk-vscode-server/releases/tag/v0.0.134), today) - Set up your own VSCode Server on AWS in under 10 minutes
+- [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) ([v0.1.14](https://github.com/mavogel/awscdk-rootmail/releases/tag/v0.1.14), today) - An opinionated way to secure your AWS root email boxes
 - [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v11.0.7](https://github.com/maxritter/pilot-shell/releases/tag/v11.0.7), 1 day ago) - Professional context and harness engineering for Claude Code and OpenAI Codex. Build production-grade software with spec-driven development, TDD, persistent memory, quality gates, code intelligence, human oversight, and end-to-end verification.
-- [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) ([v0.1.13](https://github.com/mavogel/awscdk-rootmail/releases/tag/v0.1.13), 2 days ago) - An opinionated way to secure your AWS root email boxes
-- [mavogel/toolbox](https://github.com/mavogel/toolbox) ([v1.1.0](https://github.com/mavogel/toolbox/releases/tag/v1.1.0), 3 days ago) - My toolbox container for debugging
 - [mavogel/mvc-projen](https://github.com/mavogel/mvc-projen) ([v0.0.53](https://github.com/mavogel/mvc-projen/releases/tag/v0.0.53), 4 days ago) - Projen templates for our projects
 
 #### ⭐ Recent Stars
 
+- [achankra/peh](https://github.com/achankra/peh) - Packt Platform Engineer&#39;s Handbook (today)
+- [microsoft/apm](https://github.com/microsoft/apm) - Agent Package Manager (today)
 - [towardsthecloud/aws-toolbox](https://github.com/towardsthecloud/aws-toolbox) - Blazing fast aws cli tool that helps you automate routine tasks on AWS Cloud. (2 days ago)
 - [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) - Find leaked secrets everywhere. (3 days ago)
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️  (1 week ago)
-- [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions (and more) (3 weeks ago)
-- [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes. (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
