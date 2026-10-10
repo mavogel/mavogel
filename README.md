@@ -15,26 +15,26 @@ I 💕 a good onboarding readme with good example.
 
 #### 👷 Check out what I'm currently working on
 
-- [mavogel/toolbox](https://github.com/mavogel/toolbox) - My toolbox container for debugging (today)
-- [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) - Set up your own VSCode Server on AWS in under 10 minutes (4 days ago)
-- [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (5 days ago)
+- [mavogel/toolbox](https://github.com/mavogel/toolbox) - My toolbox container for debugging (1 day ago)
+- [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) - Set up your own VSCode Server on AWS in under 10 minutes (5 days ago)
+- [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (6 days ago)
 - [mavogel/mvc-projen](https://github.com/mavogel/mvc-projen) - Projen templates for our projects (3 weeks ago)
 - [mavogel/s3-cdk-assets-bootstrap](https://github.com/mavogel/s3-cdk-assets-bootstrap) - Bootstraps your AWS accounts with S3 asset buckets per region and a release bucket. Additionally creates IAM roles for GitHub Actions OICD roles. (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v12.0.0-beta.28](https://github.com/maxritter/pilot-shell/releases/tag/v12.0.0-beta.28), today) - Professional context and harness engineering for Claude Code and OpenAI Codex. Build production-grade software with spec-driven development, TDD, persistent memory, quality gates, code intelligence, human oversight, and end-to-end verification.
-- [mavogel/toolbox](https://github.com/mavogel/toolbox) ([v1.1.1](https://github.com/mavogel/toolbox/releases/tag/v1.1.1), today) - My toolbox container for debugging
-- [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) ([v0.0.134](https://github.com/mavogel/cdk-vscode-server/releases/tag/v0.0.134), today) - Set up your own VSCode Server on AWS in under 10 minutes
-- [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) ([v0.1.14](https://github.com/mavogel/awscdk-rootmail/releases/tag/v0.1.14), today) - An opinionated way to secure your AWS root email boxes
-- [mavogel/mvc-projen](https://github.com/mavogel/mvc-projen) ([v0.0.53](https://github.com/mavogel/mvc-projen/releases/tag/v0.0.53), 4 days ago) - Projen templates for our projects
+- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v12.0.0-beta.29](https://github.com/maxritter/pilot-shell/releases/tag/v12.0.0-beta.29), today) - Professional context and harness engineering for Claude Code and OpenAI Codex. Build production-grade software with spec-driven development, TDD, persistent memory, quality gates, code intelligence, human oversight, and end-to-end verification.
+- [mavogel/toolbox](https://github.com/mavogel/toolbox) ([v1.1.1](https://github.com/mavogel/toolbox/releases/tag/v1.1.1), 1 day ago) - My toolbox container for debugging
+- [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) ([v0.0.134](https://github.com/mavogel/cdk-vscode-server/releases/tag/v0.0.134), 1 day ago) - Set up your own VSCode Server on AWS in under 10 minutes
+- [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) ([v0.1.14](https://github.com/mavogel/awscdk-rootmail/releases/tag/v0.1.14), 1 day ago) - An opinionated way to secure your AWS root email boxes
+- [mavogel/mvc-projen](https://github.com/mavogel/mvc-projen) ([v0.0.53](https://github.com/mavogel/mvc-projen/releases/tag/v0.0.53), 5 days ago) - Projen templates for our projects
 
 #### ⭐ Recent Stars
 
-- [achankra/peh](https://github.com/achankra/peh) - Packt Platform Engineer&#39;s Handbook (today)
-- [microsoft/apm](https://github.com/microsoft/apm) - Agent Package Manager (today)
-- [towardsthecloud/aws-toolbox](https://github.com/towardsthecloud/aws-toolbox) - Blazing fast aws cli tool that helps you automate routine tasks on AWS Cloud. (2 days ago)
-- [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) - Find leaked secrets everywhere. (3 days ago)
+- [achankra/peh](https://github.com/achankra/peh) - Packt Platform Engineer&#39;s Handbook (1 day ago)
+- [microsoft/apm](https://github.com/microsoft/apm) - Agent Package Manager (1 day ago)
+- [towardsthecloud/aws-toolbox](https://github.com/towardsthecloud/aws-toolbox) - Blazing fast aws cli tool that helps you automate routine tasks on AWS Cloud. (3 days ago)
+- [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) - Find leaked secrets everywhere. (4 days ago)
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️  (1 week ago)
 
 #### 👯 Check out some of my recent followers
