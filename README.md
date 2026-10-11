@@ -15,15 +15,15 @@ I 💕 a good onboarding readme with good example.
 
 #### 👷 Check out what I'm currently working on
 
+- [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) - Set up your own VSCode Server on AWS in under 10 minutes (today)
 - [mavogel/toolbox](https://github.com/mavogel/toolbox) - My toolbox container for debugging (2 days ago)
-- [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) - Set up your own VSCode Server on AWS in under 10 minutes (6 days ago)
 - [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (1 week ago)
 - [mavogel/mvc-projen](https://github.com/mavogel/mvc-projen) - Projen templates for our projects (3 weeks ago)
 - [mavogel/s3-cdk-assets-bootstrap](https://github.com/mavogel/s3-cdk-assets-bootstrap) - Bootstraps your AWS accounts with S3 asset buckets per region and a release bucket. Additionally creates IAM roles for GitHub Actions OICD roles. (4 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) ([v0.0.137](https://github.com/mavogel/cdk-vscode-server/releases/tag/v0.0.137), today) - Set up your own VSCode Server on AWS in under 10 minutes
+- [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) ([v0.1.0](https://github.com/mavogel/cdk-vscode-server/releases/tag/v0.1.0), today) - Set up your own VSCode Server on AWS in under 10 minutes
 - [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) ([v0.1.16](https://github.com/mavogel/awscdk-rootmail/releases/tag/v0.1.16), today) - An opinionated way to secure your AWS root email boxes
 - [mavogel/mvc-projen](https://github.com/mavogel/mvc-projen) ([v0.0.54](https://github.com/mavogel/mvc-projen/releases/tag/v0.0.54), 1 day ago) - Projen templates for our projects
 - [mavogel/toolbox](https://github.com/mavogel/toolbox) ([v1.1.1](https://github.com/mavogel/toolbox/releases/tag/v1.1.1), 2 days ago) - My toolbox container for debugging
