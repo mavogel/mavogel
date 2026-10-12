@@ -18,8 +18,8 @@ I 💕 a good onboarding readme with good example.
 - [mavogel/mvc-projen](https://github.com/mavogel/mvc-projen) - Projen templates for our projects (today)
 - [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) - Set up your own VSCode Server on AWS in under 10 minutes (today)
 - [mavogel/toolbox](https://github.com/mavogel/toolbox) - My toolbox container for debugging (3 days ago)
+- [achankra/peh](https://github.com/achankra/peh) - Packt Platform Engineer&#39;s Handbook (4 days ago)
 - [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (1 week ago)
-- [mavogel/s3-cdk-assets-bootstrap](https://github.com/mavogel/s3-cdk-assets-bootstrap) - Bootstraps your AWS accounts with S3 asset buckets per region and a release bucket. Additionally creates IAM roles for GitHub Actions OICD roles. (4 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
