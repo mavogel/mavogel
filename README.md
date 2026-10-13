@@ -15,19 +15,19 @@ I 💕 a good onboarding readme with good example.
 
 #### 👷 Check out what I'm currently working on
 
-- [mavogel/mvc-projen](https://github.com/mavogel/mvc-projen) - Projen templates for our projects (1 day ago)
-- [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) - Set up your own VSCode Server on AWS in under 10 minutes (1 day ago)
+- [mavogel/mvc-projen](https://github.com/mavogel/mvc-projen) - Projen templates for our projects (today)
+- [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (today)
+- [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) - Set up your own VSCode Server on AWS in under 10 minutes (today)
 - [mavogel/toolbox](https://github.com/mavogel/toolbox) - My toolbox container for debugging (4 days ago)
 - [achankra/peh](https://github.com/achankra/peh) - Packt Platform Engineer&#39;s Handbook (5 days ago)
-- [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) ([v0.1.4](https://github.com/mavogel/cdk-vscode-server/releases/tag/v0.1.4), today) - Set up your own VSCode Server on AWS in under 10 minutes
-- [mavogel/mvc-projen](https://github.com/mavogel/mvc-projen) ([v0.0.59](https://github.com/mavogel/mvc-projen/releases/tag/v0.0.59), 1 day ago) - Projen templates for our projects
-- [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) ([v0.1.16](https://github.com/mavogel/awscdk-rootmail/releases/tag/v0.1.16), 2 days ago) - An opinionated way to secure your AWS root email boxes
+- [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) ([v0.1.7](https://github.com/mavogel/cdk-vscode-server/releases/tag/v0.1.7), today) - Set up your own VSCode Server on AWS in under 10 minutes
+- [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) ([v0.1.19](https://github.com/mavogel/awscdk-rootmail/releases/tag/v0.1.19), today) - An opinionated way to secure your AWS root email boxes
+- [mavogel/mvc-projen](https://github.com/mavogel/mvc-projen) ([v0.0.60](https://github.com/mavogel/mvc-projen/releases/tag/v0.0.60), today) - Projen templates for our projects
+- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v11.0.8](https://github.com/maxritter/pilot-shell/releases/tag/v11.0.8), today) - Professional context and harness engineering for Claude Code and OpenAI Codex. Build production-grade software with spec-driven development, TDD, persistent memory, quality gates, code intelligence, human oversight, and end-to-end verification.
 - [mavogel/toolbox](https://github.com/mavogel/toolbox) ([v1.1.1](https://github.com/mavogel/toolbox/releases/tag/v1.1.1), 4 days ago) - My toolbox container for debugging
-- [mavogel/cdk-hugo-pipeline](https://github.com/mavogel/cdk-hugo-pipeline) ([v0.0.429](https://github.com/mavogel/cdk-hugo-pipeline/releases/tag/v0.0.429), 2 months ago) - This is an AWS CDK Construct for building and deploying Hugo Static websites with an all-in-one infrastructure-as-code deployment on AWS
 
 #### ⭐ Recent Stars
 
