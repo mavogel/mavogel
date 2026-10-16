@@ -15,18 +15,18 @@ I 💕 a good onboarding readme with good example.
 
 #### 👷 Check out what I'm currently working on
 
+- [mavogel/homebrew-tap](https://github.com/mavogel/homebrew-tap) - My homebrew taps (today)
 - [mavogel/mvc-projen](https://github.com/mavogel/mvc-projen) - Projen templates for our projects (3 days ago)
 - [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (3 days ago)
 - [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) - Set up your own VSCode Server on AWS in under 10 minutes (3 days ago)
 - [mavogel/toolbox](https://github.com/mavogel/toolbox) - My toolbox container for debugging (1 week ago)
-- [achankra/peh](https://github.com/achankra/peh) - Packt Platform Engineer&#39;s Handbook (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v12.0.0-beta.57](https://github.com/maxritter/pilot-shell/releases/tag/v12.0.0-beta.57), today) - Professional context and harness engineering for Claude Code and OpenAI Codex. Build production-grade software with spec-driven development, TDD, persistent memory, quality gates, code intelligence, human oversight, and end-to-end verification.
 - [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) ([v0.1.10](https://github.com/mavogel/cdk-vscode-server/releases/tag/v0.1.10), today) - Set up your own VSCode Server on AWS in under 10 minutes
 - [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) ([v0.1.22](https://github.com/mavogel/awscdk-rootmail/releases/tag/v0.1.22), today) - An opinionated way to secure your AWS root email boxes
 - [mavogel/toolbox](https://github.com/mavogel/toolbox) ([v1.1.3](https://github.com/mavogel/toolbox/releases/tag/v1.1.3), 1 day ago) - My toolbox container for debugging
-- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v12.0.0-beta.56](https://github.com/maxritter/pilot-shell/releases/tag/v12.0.0-beta.56), 3 days ago) - Professional context and harness engineering for Claude Code and OpenAI Codex. Build production-grade software with spec-driven development, TDD, persistent memory, quality gates, code intelligence, human oversight, and end-to-end verification.
 - [mavogel/mvc-projen](https://github.com/mavogel/mvc-projen) ([v0.0.60](https://github.com/mavogel/mvc-projen/releases/tag/v0.0.60), 3 days ago) - Projen templates for our projects
 
 #### ⭐ Recent Stars
@@ -39,9 +39,9 @@ I 💕 a good onboarding readme with good example.
 
 #### 👯 Check out some of my recent followers
 
+- [BEPb](https://github.com/BEPb)
 - [poormikey80-create](https://github.com/poormikey80-create)
 - [AtlantisDe](https://github.com/AtlantisDe)
-- [ashish-sumboo](https://github.com/ashish-sumboo)
 
 
 
