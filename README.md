@@ -15,19 +15,19 @@ I 💕 a good onboarding readme with good example.
 
 #### 👷 Check out what I'm currently working on
 
+- [mavogel/kirokit](https://github.com/mavogel/kirokit) - Simplified templating and sharing of kiro agent configs, steering files, skills and more (today)
 - [mavogel/homebrew-tap](https://github.com/mavogel/homebrew-tap) - My homebrew taps (today)
-- [mavogel/mvc-projen](https://github.com/mavogel/mvc-projen) - Projen templates for our projects (3 days ago)
 - [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (3 days ago)
 - [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) - Set up your own VSCode Server on AWS in under 10 minutes (3 days ago)
-- [mavogel/toolbox](https://github.com/mavogel/toolbox) - My toolbox container for debugging (1 week ago)
+- [mavogel/mvc-projen](https://github.com/mavogel/mvc-projen) - Projen templates for our projects (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [mavogel/kirokit](https://github.com/mavogel/kirokit) ([v0.1.1](https://github.com/mavogel/kirokit/releases/tag/v0.1.1), today) - Simplified templating and sharing of kiro agent configs, steering files, skills and more
 - [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v12.0.0-beta.57](https://github.com/maxritter/pilot-shell/releases/tag/v12.0.0-beta.57), today) - Professional context and harness engineering for Claude Code and OpenAI Codex. Build production-grade software with spec-driven development, TDD, persistent memory, quality gates, code intelligence, human oversight, and end-to-end verification.
 - [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) ([v0.1.10](https://github.com/mavogel/cdk-vscode-server/releases/tag/v0.1.10), today) - Set up your own VSCode Server on AWS in under 10 minutes
 - [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) ([v0.1.22](https://github.com/mavogel/awscdk-rootmail/releases/tag/v0.1.22), today) - An opinionated way to secure your AWS root email boxes
 - [mavogel/toolbox](https://github.com/mavogel/toolbox) ([v1.1.3](https://github.com/mavogel/toolbox/releases/tag/v1.1.3), 1 day ago) - My toolbox container for debugging
-- [mavogel/mvc-projen](https://github.com/mavogel/mvc-projen) ([v0.0.60](https://github.com/mavogel/mvc-projen/releases/tag/v0.0.60), 3 days ago) - Projen templates for our projects
 
 #### ⭐ Recent Stars
 
