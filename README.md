@@ -17,17 +17,17 @@ I 💕 a good onboarding readme with good example.
 
 - [mavogel/kirokit](https://github.com/mavogel/kirokit) - Simplified templating and sharing of kiro agent configs, steering files, skills and more (today)
 - [mavogel/homebrew-tap](https://github.com/mavogel/homebrew-tap) - My homebrew taps (1 day ago)
+- [mavogel/mvc-projen](https://github.com/mavogel/mvc-projen) - Projen templates for our projects (4 days ago)
 - [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (4 days ago)
 - [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) - Set up your own VSCode Server on AWS in under 10 minutes (4 days ago)
-- [mavogel/mvc-projen](https://github.com/mavogel/mvc-projen) - Projen templates for our projects (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [mavogel/mvc-projen](https://github.com/mavogel/mvc-projen) ([v0.0.61](https://github.com/mavogel/mvc-projen/releases/tag/v0.0.61), today) - Projen templates for our projects
 - [mavogel/kirokit](https://github.com/mavogel/kirokit) ([v0.2.0](https://github.com/mavogel/kirokit/releases/tag/v0.2.0), today) - Simplified templating and sharing of kiro agent configs, steering files, skills and more
 - [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) ([v0.1.23](https://github.com/mavogel/awscdk-rootmail/releases/tag/v0.1.23), today) - An opinionated way to secure your AWS root email boxes
 - [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v12.0.0-beta.57](https://github.com/maxritter/pilot-shell/releases/tag/v12.0.0-beta.57), 1 day ago) - Professional context and harness engineering for Claude Code and OpenAI Codex. Build production-grade software with spec-driven development, TDD, persistent memory, quality gates, code intelligence, human oversight, and end-to-end verification.
 - [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) ([v0.1.10](https://github.com/mavogel/cdk-vscode-server/releases/tag/v0.1.10), 1 day ago) - Set up your own VSCode Server on AWS in under 10 minutes
-- [mavogel/toolbox](https://github.com/mavogel/toolbox) ([v1.1.3](https://github.com/mavogel/toolbox/releases/tag/v1.1.3), 2 days ago) - My toolbox container for debugging
 
 #### ⭐ Recent Stars
 
