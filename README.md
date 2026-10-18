@@ -23,7 +23,7 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
-- [mavogel/kirokit](https://github.com/mavogel/kirokit) ([v0.3.0](https://github.com/mavogel/kirokit/releases/tag/v0.3.0), today) - Simplified templating and sharing of kiro agent configs, steering files, skills and more
+- [mavogel/kirokit](https://github.com/mavogel/kirokit) ([v0.4.0](https://github.com/mavogel/kirokit/releases/tag/v0.4.0), today) - Simplified templating and sharing of kiro agent configs, steering files, skills and more
 - [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) ([v0.1.12](https://github.com/mavogel/cdk-vscode-server/releases/tag/v0.1.12), today) - Set up your own VSCode Server on AWS in under 10 minutes
 - [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) ([v0.1.24](https://github.com/mavogel/awscdk-rootmail/releases/tag/v0.1.24), today) - An opinionated way to secure your AWS root email boxes
 - [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v12.0.0-beta.58](https://github.com/maxritter/pilot-shell/releases/tag/v12.0.0-beta.58), today) - Professional context and harness engineering for Claude Code and OpenAI Codex. Build production-grade software with spec-driven development, TDD, persistent memory, quality gates, code intelligence, human oversight, and end-to-end verification.
