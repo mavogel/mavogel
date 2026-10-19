@@ -15,7 +15,7 @@ I 💕 a good onboarding readme with good example.
 
 #### 👷 Check out what I'm currently working on
 
-- [mavogel/kirokit](https://github.com/mavogel/kirokit) - Simplified templating and sharing of kiro agent configs, steering files, skills and more (1 day ago)
+- [mavogel/kirokit](https://github.com/mavogel/kirokit) - Simplified templating and sharing of kiro agent configs, steering files, skills and more (today)
 - [mavogel/homebrew-tap](https://github.com/mavogel/homebrew-tap) - My homebrew taps (3 days ago)
 - [mavogel/mvc-projen](https://github.com/mavogel/mvc-projen) - Projen templates for our projects (6 days ago)
 - [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (6 days ago)
