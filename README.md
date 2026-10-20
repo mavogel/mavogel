@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust (today)
 - [achankra/peh](https://github.com/achankra/peh) - Packt Platform Engineer&#39;s Handbook (1 week ago)
 - [microsoft/apm](https://github.com/microsoft/apm) - Agent Package Manager (1 week ago)
 - [towardsthecloud/aws-toolbox](https://github.com/towardsthecloud/aws-toolbox) - Blazing fast aws cli tool that helps you automate routine tasks on AWS Cloud. (1 week ago)
 - [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) - Find leaked secrets everywhere. (2 weeks ago)
-- [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️  (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
