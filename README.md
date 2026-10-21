@@ -23,7 +23,7 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
-- [maxritter/qualitylayer](https://github.com/maxritter/qualitylayer) ([v11.0.9](https://github.com/maxritter/qualitylayer/releases/tag/v11.0.9), today) - Plan, build and review software with your coding agents. Work side by side in the App or browser, or use your favourite terminal or IDE.
+- [maxritter/qualitylayer](https://github.com/maxritter/qualitylayer) ([v12.0.0](https://github.com/maxritter/qualitylayer/releases/tag/v12.0.0), today) - Plan, build and review software with your coding agents. Work side by side in the App or browser, or use your favourite terminal or IDE.
 - [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) ([v0.1.16](https://github.com/mavogel/cdk-vscode-server/releases/tag/v0.1.16), today) - Set up your own VSCode Server on AWS in under 10 minutes
 - [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) ([v0.1.27](https://github.com/mavogel/awscdk-rootmail/releases/tag/v0.1.27), today) - An opinionated way to secure your AWS root email boxes
 - [mavogel/mvc-projen](https://github.com/mavogel/mvc-projen) ([v0.0.62](https://github.com/mavogel/mvc-projen/releases/tag/v0.0.62), 2 days ago) - Projen templates for our projects
