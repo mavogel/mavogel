@@ -23,9 +23,9 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
-- [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) ([v0.1.15](https://github.com/mavogel/cdk-vscode-server/releases/tag/v0.1.15), 1 day ago) - Set up your own VSCode Server on AWS in under 10 minutes
-- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v12.0.0-beta.60](https://github.com/maxritter/pilot-shell/releases/tag/v12.0.0-beta.60), 1 day ago) - Professional context and harness engineering for Claude Code and OpenAI Codex. Build production-grade software with spec-driven development, TDD, persistent memory, quality gates, code intelligence, human oversight, and end-to-end verification.
-- [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) ([v0.1.26](https://github.com/mavogel/awscdk-rootmail/releases/tag/v0.1.26), 1 day ago) - An opinionated way to secure your AWS root email boxes
+- [maxritter/pilot-shell](https://github.com/maxritter/pilot-shell) ([v12.0.0-beta.61](https://github.com/maxritter/pilot-shell/releases/tag/v12.0.0-beta.61), today) - Professional context and harness engineering for Claude Code and OpenAI Codex. Build production-grade software with spec-driven development, TDD, persistent memory, quality gates, code intelligence, human oversight, and end-to-end verification.
+- [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) ([v0.1.16](https://github.com/mavogel/cdk-vscode-server/releases/tag/v0.1.16), today) - Set up your own VSCode Server on AWS in under 10 minutes
+- [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) ([v0.1.27](https://github.com/mavogel/awscdk-rootmail/releases/tag/v0.1.27), today) - An opinionated way to secure your AWS root email boxes
 - [mavogel/mvc-projen](https://github.com/mavogel/mvc-projen) ([v0.0.62](https://github.com/mavogel/mvc-projen/releases/tag/v0.0.62), 2 days ago) - Projen templates for our projects
 - [mavogel/kirokit](https://github.com/mavogel/kirokit) ([v0.4.0](https://github.com/mavogel/kirokit/releases/tag/v0.4.0), 3 days ago) - Unofficial tool for simplified templating and sharing of kiro agent configs, steering files, skills and more
 
