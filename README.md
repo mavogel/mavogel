@@ -23,11 +23,11 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
+- [mavogel/mvc-projen](https://github.com/mavogel/mvc-projen) ([v0.0.63](https://github.com/mavogel/mvc-projen/releases/tag/v0.0.63), today) - Projen templates for our projects
 - [maxritter/qualitylayer](https://github.com/maxritter/qualitylayer) ([v12.2.0](https://github.com/maxritter/qualitylayer/releases/tag/v12.2.0), today) - Plan, build and review software with your coding agents. Work side by side in the App or browser, or use your favourite terminal or IDE.
 - [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) ([v0.1.20](https://github.com/mavogel/cdk-vscode-server/releases/tag/v0.1.20), today) - Set up your own VSCode Server on AWS in under 10 minutes
 - [mavogel/toolbox](https://github.com/mavogel/toolbox) ([v1.1.9](https://github.com/mavogel/toolbox/releases/tag/v1.1.9), 1 day ago) - My toolbox container for debugging
 - [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) ([v0.1.28](https://github.com/mavogel/awscdk-rootmail/releases/tag/v0.1.28), 1 day ago) - An opinionated way to secure your AWS root email boxes
-- [mavogel/mvc-projen](https://github.com/mavogel/mvc-projen) ([v0.0.62](https://github.com/mavogel/mvc-projen/releases/tag/v0.0.62), 5 days ago) - Projen templates for our projects
 
 #### ⭐ Recent Stars
 
