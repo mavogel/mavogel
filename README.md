@@ -16,10 +16,10 @@ I 💕 a good onboarding readme with good example.
 #### 👷 Check out what I'm currently working on
 
 - [mavogel/kirokit](https://github.com/mavogel/kirokit) - Unofficial tool for simplified templating and sharing of kiro agent configs, steering files, skills and more (today)
+- [mavogel/scoop-bucket](https://github.com/mavogel/scoop-bucket) - Bucket for windows installations (today)
 - [mavogel/toolbox](https://github.com/mavogel/toolbox) - My toolbox container for debugging (2 days ago)
 - [mavogel/homebrew-tap](https://github.com/mavogel/homebrew-tap) - My homebrew taps (1 week ago)
 - [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (1 week ago)
-- [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) - Set up your own VSCode Server on AWS in under 10 minutes (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
