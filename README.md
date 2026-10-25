@@ -26,8 +26,8 @@ I 💕 a good onboarding readme with good example.
 - [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) ([v0.1.22](https://github.com/mavogel/cdk-vscode-server/releases/tag/v0.1.22), today) - Set up your own VSCode Server on AWS in under 10 minutes
 - [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) ([v0.1.29](https://github.com/mavogel/awscdk-rootmail/releases/tag/v0.1.29), today) - An opinionated way to secure your AWS root email boxes
 - [mavogel/mvc-projen](https://github.com/mavogel/mvc-projen) ([v0.0.63](https://github.com/mavogel/mvc-projen/releases/tag/v0.0.63), 1 day ago) - Projen templates for our projects
-- [maxritter/qualitylayer](https://github.com/maxritter/qualitylayer) ([v12.2.0](https://github.com/maxritter/qualitylayer/releases/tag/v12.2.0), 1 day ago) - Plan, build and review software with your coding agents. Work side by side in the App or browser, or use your favourite terminal or IDE.
 - [mavogel/toolbox](https://github.com/mavogel/toolbox) ([v1.1.9](https://github.com/mavogel/toolbox/releases/tag/v1.1.9), 2 days ago) - My toolbox container for debugging
+- [mavogel/kirokit](https://github.com/mavogel/kirokit) ([v0.4.0](https://github.com/mavogel/kirokit/releases/tag/v0.4.0), 1 week ago) - Unofficial tool for simplified templating and sharing of kiro agent configs, steering files, skills and more
 
 #### ⭐ Recent Stars
 
