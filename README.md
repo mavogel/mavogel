@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [goss-org/goss](https://github.com/goss-org/goss) - Quick and Easy server testing/validation (today)
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust (5 days ago)
 - [achankra/peh](https://github.com/achankra/peh) - Packt Platform Engineer&#39;s Handbook (2 weeks ago)
 - [microsoft/apm](https://github.com/microsoft/apm) - Agent Package Manager (2 weeks ago)
 - [towardsthecloud/aws-toolbox](https://github.com/towardsthecloud/aws-toolbox) - Blazing fast aws cli tool that helps you automate routine tasks on AWS Cloud. (2 weeks ago)
-- [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) - Find leaked secrets everywhere. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
