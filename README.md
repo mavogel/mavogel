@@ -23,11 +23,11 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
+- [mavogel/kirokit](https://github.com/mavogel/kirokit) ([v0.6.0](https://github.com/mavogel/kirokit/releases/tag/v0.6.0), today) - Unofficial tool for simplified templating and sharing of kiro agent configs, steering files, skills and more
+- [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) ([v0.1.24](https://github.com/mavogel/cdk-vscode-server/releases/tag/v0.1.24), today) - Set up your own VSCode Server on AWS in under 10 minutes
+- [mavogel/mvc-projen](https://github.com/mavogel/mvc-projen) ([v0.0.67](https://github.com/mavogel/mvc-projen/releases/tag/v0.0.67), today) - Projen templates for our projects
 - [maxritter/qualitylayer](https://github.com/maxritter/qualitylayer) ([v12.3.0](https://github.com/maxritter/qualitylayer/releases/tag/v12.3.0), today) - Plan, build and review software with your coding agents. Work side by side in the App or browser, or use your favourite terminal or IDE.
-- [mavogel/kirokit](https://github.com/mavogel/kirokit) ([v0.5.0](https://github.com/mavogel/kirokit/releases/tag/v0.5.0), today) - Unofficial tool for simplified templating and sharing of kiro agent configs, steering files, skills and more
-- [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) ([v0.1.23](https://github.com/mavogel/cdk-vscode-server/releases/tag/v0.1.23), today) - Set up your own VSCode Server on AWS in under 10 minutes
 - [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) ([v0.1.29](https://github.com/mavogel/awscdk-rootmail/releases/tag/v0.1.29), 1 day ago) - An opinionated way to secure your AWS root email boxes
-- [mavogel/mvc-projen](https://github.com/mavogel/mvc-projen) ([v0.0.63](https://github.com/mavogel/mvc-projen/releases/tag/v0.0.63), 2 days ago) - Projen templates for our projects
 
 #### ⭐ Recent Stars
 
