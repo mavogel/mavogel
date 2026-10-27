@@ -15,7 +15,7 @@ I 💕 a good onboarding readme with good example.
 
 #### 👷 Check out what I'm currently working on
 
-- [mavogel/kirokit](https://github.com/mavogel/kirokit) - Unofficial tool for simplified templating and sharing of kiro agent configs, steering files, skills and more (1 day ago)
+- [mavogel/kirokit](https://github.com/mavogel/kirokit) - Unofficial tool for simplified templating and sharing of kiro agent configs, steering files, skills and more (today)
 - [mavogel/scoop-bucket](https://github.com/mavogel/scoop-bucket) - Bucket for windows installations (2 days ago)
 - [mavogel/toolbox](https://github.com/mavogel/toolbox) - My toolbox container for debugging (4 days ago)
 - [mavogel/homebrew-tap](https://github.com/mavogel/homebrew-tap) - My homebrew taps (1 week ago)
@@ -23,11 +23,11 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
+- [mavogel/kirokit](https://github.com/mavogel/kirokit) ([v0.8.0](https://github.com/mavogel/kirokit/releases/tag/v0.8.0), today) - Unofficial tool for simplified templating and sharing of kiro agent configs, steering files, skills and more
+- [maxritter/qualitylayer](https://github.com/maxritter/qualitylayer) ([v11.0.11](https://github.com/maxritter/qualitylayer/releases/tag/v11.0.11), today) - Plan, build and review software with your coding agents. Work side by side in the App or browser, or use your favourite terminal or IDE.
 - [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) ([v0.1.26](https://github.com/mavogel/cdk-vscode-server/releases/tag/v0.1.26), today) - Set up your own VSCode Server on AWS in under 10 minutes
 - [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) ([v0.1.30](https://github.com/mavogel/awscdk-rootmail/releases/tag/v0.1.30), today) - An opinionated way to secure your AWS root email boxes
-- [mavogel/kirokit](https://github.com/mavogel/kirokit) ([v0.7.0](https://github.com/mavogel/kirokit/releases/tag/v0.7.0), 1 day ago) - Unofficial tool for simplified templating and sharing of kiro agent configs, steering files, skills and more
 - [mavogel/mvc-projen](https://github.com/mavogel/mvc-projen) ([v0.0.67](https://github.com/mavogel/mvc-projen/releases/tag/v0.0.67), 1 day ago) - Projen templates for our projects
-- [mavogel/toolbox](https://github.com/mavogel/toolbox) ([v1.1.9](https://github.com/mavogel/toolbox/releases/tag/v1.1.9), 4 days ago) - My toolbox container for debugging
 
 #### ⭐ Recent Stars
 
