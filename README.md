@@ -23,19 +23,19 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
-- [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) ([v0.1.31](https://github.com/mavogel/cdk-vscode-server/releases/tag/v0.1.31), 1 day ago) - Set up your own VSCode Server on AWS in under 10 minutes
-- [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) ([v0.1.35](https://github.com/mavogel/awscdk-rootmail/releases/tag/v0.1.35), 1 day ago) - An opinionated way to secure your AWS root email boxes
+- [maxritter/qualitylayer](https://github.com/maxritter/qualitylayer) ([v12.7.0](https://github.com/maxritter/qualitylayer/releases/tag/v12.7.0), today) - Plan, build and review software with your coding agents. Work side by side in the App or browser, or use your favourite terminal or IDE.
+- [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) ([v0.1.32](https://github.com/mavogel/cdk-vscode-server/releases/tag/v0.1.32), today) - Set up your own VSCode Server on AWS in under 10 minutes
+- [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) ([v0.1.36](https://github.com/mavogel/awscdk-rootmail/releases/tag/v0.1.36), today) - An opinionated way to secure your AWS root email boxes
 - [mavogel/kirokit](https://github.com/mavogel/kirokit) ([v0.9.0](https://github.com/mavogel/kirokit/releases/tag/v0.9.0), 2 days ago) - Unofficial tool for simplified templating and sharing of kiro agent configs, steering files, skills and more
 - [mavogel/toolbox](https://github.com/mavogel/toolbox) ([v1.1.10](https://github.com/mavogel/toolbox/releases/tag/v1.1.10), 3 days ago) - My toolbox container for debugging
-- [mavogel/mvc-projen](https://github.com/mavogel/mvc-projen) ([v0.0.67](https://github.com/mavogel/mvc-projen/releases/tag/v0.0.67), 5 days ago) - Projen templates for our projects
 
 #### ⭐ Recent Stars
 
+- [cmagnussen/blitztext-app](https://github.com/cmagnussen/blitztext-app) - Local-first dictation for macOS. Speak, text, done. Parakeet or Whisper on your Mac, writing modes with Apple Intelligence. Free, MIT. (today)
 - [goss-org/goss](https://github.com/goss-org/goss) - Quick and Easy server testing/validation (6 days ago)
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust (1 week ago)
 - [achankra/peh](https://github.com/achankra/peh) - Packt Platform Engineer&#39;s Handbook (3 weeks ago)
 - [microsoft/apm](https://github.com/microsoft/apm) - Agent Package Manager (3 weeks ago)
-- [towardsthecloud/aws-toolbox](https://github.com/towardsthecloud/aws-toolbox) - Blazing fast aws cli tool that helps you automate routine tasks on AWS Cloud. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
