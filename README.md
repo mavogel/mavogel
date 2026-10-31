@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [heydamir/unslop](https://github.com/heydamir/unslop) - A Claude skill that turns vibecoded, AI-looking UI into a designed interface (today)
 - [cmagnussen/blitztext-app](https://github.com/cmagnussen/blitztext-app) - Local-first dictation for macOS. Speak, text, done. Parakeet or Whisper on your Mac, writing modes with Apple Intelligence. Free, MIT. (today)
 - [goss-org/goss](https://github.com/goss-org/goss) - Quick and Easy server testing/validation (6 days ago)
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust (1 week ago)
 - [achankra/peh](https://github.com/achankra/peh) - Packt Platform Engineer&#39;s Handbook (3 weeks ago)
-- [microsoft/apm](https://github.com/microsoft/apm) - Agent Package Manager (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
