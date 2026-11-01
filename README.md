@@ -23,8 +23,8 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
+- [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) ([v0.1.34](https://github.com/mavogel/cdk-vscode-server/releases/tag/v0.1.34), today) - Set up your own VSCode Server on AWS in under 10 minutes
 - [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) ([v0.1.37](https://github.com/mavogel/awscdk-rootmail/releases/tag/v0.1.37), today) - An opinionated way to secure your AWS root email boxes
-- [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) ([v0.1.33](https://github.com/mavogel/cdk-vscode-server/releases/tag/v0.1.33), today) - Set up your own VSCode Server on AWS in under 10 minutes
 - [mavogel/mvc-projen](https://github.com/mavogel/mvc-projen) ([v0.0.68](https://github.com/mavogel/mvc-projen/releases/tag/v0.0.68), 1 day ago) - Projen templates for our projects
 - [mavogel/kirokit](https://github.com/mavogel/kirokit) ([v0.9.0](https://github.com/mavogel/kirokit/releases/tag/v0.9.0), 3 days ago) - Unofficial tool for simplified templating and sharing of kiro agent configs, steering files, skills and more
 - [mavogel/toolbox](https://github.com/mavogel/toolbox) ([v1.1.10](https://github.com/mavogel/toolbox/releases/tag/v1.1.10), 4 days ago) - My toolbox container for debugging
