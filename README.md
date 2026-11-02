@@ -15,24 +15,24 @@ I 💕 a good onboarding readme with good example.
 
 #### 👷 Check out what I'm currently working on
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified (today)
-- [mavogel/kirokit](https://github.com/mavogel/kirokit) - Unofficial tool for simplified templating and sharing of kiro agent configs, steering files, skills and more (3 days ago)
-- [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (4 days ago)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified (1 day ago)
+- [mavogel/kirokit](https://github.com/mavogel/kirokit) - Unofficial tool for simplified templating and sharing of kiro agent configs, steering files, skills and more (4 days ago)
+- [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (5 days ago)
 - [mavogel/scoop-bucket](https://github.com/mavogel/scoop-bucket) - Bucket for windows installations (1 week ago)
 - [mavogel/toolbox](https://github.com/mavogel/toolbox) - My toolbox container for debugging (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) ([v0.1.34](https://github.com/mavogel/cdk-vscode-server/releases/tag/v0.1.34), today) - Set up your own VSCode Server on AWS in under 10 minutes
-- [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) ([v0.1.37](https://github.com/mavogel/awscdk-rootmail/releases/tag/v0.1.37), today) - An opinionated way to secure your AWS root email boxes
-- [mavogel/mvc-projen](https://github.com/mavogel/mvc-projen) ([v0.0.68](https://github.com/mavogel/mvc-projen/releases/tag/v0.0.68), 1 day ago) - Projen templates for our projects
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.20.0-538a99ed-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.20.0-538a99ed-nightly), 2 days ago) - Release engineering, simplified
-- [mavogel/kirokit](https://github.com/mavogel/kirokit) ([v0.9.0](https://github.com/mavogel/kirokit/releases/tag/v0.9.0), 3 days ago) - Unofficial tool for simplified templating and sharing of kiro agent configs, steering files, skills and more
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.20.0-3d5c3a2e-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.20.0-3d5c3a2e-nightly), today) - Release engineering, simplified
+- [mavogel/kirokit](https://github.com/mavogel/kirokit) ([v0.9.1](https://github.com/mavogel/kirokit/releases/tag/v0.9.1), today) - Unofficial tool for simplified templating and sharing of kiro agent configs, steering files, skills and more
+- [maxritter/qualitylayer](https://github.com/maxritter/qualitylayer) ([v12.8.0](https://github.com/maxritter/qualitylayer/releases/tag/v12.8.0), 1 day ago) - Plan, build and review software with your coding agents. Work side by side in the App or browser, or use your favourite terminal or IDE.
+- [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) ([v0.1.34](https://github.com/mavogel/cdk-vscode-server/releases/tag/v0.1.34), 1 day ago) - Set up your own VSCode Server on AWS in under 10 minutes
+- [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) ([v0.1.37](https://github.com/mavogel/awscdk-rootmail/releases/tag/v0.1.37), 1 day ago) - An opinionated way to secure your AWS root email boxes
 
 #### ⭐ Recent Stars
 
-- [heydamir/unslop](https://github.com/heydamir/unslop) - A Claude skill that turns vibecoded, AI-looking UI into a designed interface (1 day ago)
-- [cmagnussen/blitztext-app](https://github.com/cmagnussen/blitztext-app) - Local-first dictation for macOS. Speak, text, done. Parakeet or Whisper on your Mac, writing modes with Apple Intelligence. Free, MIT. (1 day ago)
+- [heydamir/unslop](https://github.com/heydamir/unslop) - A Claude skill that turns vibecoded, AI-looking UI into a designed interface (2 days ago)
+- [cmagnussen/blitztext-app](https://github.com/cmagnussen/blitztext-app) - Local-first dictation for macOS. Speak, text, done. Parakeet or Whisper on your Mac, writing modes with Apple Intelligence. Free, MIT. (2 days ago)
 - [goss-org/goss](https://github.com/goss-org/goss) - Quick and Easy server testing/validation (1 week ago)
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust (1 week ago)
 - [achankra/peh](https://github.com/achankra/peh) - Packt Platform Engineer&#39;s Handbook (3 weeks ago)
