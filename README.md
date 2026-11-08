@@ -15,7 +15,7 @@ I 💕 a good onboarding readme with good example.
 
 #### 👷 Check out what I'm currently working on
 
-- [mavogel/kirokit](https://github.com/mavogel/kirokit) - Unofficial tool for simplified templating and sharing of kiro agent configs, steering files, skills and more (4 days ago)
+- [mavogel/kirokit](https://github.com/mavogel/kirokit) - ⚠️ Unofficial tool for simplified templating and sharing of kiro agent configs, steering files, skills and more (4 days ago)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified (1 week ago)
 - [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (1 week ago)
 - [mavogel/scoop-bucket](https://github.com/mavogel/scoop-bucket) - Bucket for windows installations (2 weeks ago)
@@ -27,7 +27,7 @@ I 💕 a good onboarding readme with good example.
 - [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) ([v0.1.41](https://github.com/mavogel/cdk-vscode-server/releases/tag/v0.1.41), 1 day ago) - Set up your own VSCode Server on AWS in under 10 minutes
 - [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) ([v0.1.41](https://github.com/mavogel/awscdk-rootmail/releases/tag/v0.1.41), 1 day ago) - An opinionated way to secure your AWS root email boxes
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.21.0-2c336825-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.21.0-2c336825-nightly), 2 days ago) - Release engineering, simplified
-- [mavogel/kirokit](https://github.com/mavogel/kirokit) ([v0.9.2](https://github.com/mavogel/kirokit/releases/tag/v0.9.2), 4 days ago) - Unofficial tool for simplified templating and sharing of kiro agent configs, steering files, skills and more
+- [mavogel/kirokit](https://github.com/mavogel/kirokit) ([v0.9.2](https://github.com/mavogel/kirokit/releases/tag/v0.9.2), 4 days ago) - ⚠️ Unofficial tool for simplified templating and sharing of kiro agent configs, steering files, skills and more
 
 #### ⭐ Recent Stars
 
