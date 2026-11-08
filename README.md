@@ -23,7 +23,7 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
-- [maxritter/qualitylayer](https://github.com/maxritter/qualitylayer) ([v13.0.0](https://github.com/maxritter/qualitylayer/releases/tag/v13.0.0), 1 day ago) - Plan, build and review software with your coding agents. Work side by side in the App or browser, or use your favourite terminal or IDE.
+- [maxritter/qualitylayer](https://github.com/maxritter/qualitylayer) ([v12.99.0](https://github.com/maxritter/qualitylayer/releases/tag/v12.99.0), today) - Plan, build and review software with your coding agents. Work side by side in the App or browser, or use your favourite terminal or IDE.
 - [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) ([v0.1.41](https://github.com/mavogel/cdk-vscode-server/releases/tag/v0.1.41), 1 day ago) - Set up your own VSCode Server on AWS in under 10 minutes
 - [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) ([v0.1.41](https://github.com/mavogel/awscdk-rootmail/releases/tag/v0.1.41), 1 day ago) - An opinionated way to secure your AWS root email boxes
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.21.0-2c336825-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.21.0-2c336825-nightly), 2 days ago) - Release engineering, simplified
@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - The best open-source alternative to Superwhisper &amp; Wispr Flow. Voice-to-text app for macOS with no subscription (today)
 - [heydamir/unslop](https://github.com/heydamir/unslop) - A Claude skill that turns vibecoded, AI-looking UI into a designed interface (1 week ago)
 - [cmagnussen/blitztext-app](https://github.com/cmagnussen/blitztext-app) - Local-first dictation for macOS. Speak, text, done. Parakeet or Whisper on your Mac, writing modes with Apple Intelligence. Free, MIT. (1 week ago)
 - [goss-org/goss](https://github.com/goss-org/goss) - Quick and Easy server testing/validation (2 weeks ago)
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust (2 weeks ago)
-- [achankra/peh](https://github.com/achankra/peh) - Packt Platform Engineer&#39;s Handbook (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
