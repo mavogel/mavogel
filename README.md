@@ -23,8 +23,8 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
-- [maxritter/qualitylayer](https://github.com/maxritter/qualitylayer) ([v12.99.0](https://github.com/maxritter/qualitylayer/releases/tag/v12.99.0), 1 day ago) - Plan, build and review software with your coding agents. Work side by side in the App or browser, or use your favourite terminal or IDE.
-- [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) ([v0.1.41](https://github.com/mavogel/cdk-vscode-server/releases/tag/v0.1.41), 2 days ago) - Set up your own VSCode Server on AWS in under 10 minutes
+- [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) ([v0.1.42](https://github.com/mavogel/cdk-vscode-server/releases/tag/v0.1.42), today) - Set up your own VSCode Server on AWS in under 10 minutes
+- [maxritter/qualitylayer](https://github.com/maxritter/qualitylayer) ([v13.0.1](https://github.com/maxritter/qualitylayer/releases/tag/v13.0.1), today) - Plan, build and review software with your coding agents. Work side by side in the App or browser, or use your favourite terminal or IDE.
 - [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) ([v0.1.41](https://github.com/mavogel/awscdk-rootmail/releases/tag/v0.1.41), 2 days ago) - An opinionated way to secure your AWS root email boxes
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.21.0-2c336825-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.21.0-2c336825-nightly), 3 days ago) - Release engineering, simplified
 - [mavogel/kirokit](https://github.com/mavogel/kirokit) ([v0.9.2](https://github.com/mavogel/kirokit/releases/tag/v0.9.2), 5 days ago) - ⚠️ Unofficial tool for simplified templating and sharing of kiro agent configs, steering files, skills and more
