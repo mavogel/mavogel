@@ -31,11 +31,11 @@ I 💕 a good onboarding readme with good example.
 
 #### ⭐ Recent Stars
 
+- [aws-samples/sample-eks-nitro-sandbox](https://github.com/aws-samples/sample-eks-nitro-sandbox) - AWS Nitro Sandbox on EKS Blueprints (today)
 - [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - The best open-source alternative to Superwhisper &amp; Wispr Flow. Voice-to-text app for macOS with no subscription (2 days ago)
 - [heydamir/unslop](https://github.com/heydamir/unslop) - A Claude skill that turns vibecoded, AI-looking UI into a designed interface (1 week ago)
 - [cmagnussen/blitztext-app](https://github.com/cmagnussen/blitztext-app) - Local-first dictation for macOS. Speak, text, done. Parakeet or Whisper on your Mac, writing modes with Apple Intelligence. Free, MIT. (1 week ago)
 - [goss-org/goss](https://github.com/goss-org/goss) - Quick and Easy server testing/validation (2 weeks ago)
-- [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
