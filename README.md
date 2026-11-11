@@ -39,9 +39,9 @@ I 💕 a good onboarding readme with good example.
 
 #### 👯 Check out some of my recent followers
 
-- [poormikey80-create](https://github.com/poormikey80-create)
 - [kpopdev](https://github.com/kpopdev)
 - [AtlantisDe](https://github.com/AtlantisDe)
+- [ashish-sumboo](https://github.com/ashish-sumboo)
 
 
 
