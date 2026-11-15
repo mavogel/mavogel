@@ -15,25 +15,25 @@ I 💕 a good onboarding readme with good example.
 
 #### 👷 Check out what I'm currently working on
 
+- [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) - Set up your own VSCode Server on AWS in under 10 minutes (1 day ago)
 - [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (1 day ago)
 - [mavogel/kirokit](https://github.com/mavogel/kirokit) - ⚠️ Unofficial tool for simplified templating and sharing of kiro agent configs, steering files, skills and more (1 week ago)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified (1 week ago)
-- [mavogel/scoop-bucket](https://github.com/mavogel/scoop-bucket) - Bucket for windows installations (2 weeks ago)
-- [mavogel/toolbox](https://github.com/mavogel/toolbox) - My toolbox container for debugging (3 weeks ago)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified (2 weeks ago)
+- [mavogel/scoop-bucket](https://github.com/mavogel/scoop-bucket) - Bucket for windows installations (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) ([v0.1.52](https://github.com/mavogel/cdk-vscode-server/releases/tag/v0.1.52), today) - Set up your own VSCode Server on AWS in under 10 minutes
-- [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) ([v0.1.49](https://github.com/mavogel/awscdk-rootmail/releases/tag/v0.1.49), today) - An opinionated way to secure your AWS root email boxes
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.21.0-8128d878-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.21.0-8128d878-nightly), 1 day ago) - Release engineering, simplified
-- [mavogel/mvc-projen](https://github.com/mavogel/mvc-projen) ([v0.0.75](https://github.com/mavogel/mvc-projen/releases/tag/v0.0.75), 5 days ago) - Projen templates for our projects
+- [mavogel/mvc-projen](https://github.com/mavogel/mvc-projen) ([v0.0.76](https://github.com/mavogel/mvc-projen/releases/tag/v0.0.76), 1 day ago) - Projen templates for our projects
+- [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) ([v0.1.50](https://github.com/mavogel/awscdk-rootmail/releases/tag/v0.1.50), 1 day ago) - An opinionated way to secure your AWS root email boxes
+- [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) ([v0.1.53](https://github.com/mavogel/cdk-vscode-server/releases/tag/v0.1.53), 1 day ago) - Set up your own VSCode Server on AWS in under 10 minutes
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.21.0-8128d878-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.21.0-8128d878-nightly), 2 days ago) - Release engineering, simplified
 - [mavogel/kirokit](https://github.com/mavogel/kirokit) ([v0.9.2](https://github.com/mavogel/kirokit/releases/tag/v0.9.2), 1 week ago) - ⚠️ Unofficial tool for simplified templating and sharing of kiro agent configs, steering files, skills and more
 
 #### ⭐ Recent Stars
 
-- [AikidoSec/safe-chain](https://github.com/AikidoSec/safe-chain) - Protect against malicious code installed via npm, yarn, pnpm, npx, pnpx, pip, uv and poetry with Aikido Safe Chain. Free to use, no tokens required. (1 day ago)
-- [aws-samples/sample-eks-nitro-sandbox](https://github.com/aws-samples/sample-eks-nitro-sandbox) - AWS Nitro Sandbox on EKS Blueprints (4 days ago)
-- [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - The best open-source alternative to Superwhisper &amp; Wispr Flow. Voice-to-text app for macOS with no subscription (6 days ago)
+- [AikidoSec/safe-chain](https://github.com/AikidoSec/safe-chain) - Protect against malicious code installed via npm, yarn, pnpm, npx, pnpx, pip, uv and poetry with Aikido Safe Chain. Free to use, no tokens required. (2 days ago)
+- [aws-samples/sample-eks-nitro-sandbox](https://github.com/aws-samples/sample-eks-nitro-sandbox) - AWS Nitro Sandbox on EKS Blueprints (5 days ago)
+- [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - The best open-source alternative to Superwhisper &amp; Wispr Flow. Voice-to-text app for macOS with no subscription (1 week ago)
 - [heydamir/unslop](https://github.com/heydamir/unslop) - A Claude skill that turns vibecoded, AI-looking UI into a designed interface (2 weeks ago)
 - [cmagnussen/blitztext-app](https://github.com/cmagnussen/blitztext-app) - Local-first dictation for macOS. Speak, text, done. Parakeet or Whisper on your Mac, writing modes with Apple Intelligence. Free, MIT. (2 weeks ago)
 
