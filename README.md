@@ -23,10 +23,10 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
-- [maxritter/qualitylayer](https://github.com/maxritter/qualitylayer) ([v14.3.4](https://github.com/maxritter/qualitylayer/releases/tag/v14.3.4), 1 day ago) - Plan, implement and verify software with your favorite coding agents. Work in the App or browser, or in your own terminal, IDE or agent app.
-- [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) ([v0.1.67](https://github.com/mavogel/cdk-vscode-server/releases/tag/v0.1.67), 1 day ago) - Set up your own VSCode Server on AWS in under 10 minutes
+- [mavogel/mvc-projen](https://github.com/mavogel/mvc-projen) ([v0.0.82](https://github.com/mavogel/mvc-projen/releases/tag/v0.0.82), today) - Projen templates for our projects
+- [maxritter/qualitylayer](https://github.com/maxritter/qualitylayer) ([v14.4.0](https://github.com/maxritter/qualitylayer/releases/tag/v14.4.0), today) - Plan, implement and verify software with your favorite coding agents. Work in the App or browser, or in your own terminal, IDE or agent app.
+- [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) ([v0.1.68](https://github.com/mavogel/cdk-vscode-server/releases/tag/v0.1.68), today) - Set up your own VSCode Server on AWS in under 10 minutes
 - [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) ([v0.1.58](https://github.com/mavogel/awscdk-rootmail/releases/tag/v0.1.58), 1 day ago) - An opinionated way to secure your AWS root email boxes
-- [mavogel/mvc-projen](https://github.com/mavogel/mvc-projen) ([v0.0.80](https://github.com/mavogel/mvc-projen/releases/tag/v0.0.80), 2 days ago) - Projen templates for our projects
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.21.0-2daa40a4-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.21.0-2daa40a4-nightly), 2 days ago) - Release engineering, simplified
 
 #### ⭐ Recent Stars
