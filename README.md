@@ -23,11 +23,11 @@ I 💕 a good onboarding readme with good example.
 
 #### 🔭 Latest releases I've contributed to
 
-- [maxritter/qualitylayer](https://github.com/maxritter/qualitylayer) ([v14.6.0](https://github.com/maxritter/qualitylayer/releases/tag/v14.6.0), 1 day ago) - Plan, implement and verify software with your favorite coding agents. Work in the App or browser, or in your own terminal, IDE or agent app.
 - [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) ([v0.1.72](https://github.com/mavogel/cdk-vscode-server/releases/tag/v0.1.72), 1 day ago) - Set up your own VSCode Server on AWS in under 10 minutes
 - [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) ([v0.1.61](https://github.com/mavogel/awscdk-rootmail/releases/tag/v0.1.61), 1 day ago) - An opinionated way to secure your AWS root email boxes
 - [mavogel/toolbox](https://github.com/mavogel/toolbox) ([v1.1.16](https://github.com/mavogel/toolbox/releases/tag/v1.1.16), 1 day ago) - My toolbox container for debugging
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.21.0-aafac388-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.21.0-aafac388-nightly), 1 day ago) - Release engineering, simplified
+- [mavogel/mvc-projen](https://github.com/mavogel/mvc-projen) ([v0.0.83](https://github.com/mavogel/mvc-projen/releases/tag/v0.0.83), 4 days ago) - Projen templates for our projects
 
 #### ⭐ Recent Stars
 
