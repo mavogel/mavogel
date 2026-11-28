@@ -15,19 +15,19 @@ I 💕 a good onboarding readme with good example.
 
 #### 👷 Check out what I'm currently working on
 
-- [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) - Set up your own VSCode Server on AWS in under 10 minutes (1 week ago)
-- [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (1 week ago)
+- [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) - Set up your own VSCode Server on AWS in under 10 minutes (2 weeks ago)
+- [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) - An opinionated way to secure your AWS root email boxes (2 weeks ago)
 - [mavogel/kirokit](https://github.com/mavogel/kirokit) - ⚠️ Unofficial tool for simplified templating and sharing of kiro agent configs, steering files, skills and more (3 weeks ago)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified (3 weeks ago)
 - [mavogel/scoop-bucket](https://github.com/mavogel/scoop-bucket) - Bucket for windows installations (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [maxritter/qualitylayer](https://github.com/maxritter/qualitylayer) ([v14.7.0](https://github.com/maxritter/qualitylayer/releases/tag/v14.7.0), today) - Plan, implement and verify software with your favorite coding agents. Work in the App or browser, or in your own terminal, IDE or agent app.
-- [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) ([v0.1.72](https://github.com/mavogel/cdk-vscode-server/releases/tag/v0.1.72), 1 day ago) - Set up your own VSCode Server on AWS in under 10 minutes
-- [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) ([v0.1.61](https://github.com/mavogel/awscdk-rootmail/releases/tag/v0.1.61), 1 day ago) - An opinionated way to secure your AWS root email boxes
-- [mavogel/toolbox](https://github.com/mavogel/toolbox) ([v1.1.16](https://github.com/mavogel/toolbox/releases/tag/v1.1.16), 1 day ago) - My toolbox container for debugging
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.21.0-aafac388-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.21.0-aafac388-nightly), 1 day ago) - Release engineering, simplified
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.21.0-72df2a65-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.21.0-72df2a65-nightly), today) - Release engineering, simplified
+- [maxritter/qualitylayer](https://github.com/maxritter/qualitylayer) ([v14.7.0](https://github.com/maxritter/qualitylayer/releases/tag/v14.7.0), 1 day ago) - Plan, implement and verify software with your favorite coding agents. Work in the App or browser, or in your own terminal, IDE or agent app.
+- [mavogel/cdk-vscode-server](https://github.com/mavogel/cdk-vscode-server) ([v0.1.72](https://github.com/mavogel/cdk-vscode-server/releases/tag/v0.1.72), 2 days ago) - Set up your own VSCode Server on AWS in under 10 minutes
+- [mavogel/awscdk-rootmail](https://github.com/mavogel/awscdk-rootmail) ([v0.1.61](https://github.com/mavogel/awscdk-rootmail/releases/tag/v0.1.61), 2 days ago) - An opinionated way to secure your AWS root email boxes
+- [mavogel/toolbox](https://github.com/mavogel/toolbox) ([v1.1.16](https://github.com/mavogel/toolbox/releases/tag/v1.1.16), 2 days ago) - My toolbox container for debugging
 
 #### ⭐ Recent Stars
 
@@ -35,7 +35,7 @@ I 💕 a good onboarding readme with good example.
 - [AikidoSec/safe-chain](https://github.com/AikidoSec/safe-chain) - Protect against malicious code installed via npm, yarn, pnpm, npx, pnpx, pip, uv and poetry with Aikido Safe Chain. Free to use, no tokens required. (2 weeks ago)
 - [aws-samples/sample-eks-nitro-sandbox](https://github.com/aws-samples/sample-eks-nitro-sandbox) - AWS Nitro Sandbox on EKS Blueprints (2 weeks ago)
 - [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - The best open-source alternative to Superwhisper &amp; Wispr Flow. Voice-to-text app for macOS with no subscription (2 weeks ago)
-- [heydamir/unslop](https://github.com/heydamir/unslop) - A Claude skill that turns vibecoded, AI-looking UI into a designed interface (3 weeks ago)
+- [heydamir/unslop](https://github.com/heydamir/unslop) - A Claude skill that turns vibecoded, AI-looking UI into a designed interface (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
